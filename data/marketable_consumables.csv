@@ -1,0 +1,2322 @@
+ID,Icon,Name,Url,UrlType,_,_Score
+4551,/i/020000/020601.png,Potion,/Item/4551,Item,item,0
+4552,/i/020000/020602.png,Hi-Potion,/Item/4552,Item,item,0
+4553,/i/020000/020603.png,Mega-Potion,/Item/4553,Item,item,0
+4554,/i/020000/020603.png,X-Potion,/Item/4554,Item,item,0
+4555,/i/020000/020621.png,Ether,/Item/4555,Item,item,0
+4556,/i/020000/020622.png,Hi-Ether,/Item/4556,Item,item,0
+4557,/i/020000/020623.png,Mega-Ether,/Item/4557,Item,item,0
+4558,/i/020000/020623.png,X-Ether,/Item/4558,Item,item,0
+4559,/i/020000/020624.png,Elixir,/Item/4559,Item,item,0
+4560,/i/020000/020625.png,Hi-Elixir,/Item/4560,Item,item,0
+4564,/i/020000/020641.png,Antidote,/Item/4564,Item,item,0
+4565,/i/020000/020642.png,Eye Drops,/Item/4565,Item,item,0
+4566,/i/020000/020643.png,Echo Drops,/Item/4566,Item,item,0
+4567,/i/020000/020644.png,Smelling Salts,/Item/4567,Item,item,0
+4568,/i/020000/020645.png,Spine Drops,/Item/4568,Item,item,0
+4569,/i/020000/020648.png,Gold Needle,/Item/4569,Item,item,0
+4570,/i/020000/020650.png,Phoenix Down,/Item/4570,Item,item,0
+4574,/i/020000/020681.png,Weak Poisoning Potion,/Item/4574,Item,item,0
+4575,/i/020000/020685.png,Weak Blinding Potion,/Item/4575,Item,item,0
+4576,/i/020000/020684.png,Weak Silencing Potion,/Item/4576,Item,item,0
+4577,/i/020000/020683.png,Weak Sleeping Potion,/Item/4577,Item,item,0
+4578,/i/020000/020682.png,Weak Paralyzing Potion,/Item/4578,Item,item,0
+4579,/i/020000/020681.png,Poisoning Potion,/Item/4579,Item,item,0
+4580,/i/020000/020685.png,Blinding Potion,/Item/4580,Item,item,0
+4581,/i/020000/020684.png,Silencing Potion,/Item/4581,Item,item,0
+4582,/i/020000/020683.png,Sleeping Potion,/Item/4582,Item,item,0
+4583,/i/020000/020682.png,Paralyzing Potion,/Item/4583,Item,item,0
+4584,/i/020000/020681.png,Potent Poisoning Potion,/Item/4584,Item,item,0
+4585,/i/020000/020685.png,Potent Blinding Potion,/Item/4585,Item,item,0
+4586,/i/020000/020684.png,Potent Silencing Potion,/Item/4586,Item,item,0
+4587,/i/020000/020683.png,Potent Sleeping Potion,/Item/4587,Item,item,0
+4588,/i/020000/020682.png,Potent Paralyzing Potion,/Item/4588,Item,item,0
+4594,/i/020000/020665.png,Potion of Strength,/Item/4594,Item,item,0
+4595,/i/020000/020667.png,Potion of Dexterity,/Item/4595,Item,item,0
+4596,/i/020000/020666.png,Potion of Vitality,/Item/4596,Item,item,0
+4597,/i/020000/020668.png,Potion of Intelligence,/Item/4597,Item,item,0
+4598,/i/020000/020669.png,Potion of Mind,/Item/4598,Item,item,0
+4599,/i/020000/020665.png,Hi-Potion of Strength,/Item/4599,Item,item,0
+4600,/i/020000/020667.png,Hi-Potion of Dexterity,/Item/4600,Item,item,0
+4601,/i/020000/020666.png,Hi-Potion of Vitality,/Item/4601,Item,item,0
+4602,/i/020000/020668.png,Hi-Potion of Intelligence,/Item/4602,Item,item,0
+4603,/i/020000/020669.png,Hi-Potion of Mind,/Item/4603,Item,item,0
+4604,/i/020000/020665.png,Mega-Potion of Strength,/Item/4604,Item,item,0
+4605,/i/020000/020667.png,Mega-Potion of Dexterity,/Item/4605,Item,item,0
+4606,/i/020000/020666.png,Mega-Potion of Vitality,/Item/4606,Item,item,0
+4607,/i/020000/020668.png,Mega-Potion of Intelligence,/Item/4607,Item,item,0
+4608,/i/020000/020669.png,Mega-Potion of Mind,/Item/4608,Item,item,0
+4609,/i/020000/020665.png,X-Potion of Strength,/Item/4609,Item,item,0
+4610,/i/020000/020667.png,X-Potion of Dexterity,/Item/4610,Item,item,0
+4611,/i/020000/020666.png,X-Potion of Vitality,/Item/4611,Item,item,0
+4612,/i/020000/020668.png,X-Potion of Intelligence,/Item/4612,Item,item,0
+4613,/i/020000/020669.png,X-Potion of Mind,/Item/4613,Item,item,0
+4614,/i/020000/020670.png,Fire Ward Potion,/Item/4614,Item,item,0
+4615,/i/020000/020675.png,Ice Ward Potion,/Item/4615,Item,item,0
+4616,/i/020000/020672.png,Wind Ward Potion,/Item/4616,Item,item,0
+4617,/i/020000/020673.png,Earth Ward Potion,/Item/4617,Item,item,0
+4618,/i/020000/020674.png,Lightning Ward Potion,/Item/4618,Item,item,0
+4619,/i/020000/020671.png,Water Ward Potion,/Item/4619,Item,item,0
+4620,/i/020000/020670.png,Fire Ward Hi-Potion,/Item/4620,Item,item,0
+4621,/i/020000/020675.png,Ice Ward Hi-Potion,/Item/4621,Item,item,0
+4622,/i/020000/020672.png,Wind Ward Hi-Potion,/Item/4622,Item,item,0
+4623,/i/020000/020673.png,Earth Ward Hi-Potion,/Item/4623,Item,item,0
+4624,/i/020000/020674.png,Lightning Ward Hi-Potion,/Item/4624,Item,item,0
+4625,/i/020000/020671.png,Water Ward Hi-Potion,/Item/4625,Item,item,0
+4626,/i/020000/020670.png,Fire Ward Mega-Potion,/Item/4626,Item,item,0
+4627,/i/020000/020675.png,Ice Ward Mega-Potion,/Item/4627,Item,item,0
+4628,/i/020000/020672.png,Wind Ward Mega-Potion,/Item/4628,Item,item,0
+4629,/i/020000/020673.png,Earth Ward Mega-Potion,/Item/4629,Item,item,0
+4630,/i/020000/020674.png,Lightning Ward Mega-Potion,/Item/4630,Item,item,0
+4631,/i/020000/020671.png,Water Ward Mega-Potion,/Item/4631,Item,item,0
+4638,/i/020000/020664.png,Over-aspected Crystal,/Item/4638,Item,item,0
+4639,/i/024000/024355.png,Marmot Steak,/Item/4639,Item,item,0
+4640,/i/024000/024352.png,Grilled Dodo,/Item/4640,Item,item,0
+4641,/i/024000/024356.png,Mole Loaf,/Item/4641,Item,item,0
+4642,/i/024000/024351.png,Meat Miq'abob,/Item/4642,Item,item,0
+4643,/i/024000/024360.png,Antelope Steak,/Item/4643,Item,item,0
+4644,/i/024000/024360.png,Aldgoat Steak,/Item/4644,Item,item,0
+4645,/i/024000/024358.png,Smoked Raptor,/Item/4645,Item,item,0
+4646,/i/024000/024353.png,Jerked Beef,/Item/4646,Item,item,0
+4647,/i/024000/024352.png,Eft Steak,/Item/4647,Item,item,0
+4648,/i/024000/024355.png,Sauteed Coeurl,/Item/4648,Item,item,0
+4649,/i/024000/024359.png,Roast Dodo,/Item/4649,Item,item,0
+4650,/i/024000/024255.png,Boiled Egg,/Item/4650,Item,item,0
+4651,/i/024000/024253.png,Dodo Omelette,/Item/4651,Item,item,0
+4652,/i/024000/024254.png,Mustard Eggs,/Item/4652,Item,item,0
+4653,/i/024000/024257.png,Fried Egg,/Item/4653,Item,item,0
+4654,/i/024000/024256.png,Scrambled Eggs,/Item/4654,Item,item,0
+4655,/i/024000/024251.png,Deviled Eggs,/Item/4655,Item,item,0
+4656,/i/024000/024253.png,Apkallu Omelette,/Item/4656,Item,item,0
+4657,/i/024000/024311.png,Braised Pipira,/Item/4657,Item,item,0
+4658,/i/024000/024313.png,Tree Toad Legs,/Item/4658,Item,item,0
+4659,/i/024000/024306.png,Boiled Crayfish,/Item/4659,Item,item,0
+4660,/i/024000/024301.png,Grilled Trout,/Item/4660,Item,item,0
+4661,/i/024000/024302.png,Grilled Carp,/Item/4661,Item,item,0
+4662,/i/024000/024303.png,Salmon Meuniere,/Item/4662,Item,item,0
+4663,/i/024000/024314.png,Mugwort Carp,/Item/4663,Item,item,0
+4664,/i/024000/024307.png,Stuffed Cabbage,/Item/4664,Item,item,0
+4665,/i/024000/024310.png,Lava Toad Legs,/Item/4665,Item,item,0
+4666,/i/024000/024315.png,Salt Cod,/Item/4666,Item,item,0
+4667,/i/024000/024316.png,Raw Oyster,/Item/4667,Item,item,0
+4668,/i/024000/024312.png,Boiled Bream,/Item/4668,Item,item,0
+4669,/i/024000/024309.png,Baked Sole,/Item/4669,Item,item,0
+4670,/i/024000/024304.png,Tuna Miq'abob,/Item/4670,Item,item,0
+4671,/i/024000/024308.png,Salt Cod Puffs,/Item/4671,Item,item,0
+4672,/i/024000/024309.png,Pan-fried Mahi-mahi,/Item/4672,Item,item,0
+4673,/i/024000/024107.png,Mutton Stew,/Item/4673,Item,item,0
+4674,/i/024000/024106.png,Lentils and Chestnuts,/Item/4674,Item,item,0
+4675,/i/024000/024110.png,Antelope Stew,/Item/4675,Item,item,0
+4676,/i/024000/024109.png,Orobon Stew,/Item/4676,Item,item,0
+4677,/i/024000/024108.png,Ratatouille,/Item/4677,Item,item,0
+4678,/i/024000/024110.png,Beef Stew,/Item/4678,Item,item,0
+4679,/i/024000/024112.png,Dzemael Gratin,/Item/4679,Item,item,0
+4680,/i/024000/024113.png,Zoni,/Item/4680,Item,item,0
+4681,/i/024000/024153.png,Jack-o'-lantern,/Item/4681,Item,item,0
+4682,/i/024000/024154.png,Parsnip Salad,/Item/4682,Item,item,0
+4683,/i/024000/024158.png,Roasted Nopales,/Item/4683,Item,item,0
+4684,/i/024000/024152.png,Spinach Saute,/Item/4684,Item,item,0
+4685,/i/024000/024157.png,Alligator Salad,/Item/4685,Item,item,0
+4686,/i/024000/024155.png,Sauerkraut,/Item/4686,Item,item,0
+4687,/i/024000/024159.png,Stuffed Artichoke,/Item/4687,Item,item,0
+4688,/i/024000/024151.png,Landtrap Salad,/Item/4688,Item,item,0
+4689,/i/024000/024205.png,Chanterelle Saute,/Item/4689,Item,item,0
+4690,/i/024000/024204.png,Chicken and Mushrooms,/Item/4690,Item,item,0
+4691,/i/024000/024201.png,Forest Miq'abob,/Item/4691,Item,item,0
+4692,/i/024000/024203.png,Raptor Stew,/Item/4692,Item,item,0
+4693,/i/024000/024202.png,Button Mushroom Saute,/Item/4693,Item,item,0
+4694,/i/024000/024206.png,Buttons in a Blanket,/Item/4694,Item,item,0
+4695,/i/024000/024010.png,Black Truffle Risotto,/Item/4695,Item,item,0
+4696,/i/024000/024006.png,Flatbread,/Item/4696,Item,item,0
+4697,/i/024000/024003.png,Walnut Bread,/Item/4697,Item,item,0
+4698,/i/024000/024004.png,Honey Muffin,/Item/4698,Item,item,0
+4699,/i/024000/024001.png,Dark Pretzel,/Item/4699,Item,item,0
+4700,/i/024000/024005.png,Cornbread,/Item/4700,Item,item,0
+4701,/i/024000/024007.png,Acorn Cookie,/Item/4701,Item,item,0
+4702,/i/024000/024002.png,Knight's Bread,/Item/4702,Item,item,0
+4703,/i/024000/024008.png,La Noscean Toast,/Item/4703,Item,item,0
+4704,/i/024000/024009.png,Finger Sandwich,/Item/4704,Item,item,0
+4705,/i/024000/024007.png,Mizzenmast Biscuit,/Item/4705,Item,item,0
+4706,/i/024000/024007.png,Roost Biscuit,/Item/4706,Item,item,0
+4707,/i/024000/024007.png,Hourglass Biscuit,/Item/4707,Item,item,0
+4708,/i/024000/024354.png,Rabbit Pie,/Item/4708,Item,item,0
+4709,/i/024000/024054.png,Apple Tart,/Item/4709,Item,item,0
+4710,/i/024000/024357.png,Shepherd's Pie,/Item/4710,Item,item,0
+4711,/i/024000/024305.png,Eel Pie,/Item/4711,Item,item,0
+4712,/i/024000/024056.png,Blood Currant Tart,/Item/4712,Item,item,0
+4713,/i/024000/024057.png,Crowned Pie,/Item/4713,Item,item,0
+4714,/i/024000/024156.png,Tomato Pie,/Item/4714,Item,item,0
+4715,/i/024000/024252.png,Trapper's Quiche,/Item/4715,Item,item,0
+4716,/i/024000/024102.png,Frumenty,/Item/4716,Item,item,0
+4717,/i/024000/024103.png,Stone Soup,/Item/4717,Item,item,0
+4718,/i/024000/024101.png,Pea Soup,/Item/4718,Item,item,0
+4719,/i/024000/024104.png,Cawl Cennin,/Item/4719,Item,item,0
+4720,/i/024000/024105.png,Fish Soup,/Item/4720,Item,item,0
+4721,/i/024000/024111.png,Bouillabaisse,/Item/4721,Item,item,0
+4722,/i/024000/024457.png,Mashed Popotoes,/Item/4722,Item,item,0
+4723,/i/024000/024011.png,Cheese Risotto,/Item/4723,Item,item,0
+4724,/i/024000/024069.png,Cheese Souffle,/Item/4724,Item,item,0
+4725,/i/024000/024070.png,Rolanberry Cheesecake,/Item/4725,Item,item,0
+4726,/i/024000/024454.png,Mint Lassi,/Item/4726,Item,item,0
+4727,/i/024000/024454.png,Rolanberry Lassi,/Item/4727,Item,item,0
+4728,/i/024000/024058.png,Raisins,/Item/4728,Item,item,0
+4729,/i/024000/024059.png,Snowflake Peak,/Item/4729,Item,item,0
+4730,/i/024000/024058.png,Dried Plums,/Item/4730,Item,item,0
+4731,/i/024000/024051.png,Ginger Cookie,/Item/4731,Item,item,0
+4732,/i/024000/024053.png,Crumpet,/Item/4732,Item,item,0
+4733,/i/024000/024052.png,Pastry Fish,/Item/4733,Item,item,0
+4734,/i/024000/024068.png,Pineapple Ponzecake,/Item/4734,Item,item,0
+4735,/i/024000/024062.png,Bubble Chocolate,/Item/4735,Item,item,0
+4736,/i/024000/024064.png,Pearl Chocolate,/Item/4736,Item,item,0
+4737,/i/024000/024065.png,White Chocolate,/Item/4737,Item,item,0
+4738,/i/024000/024063.png,Heart Chocolate,/Item/4738,Item,item,0
+4739,/i/024000/024065.png,Consecrated Chocolate,/Item/4739,Item,item,0
+4740,/i/024000/024060.png,Princess Pudding,/Item/4740,Item,item,0
+4741,/i/024000/024061.png,Ore Fruitcake,/Item/4741,Item,item,0
+4742,/i/024000/024055.png,Starlight Log,/Item/4742,Item,item,0
+4743,/i/024000/024067.png,Years-old Pumpkin Cookie,/Item/4743,Item,item,0
+4744,/i/024000/024066.png,Sweet Rice Cake,/Item/4744,Item,item,0
+4745,/i/024000/024401.png,Orange Juice,/Item/4745,Item,item,0
+4746,/i/024000/024403.png,Grape Juice,/Item/4746,Item,item,0
+4747,/i/024000/024402.png,Apple Juice,/Item/4747,Item,item,0
+4748,/i/024000/024404.png,Pineapple Juice,/Item/4748,Item,item,0
+4749,/i/024000/024406.png,Chamomile Tea,/Item/4749,Item,item,0
+4750,/i/024000/024405.png,Mulled Tea,/Item/4750,Item,item,0
+4751,/i/022000/022614.png,Mineral Water,/Item/4751,Item,item,0
+4752,/i/024000/024453.png,Aldgoat Milk,/Item/4752,Item,item,0
+4753,/i/024000/024453.png,Buffalo Milk,/Item/4753,Item,item,0
+4754,/i/024000/024452.png,Cottage Cheese,/Item/4754,Item,item,0
+4755,/i/024000/024451.png,Blue Cheese,/Item/4755,Item,item,0
+4756,/i/024000/024455.png,Cream Cheese,/Item/4756,Item,item,0
+4757,/i/024000/024456.png,Rolanberry Cheese,/Item/4757,Item,item,0
+4758,/i/025000/025155.png,Marmot Meat,/Item/4758,Item,item,0
+4759,/i/025000/025153.png,Mutton Loin,/Item/4759,Item,item,0
+4760,/i/025000/025151.png,Dodo Tenderloin,/Item/4760,Item,item,0
+4761,/i/025000/025155.png,Mole Meat,/Item/4761,Item,item,0
+4762,/i/029000/029002.png,Salamander Tail,/Item/4762,Item,item,0
+4763,/i/025000/025158.png,Young Dodo Roaster,/Item/4763,Item,item,0
+4764,/i/025000/025151.png,Chicken Breast,/Item/4764,Item,item,0
+4765,/i/025000/025157.png,Antelope Shank,/Item/4765,Item,item,0
+4766,/i/025000/025152.png,Aldgoat Chuck,/Item/4766,Item,item,0
+4767,/i/025000/025154.png,Raptor Shank,/Item/4767,Item,item,0
+4768,/i/025000/025152.png,Buffalo Sirloin,/Item/4768,Item,item,0
+4769,/i/029000/029002.png,Eft Tail,/Item/4769,Item,item,0
+4770,/i/029000/029002.png,Orobon Liver,/Item/4770,Item,item,0
+4771,/i/029000/029201.png,Megalocrab Leg,/Item/4771,Item,item,0
+4772,/i/025000/025252.png,Chicken Egg,/Item/4772,Item,item,0
+4773,/i/025000/025251.png,Dodo Egg,/Item/4773,Item,item,0
+4774,/i/025000/025251.png,Puk Egg,/Item/4774,Item,item,0
+4775,/i/025000/025251.png,Apkallu Egg,/Item/4775,Item,item,0
+4776,/i/029000/029063.png,Malm Kelp,/Item/4776,Item,item,0
+4777,/i/025000/025203.png,Wild Onion,/Item/4777,Item,item,0
+4778,/i/025000/025207.png,Coerthan Carrot,/Item/4778,Item,item,0
+4779,/i/025000/025210.png,Ogre Pumpkin,/Item/4779,Item,item,0
+4780,/i/025000/025209.png,Ruby Tomato,/Item/4780,Item,item,0
+4781,/i/025000/025215.png,Alpine Parsnip,/Item/4781,Item,item,0
+4782,/i/025000/025219.png,La Noscean Lettuce,/Item/4782,Item,item,0
+4783,/i/025000/025206.png,Cieldalaes Spinach,/Item/4783,Item,item,0
+4784,/i/025000/025211.png,Highland Parsley,/Item/4784,Item,item,0
+4785,/i/025000/025018.png,Paprika,/Item/4785,Item,item,0
+4786,/i/025000/025214.png,Nopales,/Item/4786,Item,item,0
+4787,/i/025000/025204.png,Popoto,/Item/4787,Item,item,0
+4788,/i/025000/025205.png,Wizard Eggplant,/Item/4788,Item,item,0
+4789,/i/025000/025208.png,Midland Cabbage,/Item/4789,Item,item,0
+4790,/i/025000/025213.png,Aloe,/Item/4790,Item,item,0
+4791,/i/025000/025216.png,Salt Leek,/Item/4791,Item,item,0
+4792,/i/025000/025212.png,Ramhorn Zucchini,/Item/4792,Item,item,0
+4793,/i/025000/025220.png,Maiden Artichoke,/Item/4793,Item,item,0
+4794,/i/025000/025406.png,Shriekshroom,/Item/4794,Item,item,0
+4795,/i/025000/025401.png,Chanterelle,/Item/4795,Item,item,0
+4796,/i/025000/025405.png,Gil Bun,/Item/4796,Item,item,0
+4797,/i/025000/025402.png,Button Mushroom,/Item/4797,Item,item,0
+4798,/i/025000/025404.png,White Truffle,/Item/4798,Item,item,0
+4799,/i/025000/025407.png,Ratstool,/Item/4799,Item,item,0
+4800,/i/025000/025403.png,Black Truffle,/Item/4800,Item,item,0
+4801,/i/025000/025316.png,Dalamud Nut,/Item/4801,Item,item,0
+4802,/i/025000/025315.png,Moon Nut,/Item/4802,Item,item,0
+4803,/i/025000/025314.png,Kukuru Bean,/Item/4803,Item,item,0
+4804,/i/025000/025307.png,Cinderfoot Olive,/Item/4804,Item,item,0
+4805,/i/025000/025302.png,Gridanian Chestnut,/Item/4805,Item,item,0
+4806,/i/025000/025301.png,Gridanian Walnut,/Item/4806,Item,item,0
+4807,/i/025000/025304.png,Iron Acorn,/Item/4807,Item,item,0
+4808,/i/025000/025309.png,Lowland Grapes,/Item/4808,Item,item,0
+4809,/i/025000/025312.png,La Noscean Orange,/Item/4809,Item,item,0
+4810,/i/025000/025308.png,Faerie Apple,/Item/4810,Item,item,0
+4811,/i/025000/025305.png,Sun Lemon,/Item/4811,Item,item,0
+4812,/i/025000/025311.png,Pixie Plums,/Item/4812,Item,item,0
+4813,/i/025000/025313.png,Alligator Pear,/Item/4813,Item,item,0
+4814,/i/025000/025310.png,Blood Currants,/Item/4814,Item,item,0
+4815,/i/025000/025306.png,Rolanberry,/Item/4815,Item,item,0
+4816,/i/025000/025303.png,Prickly Pineapple,/Item/4816,Item,item,0
+4817,/i/025000/025354.png,Sunflower Seeds,/Item/4817,Item,item,0
+4818,/i/025000/025353.png,Buffalo Beans,/Item/4818,Item,item,0
+4819,/i/025000/025358.png,Sticky Rice,/Item/4819,Item,item,0
+4820,/i/025000/025355.png,Lalafellin Lentil,/Item/4820,Item,item,0
+4821,/i/025000/025352.png,Millioncorn,/Item/4821,Item,item,0
+4822,/i/025000/025353.png,Jade Peas,/Item/4822,Item,item,0
+4823,/i/025000/025357.png,Rye,/Item/4823,Item,item,0
+4824,/i/025000/025357.png,Sunset Wheat,/Item/4824,Item,item,0
+4825,/i/025000/025356.png,Rye Flour,/Item/4825,Item,item,0
+4826,/i/025000/025351.png,Sunset Wheat Flour,/Item/4826,Item,item,0
+4827,/i/025000/025356.png,Cornmeal,/Item/4827,Item,item,0
+4828,/i/025000/025019.png,Cinnamon,/Item/4828,Item,item,0
+4829,/i/025000/025006.png,Garlean Garlic,/Item/4829,Item,item,0
+4830,/i/025000/025007.png,Black Pepper,/Item/4830,Item,item,0
+4831,/i/025000/025023.png,Cloves,/Item/4831,Item,item,0
+4832,/i/025000/025015.png,Marjoram,/Item/4832,Item,item,0
+4833,/i/025000/025014.png,Vanilla Beans,/Item/4833,Item,item,0
+4834,/i/025000/025016.png,Galago Mint,/Item/4834,Item,item,0
+4835,/i/025000/025054.png,Ala Mhigan Mustard,/Item/4835,Item,item,0
+4836,/i/025000/025012.png,Pearl Ginger,/Item/4836,Item,item,0
+4837,/i/025000/025010.png,Midland Basil,/Item/4837,Item,item,0
+4838,/i/025000/025013.png,Dragon Pepper,/Item/4838,Item,item,0
+4839,/i/025000/025009.png,Laurel,/Item/4839,Item,item,0
+4840,/i/025000/025020.png,Mugwort,/Item/4840,Item,item,0
+4841,/i/025000/025020.png,Thyme,/Item/4841,Item,item,0
+4842,/i/025000/025017.png,Almonds,/Item/4842,Item,item,0
+4843,/i/025000/025022.png,Desert Saffron,/Item/4843,Item,item,0
+4844,/i/025000/025021.png,Nutmeg,/Item/4844,Item,item,0
+4845,/i/025000/025009.png,Sagolii Sage,/Item/4845,Item,item,0
+4846,/i/025000/025020.png,Thanalan Tea Leaves,/Item/4846,Item,item,0
+4847,/i/025000/025104.png,Table Salt,/Item/4847,Item,item,0
+4848,/i/025000/025103.png,Maple Sugar,/Item/4848,Item,item,0
+4849,/i/025000/025105.png,Maple Syrup,/Item/4849,Item,item,0
+4850,/i/025000/025102.png,Honey,/Item/4850,Item,item,0
+4851,/i/025000/025108.png,Powdered Sugar,/Item/4851,Item,item,0
+4852,/i/025000/025056.png,Sweet Cream,/Item/4852,Item,item,0
+4853,/i/025000/025052.png,Smooth Butter,/Item/4853,Item,item,0
+4854,/i/025000/025051.png,Kukuru Butter,/Item/4854,Item,item,0
+4855,/i/025000/025051.png,Kukuru Powder,/Item/4855,Item,item,0
+4856,/i/025000/025453.png,Clove Oil,/Item/4856,Item,item,0
+4857,/i/025000/025451.png,Olive Oil,/Item/4857,Item,item,0
+4858,/i/025000/025452.png,Lavender Oil,/Item/4858,Item,item,0
+4859,/i/025000/025106.png,Cider Vinegar,/Item/4859,Item,item,0
+4860,/i/025000/025107.png,Dark Vinegar,/Item/4860,Item,item,0
+4861,/i/025000/025053.png,Pie Dough,/Item/4861,Item,item,0
+4862,/i/025000/025057.png,Sour Red,/Item/4862,Item,item,0
+4863,/i/029000/029001.png,Gelatin,/Item/4863,Item,item,0
+4864,/i/025000/025055.png,Fish Stock,/Item/4864,Item,item,0
+4865,/i/025000/025101.png,Tomato Sauce,/Item/4865,Item,item,0
+4866,/i/025000/025055.png,Dodo Stuffing,/Item/4866,Item,item,0
+4867,/i/025000/025054.png,Chicken Stock,/Item/4867,Item,item,0
+4869,/i/029000/029003.png,Merlthor Goby,/Item/4869,Item,item,0
+4870,/i/029000/029034.png,Lominsan Anchovy,/Item/4870,Item,item,0
+4871,/i/029000/029008.png,Finger Shrimp,/Item/4871,Item,item,0
+4872,/i/029000/029005.png,Ocean Cloud,/Item/4872,Item,item,0
+4873,/i/029000/029028.png,Sea Cucumber,/Item/4873,Item,item,0
+4874,/i/029000/029044.png,Harbor Herring,/Item/4874,Item,item,0
+4875,/i/029000/029031.png,Vongola Clam,/Item/4875,Item,item,0
+4876,/i/029000/029016.png,Coral Butterfly,/Item/4876,Item,item,0
+4877,/i/029000/029052.png,Moraby Flounder,/Item/4877,Item,item,0
+4878,/i/029000/029056.png,Pebble Crab,/Item/4878,Item,item,0
+4879,/i/029000/029012.png,Tiger Cod,/Item/4879,Item,item,0
+4880,/i/029000/029032.png,Helmet Crab,/Item/4880,Item,item,0
+4881,/i/029000/029015.png,Rothlyt Oyster,/Item/4881,Item,item,0
+4882,/i/029000/029042.png,Navigator's Dagger,/Item/4882,Item,item,0
+4883,/i/029000/029033.png,Angelfish,/Item/4883,Item,item,0
+4884,/i/029000/029030.png,Razor Clam,/Item/4884,Item,item,0
+4885,/i/029000/029051.png,Blue Octopus,/Item/4885,Item,item,0
+4886,/i/029000/029007.png,Blowfish,/Item/4886,Item,item,0
+4887,/i/029000/029004.png,Saber Sardine,/Item/4887,Item,item,0
+4888,/i/029000/029035.png,Ogre Barracuda,/Item/4888,Item,item,0
+4889,/i/029000/029049.png,Monkfish,/Item/4889,Item,item,0
+4890,/i/029000/029040.png,Sea Bo,/Item/4890,Item,item,0
+4891,/i/029000/029009.png,Bianaq Bream,/Item/4891,Item,item,0
+4892,/i/029000/029014.png,Black Sole,/Item/4892,Item,item,0
+4893,/i/029000/029026.png,Hammerhead Shark,/Item/4893,Item,item,0
+4894,/i/029000/029029.png,Sea Pickle,/Item/4894,Item,item,0
+4895,/i/029000/029010.png,Indigo Herring,/Item/4895,Item,item,0
+4896,/i/029000/029018.png,Ash Tuna,/Item/4896,Item,item,0
+4897,/i/029000/029053.png,Leafy Seadragon,/Item/4897,Item,item,0
+4898,/i/029000/029055.png,Fullmoon Sardine,/Item/4898,Item,item,0
+4899,/i/029000/029017.png,Haraldr Haddock,/Item/4899,Item,item,0
+4900,/i/029000/029059.png,Whitelip Oyster,/Item/4900,Item,item,0
+4901,/i/029000/029038.png,Lavender Remora,/Item/4901,Item,item,0
+4902,/i/029000/029046.png,Balloonfish,/Item/4902,Item,item,0
+4903,/i/029000/029011.png,Silver Shark,/Item/4903,Item,item,0
+4904,/i/029000/029025.png,Wahoo,/Item/4904,Item,item,0
+4905,/i/029000/029057.png,Raincaller,/Item/4905,Item,item,0
+4906,/i/029000/029006.png,Nautilus,/Item/4906,Item,item,0
+4907,/i/029000/029045.png,Pike Eel,/Item/4907,Item,item,0
+4908,/i/029000/029043.png,Mummer Wrasse,/Item/4908,Item,item,0
+4909,/i/029000/029048.png,Plaice,/Item/4909,Item,item,0
+4910,/i/029000/029039.png,Sea Devil,/Item/4910,Item,item,0
+4911,/i/029000/029013.png,Rock Lobster,/Item/4911,Item,item,0
+4912,/i/029000/029037.png,Goosefish,/Item/4912,Item,item,0
+4913,/i/029000/029054.png,Little Thalaos,/Item/4913,Item,item,0
+4914,/i/029000/029047.png,Shall Shell,/Item/4914,Item,item,0
+4915,/i/029000/029050.png,Mahi-mahi,/Item/4915,Item,item,0
+4916,/i/029000/029036.png,Halibut,/Item/4916,Item,item,0
+4917,/i/029000/029022.png,Mazlaya Marlin,/Item/4917,Item,item,0
+4918,/i/029000/029041.png,Coelacanth,/Item/4918,Item,item,0
+4919,/i/029000/029027.png,Giant Squid,/Item/4919,Item,item,0
+4920,/i/029000/029023.png,Gigant Octopus,/Item/4920,Item,item,0
+4921,/i/029000/029021.png,Sunfish,/Item/4921,Item,item,0
+4922,/i/029000/029019.png,Dinichthys,/Item/4922,Item,item,0
+4923,/i/029000/029024.png,Megalodon,/Item/4923,Item,item,0
+4924,/i/029000/029020.png,Titanic Sawfish,/Item/4924,Item,item,0
+4925,/i/029000/029208.png,Crayfish,/Item/4925,Item,item,0
+4926,/i/029000/029247.png,Chub,/Item/4926,Item,item,0
+4927,/i/029000/029230.png,Striped Goby,/Item/4927,Item,item,0
+4928,/i/029000/029253.png,Dwarf Catfish,/Item/4928,Item,item,0
+4929,/i/029000/029209.png,Bone Crayfish,/Item/4929,Item,item,0
+4930,/i/029000/029285.png,Princess Trout,/Item/4930,Item,item,0
+4931,/i/029000/029273.png,Dusk Goby,/Item/4931,Item,item,0
+4932,/i/029000/029212.png,Pipira,/Item/4932,Item,item,0
+4933,/i/029000/029207.png,Crimson Crayfish,/Item/4933,Item,item,0
+4934,/i/029000/029251.png,Gudgeon,/Item/4934,Item,item,0
+4935,/i/029000/029215.png,Brass Loach,/Item/4935,Item,item,0
+4936,/i/029000/029210.png,Maiden Carp,/Item/4936,Item,item,0
+4937,/i/029000/029310.png,Abalathian Smelt,/Item/4937,Item,item,0
+4938,/i/029000/029214.png,Blindfish,/Item/4938,Item,item,0
+4939,/i/029000/029291.png,Mudskipper,/Item/4939,Item,item,0
+4940,/i/029000/029204.png,Rainbow Trout,/Item/4940,Item,item,0
+4941,/i/029000/029235.png,River Crab,/Item/4941,Item,item,0
+4942,/i/029000/029216.png,Ala Mhigan Fighting Fish,/Item/4942,Item,item,0
+4943,/i/029000/029280.png,Faerie Bass,/Item/4943,Item,item,0
+4944,/i/029000/029244.png,Acorn Snail,/Item/4944,Item,item,0
+4945,/i/029000/029277.png,Dark Sleeper,/Item/4945,Item,item,0
+4946,/i/029000/029304.png,La Noscean Perch,/Item/4946,Item,item,0
+4947,/i/029000/029286.png,Moat Carp,/Item/4947,Item,item,0
+4948,/i/029000/029314.png,Copperfish,/Item/4948,Item,item,0
+4949,/i/029000/029282.png,Bluebell Salmon,/Item/4949,Item,item,0
+4950,/i/029000/029294.png,Mudcrab,/Item/4950,Item,item,0
+4951,/i/029000/029283.png,Tricolored Carp,/Item/4951,Item,item,0
+4952,/i/029000/029292.png,Eunuch Crayfish,/Item/4952,Item,item,0
+4953,/i/029000/029257.png,Jade Eel,/Item/4953,Item,item,0
+4954,/i/029000/029307.png,Pond Mussel,/Item/4954,Item,item,0
+4955,/i/029000/029245.png,Warmwater Trout,/Item/4955,Item,item,0
+4956,/i/029000/029256.png,Glass Perch,/Item/4956,Item,item,0
+4957,/i/029000/029301.png,Four-eyed Fish,/Item/4957,Item,item,0
+4958,/i/029000/029205.png,Black Eel,/Item/4958,Item,item,0
+4959,/i/029000/029206.png,Dark Bass,/Item/4959,Item,item,0
+4960,/i/029000/029271.png,Aegis Shrimp,/Item/4960,Item,item,0
+4961,/i/029000/029269.png,Five-ilm Pleco,/Item/4961,Item,item,0
+4962,/i/029000/029252.png,Climbing Perch,/Item/4962,Item,item,0
+4963,/i/029000/029249.png,Shadow Catfish,/Item/4963,Item,item,0
+4964,/i/029000/029213.png,Black Ghost,/Item/4964,Item,item,0
+4965,/i/029000/029298.png,Lamprey,/Item/4965,Item,item,0
+4966,/i/029000/029288.png,Plaguefish,/Item/4966,Item,item,0
+4967,/i/029000/029203.png,Yugr'am Salmon,/Item/4967,Item,item,0
+4968,/i/029000/029254.png,Spotted Pleco,/Item/4968,Item,item,0
+4969,/i/029000/029242.png,Ropefish,/Item/4969,Item,item,0
+4970,/i/029000/029246.png,Grip Killifish,/Item/4970,Item,item,0
+4971,/i/029000/029289.png,Bone Cleaner,/Item/4971,Item,item,0
+4972,/i/029000/029306.png,Root Skipper,/Item/4972,Item,item,0
+4973,/i/029000/029243.png,Bonytongue,/Item/4973,Item,item,0
+4974,/i/029000/029296.png,Mitten Crab,/Item/4974,Item,item,0
+4975,/i/029000/029218.png,Monke Onke,/Item/4975,Item,item,0
+4976,/i/029000/029300.png,Seema,/Item/4976,Item,item,0
+4977,/i/029000/029234.png,Sandfish,/Item/4977,Item,item,0
+4978,/i/029000/029312.png,Silverfish,/Item/4978,Item,item,0
+4979,/i/029000/029255.png,Clown Loach,/Item/4979,Item,item,0
+4980,/i/029000/029236.png,Armored Pleco,/Item/4980,Item,item,0
+4981,/i/029000/029268.png,Giant Bass,/Item/4981,Item,item,0
+4982,/i/029000/029211.png,Velodyna Carp,/Item/4982,Item,item,0
+4983,/i/029000/029297.png,Spotted Puffer,/Item/4983,Item,item,0
+4984,/i/029000/029258.png,Golden Loach,/Item/4984,Item,item,0
+4985,/i/029000/029259.png,Trader Eel,/Item/4985,Item,item,0
+4986,/i/029000/029240.png,Crimson Trout,/Item/4986,Item,item,0
+4987,/i/029000/029275.png,Discus,/Item/4987,Item,item,0
+4988,/i/029000/029284.png,Bronze Lake Trout,/Item/4988,Item,item,0
+4989,/i/029000/029308.png,Ignus Snail,/Item/4989,Item,item,0
+4990,/i/029000/029309.png,Loyal Pleco,/Item/4990,Item,item,0
+4991,/i/029000/029303.png,Thunderbolt Sculpin,/Item/4991,Item,item,0
+4992,/i/029000/029270.png,Fall Jumper,/Item/4992,Item,item,0
+4993,/i/029000/029278.png,Knifefish,/Item/4993,Item,item,0
+4994,/i/029000/029263.png,Oakroot,/Item/4994,Item,item,0
+4995,/i/029000/029250.png,Common Sculpin,/Item/4995,Item,item,0
+4996,/i/029000/029221.png,Southern Pike,/Item/4996,Item,item,0
+4997,/i/029000/029220.png,Northern Pike,/Item/4997,Item,item,0
+4998,/i/029000/029276.png,Kobold Puffer,/Item/4998,Item,item,0
+4999,/i/029000/029274.png,Archerfish,/Item/4999,Item,item,0
+5000,/i/029000/029260.png,Goblin Perch,/Item/5000,Item,item,0
+5001,/i/029000/029239.png,Agelyss Carp,/Item/5001,Item,item,0
+5002,/i/029000/029238.png,Assassin Betta,/Item/5002,Item,item,0
+5003,/i/029000/029295.png,Sludgeskipper,/Item/5003,Item,item,0
+5004,/i/029000/029281.png,Boltfish,/Item/5004,Item,item,0
+5005,/i/029000/029264.png,Garpike,/Item/5005,Item,item,0
+5006,/i/029000/029305.png,Ilsabardian Bass,/Item/5006,Item,item,0
+5007,/i/029000/029241.png,Paglth'an Discus,/Item/5007,Item,item,0
+5008,/i/029000/029237.png,Boxing Pleco,/Item/5008,Item,item,0
+5009,/i/029000/029266.png,Kissing Trout,/Item/5009,Item,item,0
+5010,/i/029000/029279.png,Angry Pike,/Item/5010,Item,item,0
+5011,/i/029000/029311.png,Goldfish,/Item/5011,Item,item,0
+5012,/i/029000/029248.png,Vampire Lampern,/Item/5012,Item,item,0
+5013,/i/029000/029299.png,Wandering Sculpin,/Item/5013,Item,item,0
+5014,/i/029000/029227.png,Cave Cherax,/Item/5014,Item,item,0
+5015,/i/029000/029261.png,Coeurlfish,/Item/5015,Item,item,0
+5016,/i/029000/029222.png,Giant Donko,/Item/5016,Item,item,0
+5017,/i/029000/029262.png,Sundisc,/Item/5017,Item,item,0
+5018,/i/029000/029219.png,Alligator Garfish,/Item/5018,Item,item,0
+5019,/i/029000/029272.png,Wootz Knifefish,/Item/5019,Item,item,0
+5020,/i/029000/029217.png,Giant Catfish,/Item/5020,Item,item,0
+5021,/i/029000/029315.png,Cadaver Carp,/Item/5021,Item,item,0
+5022,/i/029000/029293.png,Mushroom Crab,/Item/5022,Item,item,0
+5023,/i/029000/029302.png,Judgment Staff,/Item/5023,Item,item,0
+5024,/i/029000/029267.png,Poxpike,/Item/5024,Item,item,0
+5025,/i/029000/029225.png,Emperor Fish,/Item/5025,Item,item,0
+5026,/i/029000/029290.png,Bowfin,/Item/5026,Item,item,0
+5027,/i/029000/029313.png,Heliobatis,/Item/5027,Item,item,0
+5028,/i/029000/029226.png,Takitaro,/Item/5028,Item,item,0
+5029,/i/029000/029224.png,Pirarucu,/Item/5029,Item,item,0
+5030,/i/029000/029287.png,Morinabaligi,/Item/5030,Item,item,0
+5031,/i/029000/029265.png,Jungle Catfish,/Item/5031,Item,item,0
+5032,/i/029000/029604.png,Sand Bream,/Item/5032,Item,item,0
+5033,/i/029000/029609.png,Desert Catfish,/Item/5033,Item,item,0
+5034,/i/029000/029602.png,Dustfish,/Item/5034,Item,item,0
+5035,/i/029000/029606.png,Storm Rider,/Item/5035,Item,item,0
+5036,/i/029000/029601.png,Antlion Slug,/Item/5036,Item,item,0
+5037,/i/029000/029607.png,Dune Manta,/Item/5037,Item,item,0
+5038,/i/029000/029657.png,Cloud Jellyfish,/Item/5038,Item,item,0
+5039,/i/029000/029653.png,Skyfish,/Item/5039,Item,item,0
+5040,/i/029000/029655.png,Cloud Cutter,/Item/5040,Item,item,0
+5041,/i/029000/029651.png,Blind Manta,/Item/5041,Item,item,0
+5042,/i/029000/029652.png,Rift Sailor,/Item/5042,Item,item,0
+5043,/i/029000/029608.png,Sagolii Monkfish,/Item/5043,Item,item,0
+5044,/i/029000/029656.png,Saucerfish,/Item/5044,Item,item,0
+5045,/i/029000/029605.png,Caravan Eel,/Item/5045,Item,item,0
+5046,/i/029000/029654.png,Rhamphorhynchus,/Item/5046,Item,item,0
+5047,/i/029000/029232.png,Tricorn,/Item/5047,Item,item,0
+5048,/i/029000/029010.png,Young Indigo Herring,/Item/5048,Item,item,0
+5049,/i/029000/029015.png,Navigator's Ear,/Item/5049,Item,item,0
+5050,/i/029000/029202.png,Allagan Snail,/Item/5050,Item,item,0
+5051,/i/029000/029233.png,Tree Toad,/Item/5051,Item,item,0
+5052,/i/029000/029231.png,Box Turtle,/Item/5052,Item,item,0
+5053,/i/029000/029229.png,Nether Newt,/Item/5053,Item,item,0
+5055,/i/029000/029223.png,Lava Toad,/Item/5055,Item,item,0
+5460,/i/029000/029062.png,White Coral,/Item/5460,Item,item,0
+5461,/i/029000/029061.png,Blue Coral,/Item/5461,Item,item,0
+5462,/i/029000/029060.png,Red Coral,/Item/5462,Item,item,0
+5463,/i/022000/022253.png,Scallop Shell,/Item/5463,Item,item,0
+5464,/i/022000/022255.png,Miter Shell,/Item/5464,Item,item,0
+5465,/i/022000/022254.png,Sunrise Tellin,/Item/5465,Item,item,0
+5466,/i/029000/029058.png,Blacklip Oyster,/Item/5466,Item,item,0
+5544,/i/029000/029316.png,Lamp Marimo,/Item/5544,Item,item,0
+6141,/i/020000/020622.png,Cordial,/Item/6141,Item,item,0
+6142,/i/024000/024301.png,Grilled Warmwater Trout,/Item/6142,Item,item,0
+6143,/i/024000/024301.png,Grilled Raincaller,/Item/6143,Item,item,0
+6144,/i/024000/024113.png,Dagger Soup,/Item/6144,Item,item,0
+6145,/i/024000/024058.png,Noble Grapes,/Item/6145,Item,item,0
+6146,/i/025000/025308.png,Mirror Apple,/Item/6146,Item,item,0
+6147,/i/025000/025305.png,Honey Lemon,/Item/6147,Item,item,0
+6148,/i/025000/025209.png,Dzemael Tomato,/Item/6148,Item,item,0
+6149,/i/024000/024453.png,Night Milk,/Item/6149,Item,item,0
+6150,/i/025000/025155.png,Coeurl Meat,/Item/6150,Item,item,0
+6151,/i/025000/025057.png,Cooking Sherry,/Item/6151,Item,item,0
+6946,/i/020000/020670.png,Slow Ward Potion,/Item/6946,Item,item,0
+6947,/i/020000/020671.png,Silence Ward Potion,/Item/6947,Item,item,0
+6948,/i/020000/020675.png,Blind Ward Potion,/Item/6948,Item,item,0
+6949,/i/020000/020674.png,Poison Ward Potion,/Item/6949,Item,item,0
+6950,/i/020000/020669.png,Stun Ward Potion,/Item/6950,Item,item,0
+6951,/i/020000/020666.png,Sleep Ward Potion,/Item/6951,Item,item,0
+6952,/i/020000/020673.png,Bind Ward Potion,/Item/6952,Item,item,0
+6953,/i/020000/020672.png,Heavy Ward Potion,/Item/6953,Item,item,0
+6956,/i/021000/021253.png,Red Drop,/Item/6956,Item,item,0
+6957,/i/021000/021255.png,Blue Drop,/Item/6957,Item,item,0
+6958,/i/021000/021258.png,Clear Drop,/Item/6958,Item,item,0
+6959,/i/021000/021257.png,Purple Drop,/Item/6959,Item,item,0
+6960,/i/021000/021259.png,White Drop,/Item/6960,Item,item,0
+6961,/i/021000/021260.png,Black Drop,/Item/6961,Item,item,0
+6962,/i/021000/021256.png,Yellow Drop,/Item/6962,Item,item,0
+6963,/i/021000/021254.png,Green Drop,/Item/6963,Item,item,0
+7059,/i/020000/020645.png,Spiritbond Potion,/Item/7059,Item,item,0
+7570,/i/024000/024317.png,Steamed Catfish,/Item/7570,Item,item,0
+7571,/i/024000/024072.png,Popoto Pancakes,/Item/7571,Item,item,0
+7572,/i/024000/024361.png,Roast Canard,/Item/7572,Item,item,0
+7573,/i/024000/024071.png,Sachertorte,/Item/7573,Item,item,0
+7574,/i/024000/024114.png,Chilled Popoto Soup,/Item/7574,Item,item,0
+7575,/i/024000/024252.png,Spinach Quiche,/Item/7575,Item,item,0
+7592,/i/025000/025317.png,Apricot,/Item/7592,Item,item,0
+7593,/i/025000/025216.png,La Noscean Leek,/Item/7593,Item,item,0
+7594,/i/025000/025206.png,Young Cieldalaes Spinach,/Item/7594,Item,item,0
+7595,/i/025000/025312.png,Blood Orange,/Item/7595,Item,item,0
+7602,/i/025000/025024.png,Star Anise,/Item/7602,Item,item,0
+7603,/i/025000/025221.png,Dalamud Popoto,/Item/7603,Item,item,0
+7604,/i/025000/025314.png,Royal Kukuru Bean,/Item/7604,Item,item,0
+7605,/i/025000/025151.png,Canard Breast,/Item/7605,Item,item,0
+7678,/i/029000/029069.png,Zalera,/Item/7678,Item,item,0
+7679,/i/029000/029324.png,Beguiler Chub,/Item/7679,Item,item,0
+7680,/i/029000/029073.png,Oschon's Print,/Item/7680,Item,item,0
+7681,/i/029000/029326.png,Caterwauler,/Item/7681,Item,item,0
+7682,/i/029000/029327.png,Crystal Perch,/Item/7682,Item,item,0
+7683,/i/029000/029323.png,Moldva,/Item/7683,Item,item,0
+7684,/i/029000/029070.png,Junkmonger,/Item/7684,Item,item,0
+7685,/i/029000/029068.png,Goldenfin,/Item/7685,Item,item,0
+7686,/i/029000/029065.png,Gigantshark,/Item/7686,Item,item,0
+7687,/i/029000/029077.png,Armorer,/Item/7687,Item,item,0
+7688,/i/029000/029325.png,Great Gudgeon,/Item/7688,Item,item,0
+7689,/i/029000/029318.png,Dark Knight,/Item/7689,Item,item,0
+7691,/i/029000/029066.png,Sabertooth Cod,/Item/7691,Item,item,0
+7692,/i/029000/029328.png,Dream Goby,/Item/7692,Item,item,0
+7694,/i/029000/029329.png,Dark Ambusher,/Item/7694,Item,item,0
+7695,/i/029000/029340.png,Judgeray,/Item/7695,Item,item,0
+7696,/i/029000/029321.png,Bloody Brewer,/Item/7696,Item,item,0
+7697,/i/029000/029330.png,Faerie Queen,/Item/7697,Item,item,0
+7698,/i/029000/029322.png,Slime King,/Item/7698,Item,item,0
+7699,/i/029000/029331.png,Blue Widow,/Item/7699,Item,item,0
+7700,/i/029000/029332.png,Ghost Carp,/Item/7700,Item,item,0
+7701,/i/029000/029333.png,Carp Diem,/Item/7701,Item,item,0
+7702,/i/029000/029335.png,Mud Pilgrim,/Item/7702,Item,item,0
+7703,/i/029000/029319.png,Old Softie,/Item/7703,Item,item,0
+7704,/i/029000/029334.png,Marrow Sucker,/Item/7704,Item,item,0
+7705,/i/029000/029336.png,Chirurgeon,/Item/7705,Item,item,0
+7706,/i/029000/029337.png,Mud Golem,/Item/7706,Item,item,0
+7707,/i/029000/029072.png,Octomammoth,/Item/7707,Item,item,0
+7708,/i/029000/029320.png,Matron Carp,/Item/7708,Item,item,0
+7709,/i/029000/029338.png,High Perch,/Item/7709,Item,item,0
+7710,/i/029000/029074.png,Syldra,/Item/7710,Item,item,0
+7711,/i/029000/029067.png,Rivet Oyster,/Item/7711,Item,item,0
+7712,/i/029000/029075.png,Jacques the Snipper,/Item/7712,Item,item,0
+7713,/i/029000/029076.png,Stormdancer,/Item/7713,Item,item,0
+7714,/i/029000/029339.png,Glimmerscale,/Item/7714,Item,item,0
+7902,/i/029000/029373.png,Cupfish,/Item/7902,Item,item,0
+7903,/i/029000/029086.png,Meteor Survivor,/Item/7903,Item,item,0
+7904,/i/029000/029351.png,Joan of Trout,/Item/7904,Item,item,0
+7905,/i/029000/029358.png,Toramafish,/Item/7905,Item,item,0
+7906,/i/029000/029082.png,Fingers,/Item/7906,Item,item,0
+7907,/i/029000/029347.png,The Assassin,/Item/7907,Item,item,0
+7908,/i/029000/029342.png,Vip Viper,/Item/7908,Item,item,0
+7909,/i/029000/029080.png,The Greatest Bream in the World,/Item/7909,Item,item,0
+7910,/i/029000/029081.png,Dirty Herry,/Item/7910,Item,item,0
+7911,/i/029000/029363.png,Old Hollow Eyes,/Item/7911,Item,item,0
+7912,/i/029000/029360.png,Sylphsbane,/Item/7912,Item,item,0
+7913,/i/029000/029352.png,Floating Boulder,/Item/7913,Item,item,0
+7914,/i/029000/029343.png,The Grinner,/Item/7914,Item,item,0
+7915,/i/029000/029083.png,Shark Tuna,/Item/7915,Item,item,0
+7916,/i/029000/029355.png,Worm of Nym,/Item/7916,Item,item,0
+7917,/i/029000/029374.png,Twitchbeard,/Item/7917,Item,item,0
+7918,/i/029000/029356.png,The Warden's Wand,/Item/7918,Item,item,0
+7919,/i/029000/029611.png,Spearnose,/Item/7919,Item,item,0
+7920,/i/029000/029353.png,Levinlight,/Item/7920,Item,item,0
+7921,/i/029000/029341.png,The Sinker,/Item/7921,Item,item,0
+7922,/i/029000/029357.png,The Gobfather,/Item/7922,Item,item,0
+7923,/i/029000/029375.png,Sweetnewt,/Item/7923,Item,item,0
+7924,/i/029000/029087.png,Bombardfish,/Item/7924,Item,item,0
+7925,/i/029000/029365.png,The Salter,/Item/7925,Item,item,0
+7926,/i/029000/029085.png,The Lone Ripper,/Item/7926,Item,item,0
+7927,/i/029000/029362.png,King of the Spring,/Item/7927,Item,item,0
+7928,/i/029000/029349.png,Discobolus,/Item/7928,Item,item,0
+7929,/i/029000/029350.png,Iron Noose,/Item/7929,Item,item,0
+7931,/i/029000/029610.png,Magic Carpet,/Item/7931,Item,item,0
+7932,/i/029000/029366.png,Daniffen's Mark,/Item/7932,Item,item,0
+7933,/i/029000/029372.png,Charon's Lantern,/Item/7933,Item,item,0
+7934,/i/029000/029354.png,The Green Jester,/Item/7934,Item,item,0
+7935,/i/029000/029344.png,Bloodbath,/Item/7935,Item,item,0
+7936,/i/029000/029367.png,Son of Levin,/Item/7936,Item,item,0
+7937,/i/029000/029368.png,Thundergut,/Item/7937,Item,item,0
+7938,/i/029000/029361.png,The Drowned Sniper,/Item/7938,Item,item,0
+7939,/i/029000/029364.png,The Terpsichorean,/Item/7939,Item,item,0
+7940,/i/029000/029371.png,Mirrorscale,/Item/7940,Item,item,0
+7941,/i/029000/029084.png,Helmsman's Hand,/Item/7941,Item,item,0
+7942,/i/029000/029369.png,The Thousand-year Itch,/Item/7942,Item,item,0
+7943,/i/029000/029345.png,Hannibal,/Item/7943,Item,item,0
+7944,/i/029000/029348.png,Dawn Maiden,/Item/7944,Item,item,0
+7945,/i/029000/029359.png,Starbright,/Item/7945,Item,item,0
+7946,/i/029000/029370.png,The Matriarch,/Item/7946,Item,item,0
+7947,/i/029000/029346.png,Shadowstreak,/Item/7947,Item,item,0
+7948,/i/029000/029079.png,The Captain's Chalice,/Item/7948,Item,item,0
+7949,/i/029000/029658.png,Anomalocaris,/Item/7949,Item,item,0
+7950,/i/029000/029088.png,Frilled Shark,/Item/7950,Item,item,0
+7951,/i/029000/029089.png,Aetherlouse,/Item/7951,Item,item,0
+8752,/i/029000/029392.png,Imperial Goldfish,/Item/8752,Item,item,0
+8753,/i/029000/029095.png,The Old Man in the Sea,/Item/8753,Item,item,0
+8755,/i/029000/029091.png,Coelacanthus,/Item/8755,Item,item,0
+8757,/i/029000/029093.png,Seahag,/Item/8757,Item,item,0
+8758,/i/029000/029390.png,Ignus Horn,/Item/8758,Item,item,0
+8759,/i/029000/029389.png,Void Bass,/Item/8759,Item,item,0
+8760,/i/029000/029377.png,Cornelia,/Item/8760,Item,item,0
+8761,/i/029000/029378.png,Ninja Betta,/Item/8761,Item,item,0
+8762,/i/029000/029386.png,Canavan,/Item/8762,Item,item,0
+8764,/i/029000/029092.png,Pirate's Bane,/Item/8764,Item,item,0
+8765,/i/029000/029391.png,Ndendecki,/Item/8765,Item,item,0
+8766,/i/029000/029380.png,Bat-o'-Nine-Tails,/Item/8766,Item,item,0
+8767,/i/029000/029383.png,Wootz Knifefish Zenith,/Item/8767,Item,item,0
+8769,/i/029000/029385.png,Darkstar,/Item/8769,Item,item,0
+8770,/i/029000/029388.png,Blue Corpse,/Item/8770,Item,item,0
+8771,/i/029000/029660.png,Mahar,/Item/8771,Item,item,0
+8773,/i/029000/029387.png,Magicked Mushroom,/Item/8773,Item,item,0
+8774,/i/029000/029382.png,Giant Takitaro,/Item/8774,Item,item,0
+8776,/i/029000/029379.png,Blood Red Bonytongue,/Item/8776,Item,item,0
+8841,/i/020000/020625.png,Retainer Fantasia,/Item/8841,Item,item,0
+9330,/i/024000/024407.png,Triple Cream Coffee,/Item/9330,Item,item,0
+9331,/i/024000/024012.png,Bacon Bread,/Item/9331,Item,item,0
+9332,/i/024000/024259.png,Flint Caviar,/Item/9332,Item,item,0
+9333,/i/024000/024115.png,Shark Fin Soup,/Item/9333,Item,item,0
+9334,/i/024000/024258.png,Haddock Dip,/Item/9334,Item,item,0
+9335,/i/024000/024103.png,Bacon Broth,/Item/9335,Item,item,0
+9371,/i/024000/024362.png,Smoked Bacon,/Item/9371,Item,item,0
+9372,/i/025000/025919.png,Roasted Coffee Beans,/Item/9372,Item,item,0
+9516,/i/024000/024305.png,Tailor-made Eel Pie,/Item/9516,Item,item,0
+9528,/i/025000/025057.png,Vintage Cooking Sherry,/Item/9528,Item,item,0
+10086,/i/027000/027609.png,Tinker's Calm,/Item/10086,Item,item,0
+10146,/i/024000/024057.png,Better Crowned Pie,/Item/10146,Item,item,0
+10332,/i/024000/024319.png,Battered Fish,/Item/10332,Item,item,0
+12622,/i/020000/020665.png,Draconian Potion of Strength,/Item/12622,Item,item,0
+12623,/i/020000/020667.png,Draconian Potion of Dexterity,/Item/12623,Item,item,0
+12624,/i/020000/020666.png,Draconian Potion of Vitality,/Item/12624,Item,item,0
+12625,/i/020000/020668.png,Draconian Potion of Intelligence,/Item/12625,Item,item,0
+12626,/i/020000/020669.png,Draconian Potion of Mind,/Item/12626,Item,item,0
+12713,/i/029000/029809.png,Icepick,/Item/12713,Item,item,0
+12714,/i/029000/029062.png,Cloud Coral,/Item/12714,Item,item,0
+12715,/i/029000/029803.png,Ice Faerie,/Item/12715,Item,item,0
+12716,/i/029000/029722.png,Skyworm,/Item/12716,Item,item,0
+12718,/i/029000/029808.png,Coerthan Crab,/Item/12718,Item,item,0
+12719,/i/029000/029806.png,Fanged Clam,/Item/12719,Item,item,0
+12720,/i/029000/029804.png,Lake Urchin,/Item/12720,Item,item,0
+12721,/i/029000/029405.png,Whilom Catfish,/Item/12721,Item,item,0
+12722,/i/029000/029404.png,Blueclaw Shrimp,/Item/12722,Item,item,0
+12723,/i/029000/029715.png,Starflower,/Item/12723,Item,item,0
+12724,/i/029000/029706.png,Glacier Core,/Item/12724,Item,item,0
+12725,/i/029000/029418.png,Ogre Horn Snail,/Item/12725,Item,item,0
+12726,/i/029000/029807.png,Sorcerer Fish,/Item/12726,Item,item,0
+12727,/i/029000/029810.png,Hotrod,/Item/12727,Item,item,0
+12728,/i/029000/029399.png,Maiboi,/Item/12728,Item,item,0
+12729,/i/029000/029409.png,Three-lip Carp,/Item/12729,Item,item,0
+12730,/i/029000/029233.png,Bullfrog,/Item/12730,Item,item,0
+12731,/i/029000/029411.png,Cloudfish,/Item/12731,Item,item,0
+12732,/i/029000/029713.png,Mahu Wai,/Item/12732,Item,item,0
+12733,/i/029000/029413.png,Rock Mussel,/Item/12733,Item,item,0
+12734,/i/029000/029723.png,Buoyant Oviform,/Item/12734,Item,item,0
+12735,/i/029000/029719.png,Whiteloom,/Item/12735,Item,item,0
+12736,/i/029000/029061.png,Blue Cloud Coral,/Item/12736,Item,item,0
+12737,/i/029000/029300.png,Seema Patrician,/Item/12737,Item,item,0
+12738,/i/029000/029811.png,Ammonite,/Item/12738,Item,item,0
+12739,/i/029000/029408.png,Bubble Eye,/Item/12739,Item,item,0
+12740,/i/029000/029407.png,Grass Carp,/Item/12740,Item,item,0
+12741,/i/029000/029212.png,Pipira Pira,/Item/12741,Item,item,0
+12742,/i/029000/029397.png,Dravanian Squeaker,/Item/12742,Item,item,0
+12743,/i/029000/029410.png,Kissing Fish,/Item/12743,Item,item,0
+12744,/i/029000/029714.png,Mitre Slug,/Item/12744,Item,item,0
+12745,/i/029000/029860.png,Lava Crab,/Item/12745,Item,item,0
+12746,/i/029000/029718.png,Storm Core,/Item/12746,Item,item,0
+12747,/i/029000/029299.png,Scholar Sculpin,/Item/12747,Item,item,0
+12748,/i/029000/029812.png,Gigant Grouper,/Item/12748,Item,item,0
+12749,/i/029000/029398.png,Vanuhead,/Item/12749,Item,item,0
+12750,/i/029000/029394.png,Marble Oscar,/Item/12750,Item,item,0
+12751,/i/029000/029400.png,Lungfish,/Item/12751,Item,item,0
+12752,/i/029000/029412.png,Tigerfish,/Item/12752,Item,item,0
+12753,/i/029000/029716.png,Sky Faerie,/Item/12753,Item,item,0
+12754,/i/029000/029854.png,Granite Crab,/Item/12754,Item,item,0
+12755,/i/029000/029858.png,Aithon's Colt,/Item/12755,Item,item,0
+12756,/i/029000/029805.png,Shipworm,/Item/12756,Item,item,0
+12757,/i/029000/029801.png,Hedgemole Cricket,/Item/12757,Item,item,0
+12758,/i/029000/029406.png,Mogpom,/Item/12758,Item,item,0
+12759,/i/029000/029060.png,Magma Tree,/Item/12759,Item,item,0
+12760,/i/029000/029655.png,Cloud Rider,/Item/12760,Item,item,0
+12761,/i/029000/029206.png,Dravanian Bass,/Item/12761,Item,item,0
+12762,/i/029000/029276.png,Coerthan Puffer,/Item/12762,Item,item,0
+12763,/i/029000/029057.png,Snowcaller,/Item/12763,Item,item,0
+12764,/i/029000/029288.png,Dragonhead,/Item/12764,Item,item,0
+12765,/i/029000/029302.png,Mercy Staff,/Item/12765,Item,item,0
+12766,/i/029000/029656.png,Rime Eater,/Item/12766,Item,item,0
+12767,/i/029000/029402.png,Warmwater Bichir,/Item/12767,Item,item,0
+12768,/i/029000/029403.png,Noontide Oscar,/Item/12768,Item,item,0
+12769,/i/029000/029265.png,Shadowhisker,/Item/12769,Item,item,0
+12770,/i/029000/029708.png,Gobbie Mask,/Item/12770,Item,item,0
+12771,/i/029000/029711.png,Blue Medusa,/Item/12771,Item,item,0
+12772,/i/029000/029857.png,Cindersmith,/Item/12772,Item,item,0
+12773,/i/029000/029757.png,Bullwhip,/Item/12773,Item,item,0
+12774,/i/029000/029396.png,Tiny Axolotl,/Item/12774,Item,item,0
+12775,/i/029000/029032.png,High Allagan Helmet,/Item/12775,Item,item,0
+12776,/i/029000/029312.png,Platinum Fish,/Item/12776,Item,item,0
+12777,/i/029000/029214.png,Aether Eye,/Item/12777,Item,item,0
+12778,/i/029000/029246.png,Azysfish,/Item/12778,Item,item,0
+12779,/i/029000/029256.png,Crystalfin,/Item/12779,Item,item,0
+12780,/i/029000/029395.png,Sweetfish,/Item/12780,Item,item,0
+12781,/i/029000/029401.png,Orn Butterfly,/Item/12781,Item,item,0
+12782,/i/029000/029416.png,Hundred Fin,/Item/12782,Item,item,0
+12783,/i/029000/029417.png,Autumn Leaf,/Item/12783,Item,item,0
+12784,/i/029000/029704.png,Manasail,/Item/12784,Item,item,0
+12785,/i/029000/029038.png,Sky Sweeper,/Item/12785,Item,item,0
+12786,/i/029000/029856.png,Magma Louse,/Item/12786,Item,item,0
+12787,/i/029000/029855.png,Cometoise,/Item/12787,Item,item,0
+12788,/i/029000/029752.png,Aetherochemical Compound #123,/Item/12788,Item,item,0
+12789,/i/029000/029232.png,Brown Bolo,/Item/12789,Item,item,0
+12790,/i/029000/029419.png,Philosopher's Stone,/Item/12790,Item,item,0
+12791,/i/029000/029274.png,Fountfish,/Item/12791,Item,item,0
+12792,/i/029000/029302.png,Weston Bowfin,/Item/12792,Item,item,0
+12793,/i/029000/029007.png,Letter Puffer,/Item/12793,Item,item,0
+12794,/i/029000/029803.png,Star Faerie,/Item/12794,Item,item,0
+12795,/i/029000/029060.png,Gloaming Coral,/Item/12795,Item,item,0
+12796,/i/029000/029705.png,Albino Octopus,/Item/12796,Item,item,0
+12797,/i/029000/029053.png,Dragon's Soul,/Item/12797,Item,item,0
+12798,/i/029000/029011.png,Tornado Shark,/Item/12798,Item,item,0
+12799,/i/029000/029657.png,Warballoon,/Item/12799,Item,item,0
+12800,/i/029000/029853.png,Fossiltongue,/Item/12800,Item,item,0
+12801,/i/029000/029753.png,Proto-hropken,/Item/12801,Item,item,0
+12802,/i/029000/029393.png,Caiman,/Item/12802,Item,item,0
+12803,/i/029000/029224.png,Euphotic Pirarucu,/Item/12803,Item,item,0
+12804,/i/029000/029260.png,Illuminati Perch,/Item/12804,Item,item,0
+12805,/i/029000/029717.png,Rudderfish,/Item/12805,Item,item,0
+12806,/i/029000/029046.png,Bomb Puffer,/Item/12806,Item,item,0
+12807,/i/029000/029756.png,Mucous Minnow,/Item/12807,Item,item,0
+12808,/i/029000/029031.png,Unidentified Flying Biomass,/Item/12808,Item,item,0
+12809,/i/029000/029411.png,Hospitalier Fish,/Item/12809,Item,item,0
+12810,/i/029000/029721.png,Scorpionfly,/Item/12810,Item,item,0
+12811,/i/029000/029252.png,Rockclimber,/Item/12811,Item,item,0
+12812,/i/029000/029295.png,Blood Skipper,/Item/12812,Item,item,0
+12813,/i/029000/029710.png,Cobrafish,/Item/12813,Item,item,0
+12814,/i/029000/029702.png,Moogle Spirit,/Item/12814,Item,item,0
+12815,/i/029000/029751.png,Oil Eel,/Item/12815,Item,item,0
+12816,/i/029000/029755.png,Jeweled Jellyfish,/Item/12816,Item,item,0
+12817,/i/029000/029802.png,Battle Galley,/Item/12817,Item,item,0
+12818,/i/029000/029227.png,Yalm Lobster,/Item/12818,Item,item,0
+12819,/i/029000/029304.png,Hinterlands Perch,/Item/12819,Item,item,0
+12820,/i/029000/029852.png,Oven Catfish,/Item/12820,Item,item,0
+12821,/i/029000/029707.png,Pteranodon,/Item/12821,Item,item,0
+12822,/i/029000/029720.png,Winged Gurnard,/Item/12822,Item,item,0
+12823,/i/029000/029804.png,Spring Urchin,/Item/12823,Item,item,0
+12824,/i/029000/029285.png,Cherry Trout,/Item/12824,Item,item,0
+12825,/i/029000/029703.png,Stupendemys,/Item/12825,Item,item,0
+12826,/i/029000/029851.png,Black Magefish,/Item/12826,Item,item,0
+12827,/i/029000/029754.png,Barreleye,/Item/12827,Item,item,0
+12828,/i/029000/029205.png,Thunderbolt Eel,/Item/12828,Item,item,0
+12829,/i/029000/029414.png,Catkiller,/Item/12829,Item,item,0
+12830,/i/029000/029243.png,Loosetongue,/Item/12830,Item,item,0
+12831,/i/029000/029415.png,Thaliak Caiman,/Item/12831,Item,item,0
+12832,/i/029000/029859.png,Lavalord,/Item/12832,Item,item,0
+12833,/i/029000/029709.png,Tupuxuara,/Item/12833,Item,item,0
+12834,/i/029000/029701.png,Vampiric Tapestry,/Item/12834,Item,item,0
+12835,/i/029000/029712.png,Storm Chaser,/Item/12835,Item,item,0
+12836,/i/029000/029238.png,Berserker Betta,/Item/12836,Item,item,0
+12837,/i/029000/029310.png,Capelin,/Item/12837,Item,item,0
+12842,/i/024000/024408.png,Ishgardian Tea,/Item/12842,Item,item,0
+12843,/i/024000/024409.png,Frozen Spirits,/Item/12843,Item,item,0
+12844,/i/024000/024410.png,Hot Chocolate,/Item/12844,Item,item,0
+12845,/i/024000/024073.png,Fig Bavarois,/Item/12845,Item,item,0
+12846,/i/024000/024077.png,Sohm Al Tart,/Item/12846,Item,item,0
+12847,/i/024000/024076.png,Marron Glace,/Item/12847,Item,item,0
+12848,/i/024000/024075.png,Creme Brulee,/Item/12848,Item,item,0
+12849,/i/024000/024002.png,Kaiser Roll,/Item/12849,Item,item,0
+12850,/i/024000/024074.png,Ishgardian Muffin,/Item/12850,Item,item,0
+12851,/i/024000/024014.png,Liver-cheese Sandwich,/Item/12851,Item,item,0
+12852,/i/024000/024013.png,Almond Cream Croissant,/Item/12852,Item,item,0
+12853,/i/024000/024205.png,Sauteed Porcini,/Item/12853,Item,item,0
+12854,/i/024000/024207.png,Morel Salad,/Item/12854,Item,item,0
+12855,/i/024000/024301.png,Grilled Sweetfish,/Item/12855,Item,item,0
+12856,/i/024000/024311.png,Baked Pipira Pira,/Item/12856,Item,item,0
+12857,/i/024000/024318.png,Urchin Loaf,/Item/12857,Item,item,0
+12858,/i/024000/024356.png,Cockatrice Meatballs,/Item/12858,Item,item,0
+12859,/i/024000/024260.png,Royal Eggs,/Item/12859,Item,item,0
+12860,/i/024000/024363.png,Deep-fried Okeanis,/Item/12860,Item,item,0
+12861,/i/024000/024116.png,Baked Onion Soup,/Item/12861,Item,item,0
+12862,/i/024000/024103.png,Beet Soup,/Item/12862,Item,item,0
+12863,/i/024000/024101.png,Emerald Soup,/Item/12863,Item,item,0
+12864,/i/024000/024114.png,Clam Chowder,/Item/12864,Item,item,0
+12865,/i/024000/024117.png,Seafood Stew,/Item/12865,Item,item,0
+12866,/i/024000/024206.png,Stuffed Cabbage Rolls,/Item/12866,Item,item,0
+12867,/i/024000/024112.png,Dhalmel Gratin,/Item/12867,Item,item,0
+12868,/i/024000/024159.png,Stuffed Chysahl,/Item/12868,Item,item,0
+12869,/i/024000/024107.png,Dhalmel Fricassee,/Item/12869,Item,item,0
+12870,/i/024000/024078.png,Snurbleberry Tart,/Item/12870,Item,item,0
+12871,/i/025000/025251.png,Gastornis Egg,/Item/12871,Item,item,0
+12872,/i/025000/025253.png,Okeanis Egg,/Item/12872,Item,item,0
+12873,/i/025000/025159.png,Loaghtan Chump,/Item/12873,Item,item,0
+12874,/i/025000/025152.png,Dhalmel Meat,/Item/12874,Item,item,0
+12875,/i/025000/025160.png,Okeanis Tail,/Item/12875,Item,item,0
+12876,/i/025000/025151.png,Cockatrice Thigh,/Item/12876,Item,item,0
+12877,/i/025000/025208.png,Pearl Sprouts,/Item/12877,Item,item,0
+12878,/i/025000/025203.png,Cyclops Onion,/Item/12878,Item,item,0
+12879,/i/025000/025353.png,Emerald Beans,/Item/12879,Item,item,0
+12880,/i/025000/025357.png,Highland Wheat,/Item/12880,Item,item,0
+12881,/i/025000/025351.png,Highland Flour,/Item/12881,Item,item,0
+12882,/i/025000/025020.png,Coerthan Tea Leaves,/Item/12882,Item,item,0
+12883,/i/025000/025034.png,Mist Dill,/Item/12883,Item,item,0
+12884,/i/025000/025035.png,Chives,/Item/12884,Item,item,0
+12885,/i/025000/025223.png,Magma Beet,/Item/12885,Item,item,0
+12886,/i/025000/025947.png,Heavenly Kukuru Powder,/Item/12886,Item,item,0
+12887,/i/025000/025033.png,Sesame Seeds,/Item/12887,Item,item,0
+12888,/i/024000/024453.png,Yak Milk,/Item/12888,Item,item,0
+12889,/i/025000/025305.png,Heavens Lemon,/Item/12889,Item,item,0
+12890,/i/025000/025109.png,Hollandaise Sauce,/Item/12890,Item,item,0
+12891,/i/022000/022642.png,Birch Sap,/Item/12891,Item,item,0
+12892,/i/025000/025105.png,Birch Syrup,/Item/12892,Item,item,0
+12893,/i/025000/025302.png,Dark Chestnut,/Item/12893,Item,item,0
+12894,/i/025000/025056.png,Sour Cream,/Item/12894,Item,item,0
+12895,/i/025000/025052.png,Fermented Butter,/Item/12895,Item,item,0
+12896,/i/025000/025318.png,Old World Fig,/Item/12896,Item,item,0
+12897,/i/025000/025319.png,Cloud Banana,/Item/12897,Item,item,0
+12898,/i/025000/025408.png,Morel,/Item/12898,Item,item,0
+12899,/i/025000/025401.png,Porcini,/Item/12899,Item,item,0
+12900,/i/025000/025222.png,Chysahl Greens,/Item/12900,Item,item,0
+12901,/i/022000/022617.png,Abalathian Rock Salt,/Item/12901,Item,item,0
+12902,/i/025000/025017.png,Honeydew Almonds,/Item/12902,Item,item,0
+12903,/i/025000/025018.png,Dravanian Paprika,/Item/12903,Item,item,0
+12904,/i/025000/025306.png,Snurbleberry,/Item/12904,Item,item,0
+12905,/i/025000/025054.png,Bouillon Cube,/Item/12905,Item,item,0
+12906,/i/027000/027602.png,Oriental Soy Sauce,/Item/12906,Item,item,0
+12907,/i/027000/027605.png,Oriental Miso Paste,/Item/12907,Item,item,0
+12908,/i/025000/025058.png,Vermicelli,/Item/12908,Item,item,0
+12971,/i/025000/025015.png,Highland Oregano,/Item/12971,Item,item,0
+12972,/i/025000/025016.png,Furymint,/Item/12972,Item,item,0
+12973,/i/025000/025009.png,Clary Sage,/Item/12973,Item,item,0
+13595,/i/024000/024057.png,Kingcake,/Item/13595,Item,item,0
+13637,/i/020000/020601.png,Max-Potion,/Item/13637,Item,item,0
+13638,/i/020000/020621.png,Max-Ether,/Item/13638,Item,item,0
+13727,/i/029000/029758.png,Functional Proto-hropken,/Item/13727,Item,item,0
+13728,/i/029000/029716.png,Coerthan Clione,/Item/13728,Item,item,0
+13729,/i/029000/029310.png,Dravanian Smelt,/Item/13729,Item,item,0
+13730,/i/029000/029725.png,Heavens Coral,/Item/13730,Item,item,0
+13731,/i/029000/029726.png,Sunsail,/Item/13731,Item,item,0
+13732,/i/029000/029280.png,Goblin Bass,/Item/13732,Item,item,0
+13733,/i/029000/029724.png,Pterodactyl,/Item/13733,Item,item,0
+13734,/i/029000/029727.png,Eurhinosaur,/Item/13734,Item,item,0
+13736,/i/029000/029316.png,Gem Marimo,/Item/13736,Item,item,0
+13737,/i/029000/029266.png,Crown Trout,/Item/13737,Item,item,0
+13738,/i/029000/029302.png,Retribution Staff,/Item/13738,Item,item,0
+13739,/i/029000/029238.png,Thief Betta,/Item/13739,Item,item,0
+13740,/i/029000/029420.png,Goldsmith Crab,/Item/13740,Item,item,0
+13742,/i/024000/024317.png,Steamed Staff,/Item/13742,Item,item,0
+13743,/i/024000/024007.png,Sesame Cookie,/Item/13743,Item,item,0
+14134,/i/024000/024405.png,Spiced Cider,/Item/14134,Item,item,0
+14135,/i/024000/024079.png,Apple Strudel,/Item/14135,Item,item,0
+14136,/i/024000/024016.png,Peperoncino,/Item/14136,Item,item,0
+14137,/i/024000/024017.png,Boscaiola,/Item/14137,Item,item,0
+14138,/i/024000/024355.png,Loaghtan Steak,/Item/14138,Item,item,0
+14139,/i/024000/024320.png,Oyster Confit,/Item/14139,Item,item,0
+14140,/i/024000/024109.png,Angler Stew,/Item/14140,Item,item,0
+14141,/i/024000/024301.png,Sweet Gnomefish,/Item/14141,Item,item,0
+14142,/i/025000/025320.png,Golden Apple,/Item/14142,Item,item,0
+14143,/i/025000/025006.png,Solstice Garlic,/Item/14143,Item,item,0
+14144,/i/025000/025451.png,Mature Olive Oil,/Item/14144,Item,item,0
+14145,/i/025000/025159.png,Loaghtan Fillet,/Item/14145,Item,item,0
+14176,/i/020000/020701.png,Max-Potion of Strength,/Item/14176,Item,item,0
+14177,/i/020000/020702.png,Max-Potion of Dexterity,/Item/14177,Item,item,0
+14178,/i/020000/020703.png,Max-Potion of Vitality,/Item/14178,Item,item,0
+14179,/i/020000/020704.png,Max-Potion of Intelligence,/Item/14179,Item,item,0
+14180,/i/020000/020705.png,Max-Potion of Mind,/Item/14180,Item,item,0
+14211,/i/029000/029424.png,Amber Salamander,/Item/14211,Item,item,0
+14212,/i/029000/029421.png,Gnomefish,/Item/14212,Item,item,0
+14213,/i/029000/029728.png,Fleece Stingray,/Item/14213,Item,item,0
+14214,/i/029000/029729.png,Nyctosaur,/Item/14214,Item,item,0
+14215,/i/029000/029423.png,Lava Snail,/Item/14215,Item,item,0
+14216,/i/029000/029096.png,Priestfish,/Item/14216,Item,item,0
+14217,/i/029000/029097.png,Coerthan Oyster,/Item/14217,Item,item,0
+14218,/i/029000/029613.png,Oliphant's Trunk,/Item/14218,Item,item,0
+14219,/i/029000/029027.png,Mountain Kraken,/Item/14219,Item,item,0
+14220,/i/029000/029422.png,Armored Catfish,/Item/14220,Item,item,0
+15425,/i/024000/024080.png,Rolanberry Shaved Ice,/Item/15425,Item,item,0
+15626,/i/029000/029425.png,Fat Purse,/Item/15626,Item,item,0
+15627,/i/029000/029813.png,The Impaler,/Item/15627,Item,item,0
+15628,/i/029000/029814.png,La Reale,/Item/15628,Item,item,0
+15629,/i/029000/029426.png,Scaleripper,/Item/15629,Item,item,0
+15630,/i/029000/029427.png,The Dreamweaver,/Item/15630,Item,item,0
+15631,/i/029000/029861.png,Meteortoise,/Item/15631,Item,item,0
+15632,/i/029000/029338.png,The Ewer King,/Item/15632,Item,item,0
+15633,/i/029000/029428.png,Vidofnir,/Item/15633,Item,item,0
+15634,/i/029000/029074.png,The Soul of the Martyr,/Item/15634,Item,item,0
+15635,/i/029000/029429.png,Inkfish,/Item/15635,Item,item,0
+15636,/i/029000/029065.png,The Second One,/Item/15636,Item,item,0
+15637,/i/029000/029086.png,Augmented High Allagan Helmet,/Item/15637,Item,item,0
+15638,/i/029000/029430.png,Aphotic Pirarucu,/Item/15638,Item,item,0
+15650,/i/024000/024118.png,Heavensegg Soup,/Item/15650,Item,item,0
+15651,/i/024000/024018.png,Pasta Ortolano,/Item/15651,Item,item,0
+15652,/i/025000/025254.png,Heavensegg,/Item/15652,Item,item,0
+16709,/i/024000/024407.png,Heavenly Eggnog,/Item/16709,Item,item,0
+16710,/i/024000/024054.png,Flaugnarde,/Item/16710,Item,item,0
+16711,/i/024000/024019.png,Spaghetti Carbonara,/Item/16711,Item,item,0
+16712,/i/024000/024119.png,Wildwood Scrambled Eggs,/Item/16712,Item,item,0
+16713,/i/024000/024020.png,Spaghetti Pescatore,/Item/16713,Item,item,0
+16714,/i/024000/024363.png,Loaghtan Cordon Bleu,/Item/16714,Item,item,0
+16715,/i/024000/024253.png,Priestly Omelette,/Item/16715,Item,item,0
+16716,/i/020000/020701.png,Supramax-Potion of Strength,/Item/16716,Item,item,0
+16717,/i/020000/020702.png,Supramax-Potion of Dexterity,/Item/16717,Item,item,0
+16718,/i/020000/020703.png,Supramax-Potion of Vitality,/Item/16718,Item,item,0
+16719,/i/020000/020704.png,Supramax-Potion of Intelligence,/Item/16719,Item,item,0
+16720,/i/020000/020705.png,Supramax-Potion of Mind,/Item/16720,Item,item,0
+16722,/i/025000/025405.png,Brown Mushroom,/Item/16722,Item,item,0
+16723,/i/025000/025002.png,Noble Sage,/Item/16723,Item,item,0
+16734,/i/024000/024453.png,Sweet Cream Milk,/Item/16734,Item,item,0
+16735,/i/024000/024458.png,Stone Cheese,/Item/16735,Item,item,0
+16742,/i/029000/029730.png,Dimorphodon,/Item/16742,Item,item,0
+16743,/i/029000/029731.png,Basking Shark,/Item/16743,Item,item,0
+16744,/i/029000/029759.png,Allagan Bladeshark,/Item/16744,Item,item,0
+16745,/i/029000/029661.png,Hailfinder,/Item/16745,Item,item,0
+16746,/i/029000/029815.png,Flarefish,/Item/16746,Item,item,0
+16747,/i/029000/029432.png,Twin-tongued Carp,/Item/16747,Item,item,0
+16748,/i/029000/029433.png,Madam Butterfly,/Item/16748,Item,item,0
+16749,/i/029000/029434.png,Moggle Mogpom,/Item/16749,Item,item,0
+16750,/i/029000/029732.png,Cirrostratus,/Item/16750,Item,item,0
+16751,/i/029000/029862.png,Hraesvelgr's Tear,/Item/16751,Item,item,0
+16752,/i/029000/029760.png,Aetherochemical Compound #666,/Item/16752,Item,item,0
+16753,/i/029000/029761.png,Hundred-eyed Axolotl,/Item/16753,Item,item,0
+16754,/i/029000/029330.png,Bobgoblin Bass,/Item/16754,Item,item,0
+16756,/i/029000/029367.png,Merciless,/Item/16756,Item,item,0
+16911,/i/020000/020623.png,Watered Cordial,/Item/16911,Item,item,0
+17577,/i/029000/029098.png,Bishopfish,/Item/17577,Item,item,0
+17578,/i/029000/029816.png,Captain Nemo,/Item/17578,Item,item,0
+17579,/i/029000/029436.png,Paikiller,/Item/17579,Item,item,0
+17580,/i/029000/029611.png,Ceti,/Item/17580,Item,item,0
+17581,/i/029000/029735.png,Crystal Pigeon,/Item/17581,Item,item,0
+17582,/i/029000/029437.png,Thunderscale,/Item/17582,Item,item,0
+17583,/i/029000/029864.png,Riddle,/Item/17583,Item,item,0
+17584,/i/029000/029865.png,The Lord of Lords,/Item/17584,Item,item,0
+17585,/i/029000/029438.png,The Speaker,/Item/17585,Item,item,0
+17586,/i/029000/029439.png,Thousand Fin,/Item/17586,Item,item,0
+17587,/i/029000/029736.png,Bloodchaser,/Item/17587,Item,item,0
+17588,/i/029000/029863.png,Problematicus,/Item/17588,Item,item,0
+17589,/i/029000/029762.png,Opabinia,/Item/17589,Item,item,0
+17590,/i/029000/029435.png,Armor Fish,/Item/17590,Item,item,0
+17591,/i/029000/029662.png,Sea Butterfly,/Item/17591,Item,item,0
+17592,/i/029000/029734.png,Charibenet,/Item/17592,Item,item,0
+17593,/i/029000/029733.png,Raimdellopterus,/Item/17593,Item,item,0
+17594,/i/029000/029729.png,Peteinosaur,/Item/17594,Item,item,0
+17689,/i/025000/025009.png,Crownbrush,/Item/17689,Item,item,0
+19807,/i/024000/024412.png,Doman Tea,/Item/19807,Item,item,0
+19808,/i/024000/024401.png,Loquat Juice,/Item/19808,Item,item,0
+19809,/i/024000/024406.png,Buckwheat Tea,/Item/19809,Item,item,0
+19810,/i/024000/024410.png,Steppe Tea,/Item/19810,Item,item,0
+19811,/i/024000/024083.png,Baklava,/Item/19811,Item,item,0
+19812,/i/024000/024082.png,Jellied Compote,/Item/19812,Item,item,0
+19813,/i/024000/024075.png,Persimmon Pudding,/Item/19813,Item,item,0
+19814,/i/024000/024021.png,Chirashi-zushi,/Item/19814,Item,item,0
+19815,/i/021000/021005.png,Persimmon Leaf Sushi,/Item/19815,Item,item,0
+19816,/i/024000/024022.png,Popoto Soba,/Item/19816,Item,item,0
+19817,/i/024000/024351.png,Shorlog,/Item/19817,Item,item,0
+19818,/i/024000/024361.png,Pork Kakuni,/Item/19818,Item,item,0
+19819,/i/024000/024353.png,Jerked Jhammel,/Item/19819,Item,item,0
+19820,/i/024000/024256.png,Egg Foo Young,/Item/19820,Item,item,0
+19821,/i/024000/024322.png,Onigara-yaki,/Item/19821,Item,item,0
+19822,/i/029000/029112.png,Grilled Turban,/Item/19822,Item,item,0
+19823,/i/024000/024321.png,Boiled Amberjack Head,/Item/19823,Item,item,0
+19824,/i/024000/024317.png,Steamed Grouper,/Item/19824,Item,item,0
+19825,/i/024000/024313.png,Sweet and Sour Frogs' Legs,/Item/19825,Item,item,0
+19826,/i/024000/024323.png,Tempura Platter,/Item/19826,Item,item,0
+19827,/i/024000/024312.png,Stewed River Bream,/Item/19827,Item,item,0
+19828,/i/024000/024301.png,Charred Charr,/Item/19828,Item,item,0
+19829,/i/024000/024161.png,Miso Dengaku,/Item/19829,Item,item,0
+19830,/i/024000/024112.png,Jhammel Moussaka,/Item/19830,Item,item,0
+19831,/i/024000/024160.png,Gameni,/Item/19831,Item,item,0
+19832,/i/024000/024151.png,Steppe Salad,/Item/19832,Item,item,0
+19833,/i/024000/024308.png,Crab Croquette,/Item/19833,Item,item,0
+19834,/i/024000/024120.png,Miso Soup with Tofu,/Item/19834,Item,item,0
+19835,/i/024000/024113.png,Fish Stew,/Item/19835,Item,item,0
+19836,/i/024000/024120.png,Pork Stew,/Item/19836,Item,item,0
+19837,/i/024000/024107.png,Warrior's Stew,/Item/19837,Item,item,0
+19838,/i/024000/024106.png,Kasha,/Item/19838,Item,item,0
+19839,/i/024000/024354.png,Nomad Meat Pie,/Item/19839,Item,item,0
+19840,/i/026000/026109.png,Tea Brick,/Item/19840,Item,item,0
+19841,/i/025000/025351.png,Gyr Abanian Flour,/Item/19841,Item,item,0
+19842,/i/025000/025059.png,Firm Tofu,/Item/19842,Item,item,0
+19843,/i/025000/025451.png,Rice Vinegar,/Item/19843,Item,item,0
+19844,/i/025000/025103.png,Beet Sugar,/Item/19844,Item,item,0
+19845,/i/025000/025106.png,Cooking Sake,/Item/19845,Item,item,0
+19846,/i/025000/025452.png,Cottonseed Oil,/Item/19846,Item,item,0
+19848,/i/025000/025104.png,Algae Salt,/Item/19848,Item,item,0
+19849,/i/025000/025358.png,Koshu Sticky Rice,/Item/19849,Item,item,0
+19850,/i/025000/025356.png,Buckwheat Kernels,/Item/19850,Item,item,0
+19851,/i/025000/025317.png,Loquat,/Item/19851,Item,item,0
+19852,/i/025000/025311.png,Othardian Plum,/Item/19852,Item,item,0
+19853,/i/025000/025005.png,Kudzu Root,/Item/19853,Item,item,0
+19854,/i/025000/025205.png,Doman Eggplant,/Item/19854,Item,item,0
+19855,/i/025000/025215.png,Daikon Radish,/Item/19855,Item,item,0
+19856,/i/025000/025223.png,Sugar Beet,/Item/19856,Item,item,0
+19857,/i/025000/025012.png,Jhammel Ginger,/Item/19857,Item,item,0
+19858,/i/025000/025207.png,Gyr Abanian Carrot,/Item/19858,Item,item,0
+19859,/i/025000/025035.png,Green Leek,/Item/19859,Item,item,0
+19860,/i/025000/025229.png,Bamboo Shoot,/Item/19860,Item,item,0
+19861,/i/025000/025227.png,Mountain Popoto,/Item/19861,Item,item,0
+19862,/i/025000/025228.png,Soybeans,/Item/19862,Item,item,0
+19863,/i/025000/025401.png,Shiitake Mushroom,/Item/19863,Item,item,0
+19864,/i/025000/025354.png,Cumin Seeds,/Item/19864,Item,item,0
+19865,/i/025000/025226.png,Lotus Root,/Item/19865,Item,item,0
+19866,/i/025000/025208.png,Sun Cabbage,/Item/19866,Item,item,0
+19867,/i/025000/025034.png,Fennel,/Item/19867,Item,item,0
+19868,/i/025000/025357.png,Gyr Abanian Wheat,/Item/19868,Item,item,0
+19869,/i/025000/025321.png,Persimmon,/Item/19869,Item,item,0
+19873,/i/025000/025159.png,Dzo Chuck,/Item/19873,Item,item,0
+19874,/i/025000/025151.png,Hornbill Tenderloin,/Item/19874,Item,item,0
+19875,/i/025000/025152.png,Jhammel Haunch,/Item/19875,Item,item,0
+19876,/i/024000/024362.png,Koshu Pork,/Item/19876,Item,item,0
+19877,/i/025000/025251.png,Gagana Egg,/Item/19877,Item,item,0
+19878,/i/024000/024453.png,Steppe Milk,/Item/19878,Item,item,0
+19879,/i/025000/025224.png,Ama Nori,/Item/19879,Item,item,0
+19880,/i/025000/025217.png,Ruby Tide Kelp,/Item/19880,Item,item,0
+19881,/i/025000/025225.png,Gem Algae,/Item/19881,Item,item,0
+19882,/i/024000/024413.png,Competent Craftsman's Tea,/Item/19882,Item,item,0
+19883,/i/024000/024412.png,Commanding Craftsman's Tea,/Item/19883,Item,item,0
+19884,/i/024000/024411.png,Cunning Craftsman's Tea,/Item/19884,Item,item,0
+19885,/i/020000/020643.png,Potent Spiritbond Potion,/Item/19885,Item,item,0
+19886,/i/020000/020701.png,Infusion of Strength,/Item/19886,Item,item,0
+19887,/i/020000/020702.png,Infusion of Dexterity,/Item/19887,Item,item,0
+19888,/i/020000/020703.png,Infusion of Vitality,/Item/19888,Item,item,0
+19889,/i/020000/020704.png,Infusion of Intelligence,/Item/19889,Item,item,0
+19890,/i/020000/020705.png,Infusion of Mind,/Item/19890,Item,item,0
+20018,/i/029000/029115.png,Liopleurodon,/Item/20018,Item,item,0
+20019,/i/029000/029103.png,Ala Mhigan Ribbon,/Item/20019,Item,item,0
+20020,/i/029000/029445.png,Yanxian Barramundi,/Item/20020,Item,item,0
+20021,/i/029000/029446.png,Seraphim,/Item/20021,Item,item,0
+20022,/i/029000/029128.png,Blackfin Snake Eel,/Item/20022,Item,item,0
+20023,/i/029000/029485.png,Tail Mountains Minnow,/Item/20023,Item,item,0
+20024,/i/029000/029447.png,Sweatfish,/Item/20024,Item,item,0
+20025,/i/029000/029901.png,Rock Saltfish,/Item/20025,Item,item,0
+20026,/i/029000/029453.png,Comet Minnow,/Item/20026,Item,item,0
+20027,/i/029000/029454.png,Doman Grass Carp,/Item/20027,Item,item,0
+20028,/i/029000/029461.png,Samurai Fish,/Item/20028,Item,item,0
+20029,/i/029000/029463.png,Golden Cichlid,/Item/20029,Item,item,0
+20030,/i/029000/029464.png,Hak Bitterling,/Item/20030,Item,item,0
+20031,/i/029000/029472.png,Yat Goby,/Item/20031,Item,item,0
+20032,/i/029000/029474.png,Ruby Meagre,/Item/20032,Item,item,0
+20033,/i/029000/029479.png,Greenstream Loach,/Item/20033,Item,item,0
+20034,/i/029000/029121.png,Tawny Wench Shark,/Item/20034,Item,item,0
+20035,/i/029000/029906.png,Whitehorse,/Item/20035,Item,item,0
+20036,/i/029000/029483.png,Killifish,/Item/20036,Item,item,0
+20037,/i/029000/029126.png,Coeurl Snake Eel,/Item/20037,Item,item,0
+20038,/i/029000/029133.png,Zekki Grouper,/Item/20038,Item,item,0
+20039,/i/029000/029909.png,Saltshield Snapper,/Item/20039,Item,item,0
+20040,/i/029000/029922.png,Sculptor,/Item/20040,Item,item,0
+20041,/i/029000/029923.png,Pearl-eye,/Item/20041,Item,item,0
+20042,/i/029000/029465.png,Abalathian Bitterling,/Item/20042,Item,item,0
+20043,/i/029000/029466.png,Steelshark,/Item/20043,Item,item,0
+20044,/i/029000/029468.png,Tao Bitterling,/Item/20044,Item,item,0
+20045,/i/029000/029492.png,Idle Goby,/Item/20045,Item,item,0
+20046,/i/029000/029495.png,River Barramundi,/Item/20046,Item,item,0
+20047,/i/029000/029496.png,Mirage Chub,/Item/20047,Item,item,0
+20048,/i/029000/029139.png,Harutsuge,/Item/20048,Item,item,0
+20049,/i/029000/029497.png,Steelhead Trout,/Item/20049,Item,item,0
+20050,/i/029000/029498.png,Heather Charr,/Item/20050,Item,item,0
+20051,/i/029000/029455.png,Silken Koi,/Item/20051,Item,item,0
+20052,/i/029000/029458.png,Yellow Prismfish,/Item/20052,Item,item,0
+20053,/i/029000/029459.png,Blue Prismfish,/Item/20053,Item,item,0
+20054,/i/029000/029123.png,Hanatatsu,/Item/20054,Item,item,0
+20055,/i/029000/029235.png,Broken Crab,/Item/20055,Item,item,0
+20056,/i/029000/029204.png,Gyr Abanian Trout,/Item/20056,Item,item,0
+20057,/i/029000/029292.png,Bloodsipper,/Item/20057,Item,item,0
+20058,/i/029000/029212.png,Miounnefish,/Item/20058,Item,item,0
+20059,/i/029000/029216.png,Monk Betta,/Item/20059,Item,item,0
+20060,/i/029000/029249.png,Electric Catfish,/Item/20060,Item,item,0
+20061,/i/029000/029224.png,Pagan Pirarucu,/Item/20061,Item,item,0
+20062,/i/029000/029286.png,Temple Carp,/Item/20062,Item,item,0
+20063,/i/029000/029312.png,Gilfish,/Item/20063,Item,item,0
+20064,/i/029000/029233.png,Balloon Frog,/Item/20064,Item,item,0
+20065,/i/029000/029316.png,Lantern Marimo,/Item/20065,Item,item,0
+20066,/i/029000/029215.png,Death Loach,/Item/20066,Item,item,0
+20067,/i/029000/029294.png,Grymm Crab,/Item/20067,Item,item,0
+20068,/i/029000/029404.png,Enid Shrimp,/Item/20068,Item,item,0
+20069,/i/029000/029209.png,Invisible Crayfish,/Item/20069,Item,item,0
+20070,/i/029000/029270.png,Rapids Jumper,/Item/20070,Item,item,0
+20071,/i/029000/029424.png,Abalathian Salamander,/Item/20071,Item,item,0
+20072,/i/029000/029402.png,Adamantite Bichir,/Item/20072,Item,item,0
+20073,/i/029000/029400.png,Meditator,/Item/20073,Item,item,0
+20074,/i/029000/029287.png,Deemster,/Item/20074,Item,item,0
+20075,/i/029000/029243.png,Stonytongue,/Item/20075,Item,item,0
+20076,/i/029000/029303.png,Bull's Bite,/Item/20076,Item,item,0
+20077,/i/029000/029301.png,Peeping Pisces,/Item/20077,Item,item,0
+20078,/i/029000/029278.png,Scimitarfish,/Item/20078,Item,item,0
+20079,/i/029000/029268.png,Gigant Bass,/Item/20079,Item,item,0
+20080,/i/029000/029206.png,Nhaama's Boon,/Item/20080,Item,item,0
+20081,/i/029000/029246.png,Cave Killifish,/Item/20081,Item,item,0
+20082,/i/029000/029289.png,Bone Melter,/Item/20082,Item,item,0
+20083,/i/029000/029417.png,Fallen Leaf,/Item/20083,Item,item,0
+20084,/i/029000/029718.png,Falling Star,/Item/20084,Item,item,0
+20085,/i/029000/029397.png,Capsized Squeaker,/Item/20085,Item,item,0
+20086,/i/029000/029293.png,Nirvana Crab,/Item/20086,Item,item,0
+20087,/i/029000/029407.png,Velodyna Grass Carp,/Item/20087,Item,item,0
+20088,/i/029000/029210.png,Black Velodyna Carp,/Item/20088,Item,item,0
+20089,/i/029000/029205.png,Rhalgr's Bolt,/Item/20089,Item,item,0
+20090,/i/029000/029260.png,Highland Perch,/Item/20090,Item,item,0
+20091,/i/029000/029251.png,Gravel Gudgeon,/Item/20091,Item,item,0
+20092,/i/029000/029034.png,Grinning Anchovy,/Item/20092,Item,item,0
+20093,/i/029000/029044.png,Glass Herring,/Item/20093,Item,item,0
+20094,/i/029000/029005.png,Hellyfish,/Item/20094,Item,item,0
+20095,/i/029000/029060.png,Ruby Coral,/Item/20095,Item,item,0
+20096,/i/029000/029061.png,Sapphire Coral,/Item/20096,Item,item,0
+20097,/i/029000/029062.png,Bone Coral,/Item/20097,Item,item,0
+20098,/i/029000/029016.png,Butterfly Fish,/Item/20098,Item,item,0
+20099,/i/029000/029021.png,Dafu,/Item/20099,Item,item,0
+20100,/i/029000/029022.png,Swordfish,/Item/20100,Item,item,0
+20101,/i/029000/029053.png,Leaf Tatsunoko,/Item/20101,Item,item,0
+20102,/i/029000/029052.png,Glass Flounder,/Item/20102,Item,item,0
+20103,/i/029000/029024.png,Zekki Gator,/Item/20103,Item,item,0
+20104,/i/029000/029027.png,Daio Squid,/Item/20104,Item,item,0
+20105,/i/029000/029023.png,Koromo Octopus,/Item/20105,Item,item,0
+20106,/i/029000/029042.png,Gliding Fish,/Item/20106,Item,item,0
+20107,/i/029000/029046.png,Globefish,/Item/20107,Item,item,0
+20108,/i/029000/029047.png,Fan Clam,/Item/20108,Item,item,0
+20109,/i/029000/029019.png,Blockhead,/Item/20109,Item,item,0
+20110,/i/029000/029018.png,Glass Tuna,/Item/20110,Item,item,0
+20111,/i/029000/029208.png,Doman Crayfish,/Item/20111,Item,item,0
+20112,/i/029000/029008.png,Ruby Shrimp,/Item/20112,Item,item,0
+20113,/i/029000/029007.png,Striped Fugu,/Item/20113,Item,item,0
+20114,/i/029000/029302.png,Raitonfish,/Item/20114,Item,item,0
+20115,/i/029000/029403.png,Blank Oscar,/Item/20115,Item,item,0
+20116,/i/029000/029243.png,Dragonfish,/Item/20116,Item,item,0
+20117,/i/029000/029282.png,Lordly Salmon,/Item/20117,Item,item,0
+20118,/i/029000/029239.png,Yanxian Koi,/Item/20118,Item,item,0
+20119,/i/029000/029224.png,Kotsu Zetsu,/Item/20119,Item,item,0
+20120,/i/029000/029422.png,Longhair Catfish,/Item/20120,Item,item,0
+20121,/i/029000/029401.png,Plum Gazer,/Item/20121,Item,item,0
+20122,/i/029000/029408.png,Pandamoth,/Item/20122,Item,item,0
+20123,/i/029000/029240.png,Doman Trout,/Item/20123,Item,item,0
+20124,/i/029000/029257.png,Doman Eel,/Item/20124,Item,item,0
+20125,/i/029000/029314.png,Brassfish,/Item/20125,Item,item,0
+20126,/i/029000/029245.png,Othardian Trout,/Item/20126,Item,item,0
+20127,/i/029000/029310.png,Zagas Khaal,/Item/20127,Item,item,0
+20128,/i/029000/029306.png,Steppe Skipper,/Item/20128,Item,item,0
+20129,/i/029000/029295.png,Dry Steppe Skipper,/Item/20129,Item,item,0
+20130,/i/029000/029305.png,Sun Bass,/Item/20130,Item,item,0
+20131,/i/029000/029247.png,Skytear,/Item/20131,Item,item,0
+20132,/i/029000/029207.png,Dawn Crayfish,/Item/20132,Item,item,0
+20133,/i/029000/029209.png,Dusk Crayfish,/Item/20133,Item,item,0
+20134,/i/029000/029272.png,Bowfish,/Item/20134,Item,item,0
+20135,/i/029000/029299.png,Jade Sculpin,/Item/20135,Item,item,0
+20136,/i/029000/029488.png,Padjali Loach,/Item/20136,Item,item,0
+20137,/i/029000/029457.png,Nogoi,/Item/20137,Item,item,0
+20138,/i/029000/029237.png,Curtain Pleco,/Item/20138,Item,item,0
+20140,/i/029000/029267.png,Hardscale,/Item/20140,Item,item,0
+20141,/i/029000/029414.png,Eastern Pike,/Item/20141,Item,item,0
+20142,/i/029000/029256.png,Wraithfish,/Item/20142,Item,item,0
+20143,/i/029000/029147.png,Little Perykos,/Item/20143,Item,item,0
+20144,/i/029000/029108.png,Wentletrap,/Item/20144,Item,item,0
+20145,/i/029000/029118.png,Black Boxfish,/Item/20145,Item,item,0
+20146,/i/029000/029130.png,Glass Manta,/Item/20146,Item,item,0
+20147,/i/029000/029125.png,Regal Silverside,/Item/20147,Item,item,0
+20148,/i/029000/029127.png,Snowflake Moray,/Item/20148,Item,item,0
+20149,/i/029000/029473.png,Hoppfish,/Item/20149,Item,item,0
+20150,/i/029000/029511.png,Lightscale,/Item/20150,Item,item,0
+20151,/i/029000/029504.png,Grass Fugu,/Item/20151,Item,item,0
+20152,/i/029000/029507.png,Giant Eel,/Item/20152,Item,item,0
+20153,/i/029000/029442.png,Kamina Crab,/Item/20153,Item,item,0
+20154,/i/029000/029111.png,Spider Crab,/Item/20154,Item,item,0
+20155,/i/029000/029099.png,Little Dragonfish,/Item/20155,Item,item,0
+20156,/i/029000/029105.png,Black Fanfish,/Item/20156,Item,item,0
+20157,/i/029000/029122.png,Zebra Shark,/Item/20157,Item,item,0
+20158,/i/029000/029107.png,Nophica's Comb,/Item/20158,Item,item,0
+20159,/i/029000/029505.png,Warty Wartfish,/Item/20159,Item,item,0
+20160,/i/029000/029490.png,Common Whelk,/Item/20160,Item,item,0
+20161,/i/029000/029460.png,Hairless Barb,/Item/20161,Item,item,0
+20162,/i/029000/029104.png,Hatchetfish,/Item/20162,Item,item,0
+20163,/i/029000/029124.png,Threadfish,/Item/20163,Item,item,0
+20164,/i/029000/029131.png,Garden Eel,/Item/20164,Item,item,0
+20165,/i/029000/029113.png,Eastern Sea Pickle,/Item/20165,Item,item,0
+20166,/i/029000/029102.png,Brindlebass,/Item/20166,Item,item,0
+20167,/i/029000/029100.png,Demon Stonefish,/Item/20167,Item,item,0
+20168,/i/029000/029508.png,Armored Crayfish,/Item/20168,Item,item,0
+20169,/i/029000/029475.png,Bighead Carp,/Item/20169,Item,item,0
+20170,/i/029000/029503.png,Zeni Clam,/Item/20170,Item,item,0
+20171,/i/029000/029142.png,Corpse-eater,/Item/20171,Item,item,0
+20172,/i/029000/029114.png,Ronin Trevally,/Item/20172,Item,item,0
+20173,/i/029000/029134.png,Toothsome Grouper,/Item/20173,Item,item,0
+20174,/i/029000/029112.png,Horned Turban,/Item/20174,Item,item,0
+20175,/i/029000/029109.png,Ruby Sea Star,/Item/20175,Item,item,0
+20176,/i/029000/029441.png,Gauntlet Crab,/Item/20176,Item,item,0
+20177,/i/029000/029493.png,Hermit Goby,/Item/20177,Item,item,0
+20178,/i/029000/029489.png,Skythorn,/Item/20178,Item,item,0
+20179,/i/029000/029132.png,Swordtip,/Item/20179,Item,item,0
+20180,/i/029000/029135.png,False Scad,/Item/20180,Item,item,0
+20181,/i/029000/029110.png,Snow Crab,/Item/20181,Item,item,0
+20182,/i/029000/029117.png,Red-eyed Lates,/Item/20182,Item,item,0
+20183,/i/029000/029467.png,Common Bitterling,/Item/20183,Item,item,0
+20184,/i/029000/029449.png,Fifty-summer Cod,/Item/20184,Item,item,0
+20185,/i/029000/029482.png,Nagxian Mullet,/Item/20185,Item,item,0
+20186,/i/029000/029119.png,Redcoat,/Item/20186,Item,item,0
+20187,/i/029000/029145.png,Yanxian Tiger Prawn,/Item/20187,Item,item,0
+20188,/i/029000/029480.png,Tengu Fan,/Item/20188,Item,item,0
+20189,/i/029000/029491.png,Star Turban,/Item/20189,Item,item,0
+20190,/i/029000/029456.png,Blue-fish,/Item/20190,Item,item,0
+20191,/i/029000/029443.png,Steppe Bullfrog,/Item/20191,Item,item,0
+20192,/i/029000/029514.png,Cavalry Catfish,/Item/20192,Item,item,0
+20193,/i/029000/029450.png,Redfin,/Item/20193,Item,item,0
+20194,/i/029000/029908.png,Moondisc,/Item/20194,Item,item,0
+20195,/i/029000/029903.png,Bleached Bonytongue,/Item/20195,Item,item,0
+20196,/i/029000/029918.png,Salt Shark,/Item/20196,Item,item,0
+20197,/i/029000/029910.png,King's Mantle,/Item/20197,Item,item,0
+20198,/i/029000/029137.png,Sea Lamp,/Item/20198,Item,item,0
+20199,/i/029000/029140.png,Amberjack,/Item/20199,Item,item,0
+20200,/i/029000/029499.png,Cherry Salmon,/Item/20200,Item,item,0
+20201,/i/029000/029481.png,Yu-no-hana Crab,/Item/20201,Item,item,0
+20202,/i/029000/029506.png,Dotharli Gudgeon,/Item/20202,Item,item,0
+20203,/i/029000/029510.png,River Clam,/Item/20203,Item,item,0
+20204,/i/029000/029477.png,Grass Shark,/Item/20204,Item,item,0
+20205,/i/029000/029924.png,Typhoon Shrimp,/Item/20205,Item,item,0
+20206,/i/029000/029916.png,Rock Oyster,/Item/20206,Item,item,0
+20207,/i/029000/029925.png,Salt Urchin,/Item/20207,Item,item,0
+20208,/i/029000/029907.png,Carpenter Crab,/Item/20208,Item,item,0
+20209,/i/029000/029138.png,Spiny Lobster,/Item/20209,Item,item,0
+20210,/i/029000/029146.png,Mitsukuri Shark,/Item/20210,Item,item,0
+20211,/i/029000/029509.png,Doman Bubble Eye,/Item/20211,Item,item,0
+20212,/i/029000/029513.png,Dragon Squeaker,/Item/20212,Item,item,0
+20213,/i/029000/029500.png,Dawn Herald,/Item/20213,Item,item,0
+20214,/i/029000/029902.png,Salt Cellar,/Item/20214,Item,item,0
+20215,/i/029000/029913.png,White Sturgeon,/Item/20215,Item,item,0
+20216,/i/029000/029812.png,Tithe Collector,/Item/20216,Item,item,0
+20217,/i/029000/029106.png,Bashful Batfish,/Item/20217,Item,item,0
+20218,/i/029000/029470.png,River Bream,/Item/20218,Item,item,0
+20219,/i/029000/029502.png,Snipe Eel,/Item/20219,Item,item,0
+20220,/i/029000/029448.png,Cherubfish,/Item/20220,Item,item,0
+20221,/i/029000/029501.png,Dusk Herald,/Item/20221,Item,item,0
+20222,/i/029000/029476.png,Glaring Perch,/Item/20222,Item,item,0
+20223,/i/029000/029905.png,Abalathian Pipira,/Item/20223,Item,item,0
+20224,/i/029000/029919.png,Steel Loach,/Item/20224,Item,item,0
+20225,/i/029000/029921.png,Ivory Sole,/Item/20225,Item,item,0
+20226,/i/029000/029120.png,Motley Beakfish,/Item/20226,Item,item,0
+20227,/i/029000/029116.png,Thousandfang,/Item/20227,Item,item,0
+20228,/i/029000/029478.png,Ichthyosaur,/Item/20228,Item,item,0
+20229,/i/029000/029494.png,Sailfin,/Item/20229,Item,item,0
+20230,/i/029000/029486.png,Fangshi,/Item/20230,Item,item,0
+20231,/i/029000/029462.png,Flamefish,/Item/20231,Item,item,0
+20232,/i/029000/029129.png,Fickle Krait,/Item/20232,Item,item,0
+20233,/i/029000/029469.png,Eternal Eye,/Item/20233,Item,item,0
+20234,/i/029000/029484.png,Soul of the Stallion,/Item/20234,Item,item,0
+20235,/i/029000/029920.png,Flood Tuna,/Item/20235,Item,item,0
+20236,/i/029000/029911.png,Mercenary Crab,/Item/20236,Item,item,0
+20237,/i/029000/029915.png,Ashfish,/Item/20237,Item,item,0
+20238,/i/029000/029912.png,Silken Sunfish,/Item/20238,Item,item,0
+20239,/i/029000/029904.png,Mosasaur,/Item/20239,Item,item,0
+21087,/i/024000/024324.png,Sermon-worthy Meuniere,/Item/21087,Item,item,0
+21088,/i/024000/024261.png,Chawan-mushi,/Item/21088,Item,item,0
+21089,/i/025000/025055.png,Secret Recipe Broth,/Item/21089,Item,item,0
+21174,/i/029000/029515.png,Cardinalfish,/Item/21174,Item,item,0
+21175,/i/029000/029516.png,Rockfish,/Item/21175,Item,item,0
+21176,/i/029000/029150.png,Ukiki,/Item/21176,Item,item,0
+21177,/i/029000/029517.png,Violet Prismfish,/Item/21177,Item,item,0
+21178,/i/029000/029444.png,Guppy,/Item/21178,Item,item,0
+21179,/i/029000/029151.png,Ichimonji,/Item/21179,Item,item,0
+21180,/i/029000/029136.png,Snailfish,/Item/21180,Item,item,0
+21301,/i/025000/025919.png,Crimson Pepper,/Item/21301,Item,item,0
+22389,/i/029000/029518.png,Mirage Mahi,/Item/22389,Item,item,0
+22390,/i/029000/029152.png,Triplespine,/Item/22390,Item,item,0
+22391,/i/029000/029519.png,Alligator Snapping Turtle,/Item/22391,Item,item,0
+22392,/i/029000/029520.png,Redtail,/Item/22392,Item,item,0
+22393,/i/029000/029153.png,Usuginu Octopus,/Item/22393,Item,item,0
+22394,/i/029000/029917.png,Saltmill,/Item/22394,Item,item,0
+22395,/i/029000/029440.png,Bonsai Fish,/Item/22395,Item,item,0
+22396,/i/029000/029143.png,Ribbon Eel,/Item/22396,Item,item,0
+22397,/i/029000/029521.png,Red Prismfish,/Item/22397,Item,item,0
+22398,/i/029000/029451.png,Elder Gourami,/Item/22398,Item,item,0
+22432,/i/024000/024325.png,Tako-yaki,/Item/22432,Item,item,0
+22433,/i/024000/024023.png,Futo-maki Roll,/Item/22433,Item,item,0
+22434,/i/024000/024121.png,Oden,/Item/22434,Item,item,0
+22435,/i/024000/024360.png,Dzo Steak,/Item/22435,Item,item,0
+22436,/i/024000/024405.png,Crimson Cider,/Item/22436,Item,item,0
+22437,/i/024000/024152.png,Sauteed Green Leeks,/Item/22437,Item,item,0
+22438,/i/025000/025152.png,Dzo Sirloin,/Item/22438,Item,item,0
+22439,/i/025000/025358.png,Doman Rice,/Item/22439,Item,item,0
+22445,/i/024000/024072.png,Tofu Pancakes,/Item/22445,Item,item,0
+22446,/i/025000/025102.png,Honeydew Honey,/Item/22446,Item,item,0
+22447,/i/020000/020701.png,Grade 2 Infusion of Strength,/Item/22447,Item,item,0
+22448,/i/020000/020702.png,Grade 2 Infusion of Dexterity,/Item/22448,Item,item,0
+22449,/i/020000/020703.png,Grade 2 Infusion of Vitality,/Item/22449,Item,item,0
+22450,/i/020000/020704.png,Grade 2 Infusion of Intelligence,/Item/22450,Item,item,0
+22451,/i/020000/020705.png,Grade 2 Infusion of Mind,/Item/22451,Item,item,0
+23054,/i/029000/029154.png,Shrieker,/Item/23054,Item,item,0
+23055,/i/029000/029407.png,White Goldfish,/Item/23055,Item,item,0
+23056,/i/029000/029522.png,Firelight Goldfish,/Item/23056,Item,item,0
+23057,/i/029000/029523.png,Hookstealer,/Item/23057,Item,item,0
+23058,/i/029000/029524.png,Sapphire Fan,/Item/23058,Item,item,0
+23059,/i/029000/029525.png,The Archbishop,/Item/23059,Item,item,0
+23060,/i/029000/029526.png,Bondsplitter,/Item/23060,Item,item,0
+23061,/i/029000/029360.png,The Undecided,/Item/23061,Item,item,0
+23062,/i/029000/029926.png,Diamond-eye,/Item/23062,Item,item,0
+23063,/i/029000/029155.png,Rising Dragon,/Item/23063,Item,item,0
+23064,/i/029000/029156.png,The Gambler,/Item/23064,Item,item,0
+23065,/i/029000/029157.png,The Winter Queen,/Item/23065,Item,item,0
+23066,/i/029000/029158.png,Rakshasa,/Item/23066,Item,item,0
+23067,/i/029000/029527.png,Bokuden,/Item/23067,Item,item,0
+23068,/i/029000/029528.png,Hagoromo Koi,/Item/23068,Item,item,0
+23069,/i/029000/029529.png,The Word of God,/Item/23069,Item,item,0
+23070,/i/029000/029530.png,Yat Khan,/Item/23070,Item,item,0
+23167,/i/020000/020604.png,Super-Potion,/Item/23167,Item,item,0
+23168,/i/020000/020627.png,Super-Ether,/Item/23168,Item,item,0
+23185,/i/024000/024085.png,Konpeito,/Item/23185,Item,item,0
+23186,/i/024000/024024.png,Banh Xeo,/Item/23186,Item,item,0
+23187,/i/024000/024414.png,Matcha,/Item/23187,Item,item,0
+23188,/i/024000/024122.png,Ema Datshi,/Item/23188,Item,item,0
+23221,/i/025000/025009.png,Yanxian Verbena,/Item/23221,Item,item,0
+23346,/i/025000/025401.png,Reishi Mushroom,/Item/23346,Item,item,0
+23348,/i/025000/025009.png,Pagos Sage,/Item/23348,Item,item,0
+23349,/i/020000/020644.png,Potion of Harmony,/Item/23349,Item,item,0
+24203,/i/029000/029531.png,Indigo Prismfish,/Item/24203,Item,item,0
+24204,/i/029000/029532.png,Green Prismfish,/Item/24204,Item,item,0
+24205,/i/029000/029533.png,Watcher Catfish,/Item/24205,Item,item,0
+24206,/i/029000/029534.png,Bloodtail Zombie,/Item/24206,Item,item,0
+24207,/i/029000/029535.png,Hardhead Trout,/Item/24207,Item,item,0
+24208,/i/029000/029536.png,Downstream Loach,/Item/24208,Item,item,0
+24209,/i/029000/029537.png,Corpse Chub,/Item/24209,Item,item,0
+24210,/i/029000/029437.png,The Last Tear,/Item/24210,Item,item,0
+24211,/i/029000/029538.png,Hemon,/Item/24211,Item,item,0
+24212,/i/029000/029539.png,Moksha,/Item/24212,Item,item,0
+24213,/i/029000/029540.png,Princess Killifish,/Item/24213,Item,item,0
+24214,/i/029000/029159.png,Ku'er,/Item/24214,Item,item,0
+24215,/i/029000/029160.png,Argonautica,/Item/24215,Item,item,0
+24216,/i/029000/029541.png,Hagoromo Bijin,/Item/24216,Item,item,0
+24217,/i/029000/029542.png,Duskfish,/Item/24217,Item,item,0
+24218,/i/029000/029543.png,Blade Skipper,/Item/24218,Item,item,0
+24261,/i/020000/020701.png,Grade 3 Infusion of Strength,/Item/24261,Item,item,0
+24262,/i/020000/020702.png,Grade 3 Infusion of Dexterity,/Item/24262,Item,item,0
+24263,/i/020000/020703.png,Grade 3 Infusion of Vitality,/Item/24263,Item,item,0
+24264,/i/020000/020704.png,Grade 3 Infusion of Intelligence,/Item/24264,Item,item,0
+24265,/i/020000/020705.png,Grade 3 Infusion of Mind,/Item/24265,Item,item,0
+24274,/i/024000/024412.png,Rooibos Tea,/Item/24274,Item,item,0
+24275,/i/024000/024207.png,Ginger Salad,/Item/24275,Item,item,0
+24276,/i/024000/024026.png,Laghman,/Item/24276,Item,item,0
+24277,/i/024000/024162.png,Imam Bayildi,/Item/24277,Item,item,0
+24278,/i/024000/024086.png,Papanasi,/Item/24278,Item,item,0
+24279,/i/024000/024025.png,Salmon Muffin,/Item/24279,Item,item,0
+24280,/i/024000/024262.png,Shakshouka,/Item/24280,Item,item,0
+24281,/i/025000/025977.png,Rooibos Leaves,/Item/24281,Item,item,0
+24282,/i/024000/024452.png,Reunion Cheese,/Item/24282,Item,item,0
+24881,/i/029000/029161.png,Lily of the Veil,/Item/24881,Item,item,0
+24882,/i/029000/029162.png,The Vegetarian,/Item/24882,Item,item,0
+24883,/i/029000/029163.png,Seven Stars,/Item/24883,Item,item,0
+24884,/i/029000/029087.png,Pinhead,/Item/24884,Item,item,0
+24885,/i/029000/029348.png,Pomegranate Trout,/Item/24885,Item,item,0
+24886,/i/029000/029544.png,Glarramundi,/Item/24886,Item,item,0
+24887,/i/029000/029545.png,Hermit's End,/Item/24887,Item,item,0
+24888,/i/029000/029331.png,Suiten Ippeki,/Item/24888,Item,item,0
+24889,/i/029000/029546.png,Axelrod,/Item/24889,Item,item,0
+24890,/i/029000/029355.png,The Unraveled Bow,/Item/24890,Item,item,0
+24891,/i/029000/029318.png,Nhaama's Treasure,/Item/24891,Item,item,0
+24892,/i/029000/029547.png,Garden Skipper,/Item/24892,Item,item,0
+24893,/i/029000/029377.png,Banderole,/Item/24893,Item,item,0
+24990,/i/029000/029548.png,Xenacanthus,/Item/24990,Item,item,0
+24991,/i/029000/029549.png,Drepanaspis,/Item/24991,Item,item,0
+24992,/i/029000/029927.png,Stethacanthus,/Item/24992,Item,item,0
+24993,/i/029000/029164.png,The Ruby Dragon,/Item/24993,Item,item,0
+24994,/i/029000/029550.png,Warden of the Seven Hues,/Item/24994,Item,item,0
+24995,/i/029000/029551.png,The Unconditional,/Item/24995,Item,item,0
+27410,/i/029000/029552.png,Crystarium Tetra,/Item/27410,Item,item,0
+27411,/i/028000/028455.png,Laxan Carp,/Item/27411,Item,item,0
+27412,/i/029000/029553.png,Asteroidea,/Item/27412,Item,item,0
+27413,/i/029000/029554.png,Jacketed Snail,/Item/27413,Item,item,0
+27414,/i/029000/029555.png,Lover's Flower,/Item/27414,Item,item,0
+27415,/i/029000/029556.png,Sinspitter,/Item/27415,Item,item,0
+27416,/i/029000/029557.png,Wandering Catfish,/Item/27416,Item,item,0
+27417,/i/029000/029278.png,Crystal Knife,/Item/27417,Item,item,0
+27418,/i/029000/029558.png,Skeletonfish,/Item/27418,Item,item,0
+27419,/i/029000/029062.png,Milky Coral,/Item/27419,Item,item,0
+27420,/i/029000/029413.png,Gravel Mussel,/Item/27420,Item,item,0
+27421,/i/029000/029165.png,Crimson Sea Spider,/Item/27421,Item,item,0
+27422,/i/029000/029166.png,Bonefish,/Item/27422,Item,item,0
+27423,/i/029000/029167.png,Eulmore Butterfly,/Item/27423,Item,item,0
+27424,/i/029000/029168.png,Red Hammerhead,/Item/27424,Item,item,0
+27425,/i/029000/029316.png,Hard Candy,/Item/27425,Item,item,0
+27426,/i/029000/029559.png,Water Ball,/Item/27426,Item,item,0
+27427,/i/029000/029560.png,Abyssal Snail,/Item/27427,Item,item,0
+27428,/i/029000/029702.png,Clean Saucer,/Item/27428,Item,item,0
+27429,/i/029000/029561.png,Rabbit Skipper,/Item/27429,Item,item,0
+27430,/i/029000/029562.png,Xanthic Bass,/Item/27430,Item,item,0
+27431,/i/029000/029563.png,Albino Caiman,/Item/27431,Item,item,0
+27432,/i/029000/029564.png,Platinum Guppy,/Item/27432,Item,item,0
+27433,/i/029000/029565.png,Misty Killifish,/Item/27433,Item,item,0
+27434,/i/029000/029566.png,Albino Rock Crab,/Item/27434,Item,item,0
+27435,/i/029000/029567.png,Snakeskin Discus,/Item/27435,Item,item,0
+27436,/i/029000/029568.png,Albino Garfish,/Item/27436,Item,item,0
+27437,/i/029000/029569.png,Vicejaw,/Item/27437,Item,item,0
+27438,/i/029000/029209.png,Skulleater,/Item/27438,Item,item,0
+27439,/i/029000/029244.png,Toffee Snail,/Item/27439,Item,item,0
+27440,/i/029000/029245.png,Watts Trout,/Item/27440,Item,item,0
+27441,/i/029000/029570.png,Hucho Taimen,/Item/27441,Item,item,0
+27442,/i/029000/029571.png,Winged Hatchetfish,/Item/27442,Item,item,0
+27443,/i/029000/029572.png,Noble's Fan,/Item/27443,Item,item,0
+27444,/i/029000/029573.png,Zebra Catfish,/Item/27444,Item,item,0
+27445,/i/029000/029574.png,Sepia Sole,/Item/27445,Item,item,0
+27446,/i/029000/029169.png,Shellfracture Kelp,/Item/27446,Item,item,0
+27447,/i/029000/029170.png,Blood Cloud,/Item/27447,Item,item,0
+27448,/i/029000/029052.png,Kholusian Flounder,/Item/27448,Item,item,0
+27449,/i/029000/029012.png,South Kholusian Cod,/Item/27449,Item,item,0
+27450,/i/029000/029171.png,Razorfish,/Item/27450,Item,item,0
+27451,/i/029000/029008.png,Rose Shrimp,/Item/27451,Item,item,0
+27452,/i/029000/029172.png,Shapeshifter,/Item/27452,Item,item,0
+27453,/i/029000/029173.png,Minstrelfish,/Item/27453,Item,item,0
+27454,/i/029000/029174.png,Kholusian Wrasse,/Item/27454,Item,item,0
+27455,/i/029000/029175.png,Weedy Seadragon,/Item/27455,Item,item,0
+27456,/i/029000/029176.png,Henodus,/Item/27456,Item,item,0
+27457,/i/029000/029177.png,Spearhead Squid,/Item/27457,Item,item,0
+27458,/i/029000/029294.png,Shadow Crab,/Item/27458,Item,item,0
+27459,/i/029000/029614.png,Desert Dustfish,/Item/27459,Item,item,0
+27460,/i/029000/029615.png,Hornhelm,/Item/27460,Item,item,0
+27461,/i/029000/029616.png,Web-footed Sand Gecko,/Item/27461,Item,item,0
+27462,/i/029000/029617.png,Sand Egg,/Item/27462,Item,item,0
+27463,/i/029000/029248.png,Amber Lamprey,/Item/27463,Item,item,0
+27464,/i/029000/029618.png,Desert Saw,/Item/27464,Item,item,0
+27465,/i/029000/029296.png,Garik Crab,/Item/27465,Item,item,0
+27466,/i/029000/029607.png,Nabaath Manta,/Item/27466,Item,item,0
+27467,/i/029000/029619.png,Thorned Lizard,/Item/27467,Item,item,0
+27468,/i/029000/029575.png,Spotted Blue-eye,/Item/27468,Item,item,0
+27469,/i/029000/029576.png,Official Ball,/Item/27469,Item,item,0
+27470,/i/029000/029577.png,Grey Skipper,/Item/27470,Item,item,0
+27471,/i/029000/029578.png,Pixie Fish,/Item/27471,Item,item,0
+27472,/i/029000/029579.png,Blood-eyed Frog,/Item/27472,Item,item,0
+27473,/i/029000/029580.png,Cherry Herring,/Item/27473,Item,item,0
+27474,/i/029000/029581.png,Wimple Carp,/Item/27474,Item,item,0
+27475,/i/029000/029582.png,Lemonfish,/Item/27475,Item,item,0
+27476,/i/029000/029583.png,Rebel,/Item/27476,Item,item,0
+27477,/i/029000/029584.png,Wild Red Betta,/Item/27477,Item,item,0
+27478,/i/029000/029585.png,Spotted Ctenopoma,/Item/27478,Item,item,0
+27479,/i/029000/029501.png,Cerulean Loach,/Item/27479,Item,item,0
+27480,/i/029000/029586.png,Golden Lobster,/Item/27480,Item,item,0
+27481,/i/029000/029587.png,Toadhead,/Item/27481,Item,item,0
+27482,/i/029000/029588.png,Clawbow,/Item/27482,Item,item,0
+27483,/i/029000/029589.png,Black Tri-star,/Item/27483,Item,item,0
+27484,/i/029000/029590.png,Robber Crab,/Item/27484,Item,item,0
+27485,/i/029000/029263.png,Darkroot,/Item/27485,Item,item,0
+27486,/i/029000/029591.png,Yellow Pipira,/Item/27486,Item,item,0
+27487,/i/029000/029211.png,Oathfish,/Item/27487,Item,item,0
+27488,/i/029000/029206.png,Night's Bass,/Item/27488,Item,item,0
+27489,/i/029000/029204.png,Rak'tika Trout,/Item/27489,Item,item,0
+27490,/i/029000/029592.png,Clown Tetra,/Item/27490,Item,item,0
+27491,/i/029000/029593.png,Eryops,/Item/27491,Item,item,0
+27492,/i/029000/029594.png,Diamond Pipira,/Item/27492,Item,item,0
+27493,/i/029000/029595.png,Silver Kitten,/Item/27493,Item,item,0
+27494,/i/029000/029596.png,Darkdweller,/Item/27494,Item,item,0
+27495,/i/029000/029178.png,Deep Purple Coral,/Item/27495,Item,item,0
+27496,/i/029000/029059.png,Sycorax,/Item/27496,Item,item,0
+27497,/i/029000/029025.png,Stormfish,/Item/27497,Item,item,0
+27498,/i/029000/029179.png,Azure Sea Spider,/Item/27498,Item,item,0
+27499,/i/029000/029041.png,Caliban,/Item/27499,Item,item,0
+27500,/i/029000/029180.png,Hoodwinker,/Item/27500,Item,item,0
+27501,/i/029000/029181.png,Bubble Angler,/Item/27501,Item,item,0
+27502,/i/029000/029182.png,Ondo Harpoon,/Item/27502,Item,item,0
+27503,/i/029000/029183.png,Ondobane,/Item/27503,Item,item,0
+27504,/i/029000/029184.png,Stippled Eel,/Item/27504,Item,item,0
+27505,/i/029000/029185.png,Seatrap,/Item/27505,Item,item,0
+27506,/i/029000/029186.png,Ancient Shrimp,/Item/27506,Item,item,0
+27507,/i/029000/029187.png,Yeti Crab,/Item/27507,Item,item,0
+27508,/i/029000/029188.png,Aapoak,/Item/27508,Item,item,0
+27509,/i/029000/029189.png,Cyan Sea Devil,/Item/27509,Item,item,0
+27510,/i/029000/029190.png,Pancake Octopus,/Item/27510,Item,item,0
+27511,/i/029000/029806.png,Maneater Clam,/Item/27511,Item,item,0
+27512,/i/029000/029191.png,Stargazer,/Item/27512,Item,item,0
+27513,/i/029000/029097.png,Sweetflesh Oyster,/Item/27513,Item,item,0
+27514,/i/029000/029192.png,Rainbow Shrimp,/Item/27514,Item,item,0
+27515,/i/029000/029193.png,Predator,/Item/27515,Item,item,0
+27516,/i/029000/029210.png,Grey Carp,/Item/27516,Item,item,0
+27517,/i/029000/029230.png,Lilac Goby,/Item/27517,Item,item,0
+27518,/i/029000/029597.png,Purple Ghost,/Item/27518,Item,item,0
+27519,/i/029000/029598.png,Lakelouse,/Item/27519,Item,item,0
+27520,/i/029000/029718.png,Gazing Glass,/Item/27520,Item,item,0
+27521,/i/029000/029599.png,Source Octopus,/Item/27521,Item,item,0
+27522,/i/028000/028425.png,Elven Spear,/Item/27522,Item,item,0
+27523,/i/028000/028426.png,Shade Gudgeon,/Item/27523,Item,item,0
+27524,/i/028000/028427.png,Lakethistle,/Item/27524,Item,item,0
+27525,/i/028000/028428.png,Platinum Bream,/Item/27525,Item,item,0
+27526,/i/029000/029096.png,Wardenfish,/Item/27526,Item,item,0
+27527,/i/028000/028429.png,Finned Eggplant,/Item/27527,Item,item,0
+27528,/i/029000/029410.png,Skykisser,/Item/27528,Item,item,0
+27529,/i/028000/028430.png,Viola Clam,/Item/27529,Item,item,0
+27530,/i/028000/028431.png,Geayi,/Item/27530,Item,item,0
+27531,/i/028000/028432.png,Noblefish,/Item/27531,Item,item,0
+27532,/i/028000/028433.png,Misteye,/Item/27532,Item,item,0
+27533,/i/028000/028434.png,Lakeland Cod,/Item/27533,Item,item,0
+27534,/i/028000/028435.png,Little Bismarck,/Item/27534,Item,item,0
+27535,/i/028000/028436.png,Bothriolepis,/Item/27535,Item,item,0
+27536,/i/029000/029421.png,Big-eye,/Item/27536,Item,item,0
+27537,/i/028000/028437.png,Jenanna's Tear,/Item/27537,Item,item,0
+27538,/i/028000/028438.png,Daisy Turban,/Item/27538,Item,item,0
+27539,/i/028000/028439.png,Shade Axolotl,/Item/27539,Item,item,0
+27540,/i/028000/028440.png,Little Flirt,/Item/27540,Item,item,0
+27541,/i/029000/029758.png,Peallaidh,/Item/27541,Item,item,0
+27542,/i/028000/028441.png,Voeburt Bichir,/Item/27542,Item,item,0
+27543,/i/028000/028442.png,Poecilia,/Item/27543,Item,item,0
+27544,/i/029000/029106.png,Gilded Batfish,/Item/27544,Item,item,0
+27545,/i/028000/028443.png,Petalfish,/Item/27545,Item,item,0
+27546,/i/029000/029246.png,Mirrorfish,/Item/27546,Item,item,0
+27547,/i/028000/028444.png,Glass Eel,/Item/27547,Item,item,0
+27548,/i/028000/028445.png,Voeburt Salamander,/Item/27548,Item,item,0
+27549,/i/029000/029295.png,Bedskipper,/Item/27549,Item,item,0
+27550,/i/028000/028446.png,Dandyfish,/Item/27550,Item,item,0
+27551,/i/028000/028447.png,Sauldia Ruby,/Item/27551,Item,item,0
+27552,/i/029000/029752.png,Mock Pixie,/Item/27552,Item,item,0
+27553,/i/028000/028448.png,Hunter's Arrow,/Item/27553,Item,item,0
+27554,/i/028000/028449.png,Fuathgobbler,/Item/27554,Item,item,0
+27555,/i/028000/028450.png,Paradise Crab,/Item/27555,Item,item,0
+27556,/i/028000/028451.png,Saint Fathric's Ire,/Item/27556,Item,item,0
+27557,/i/028000/028452.png,Queensgown,/Item/27557,Item,item,0
+27558,/i/028000/028453.png,Flowering Kelpie,/Item/27558,Item,item,0
+27559,/i/028000/028454.png,Ghoulfish,/Item/27559,Item,item,0
+27560,/i/029000/029451.png,Measan Deala,/Item/27560,Item,item,0
+27561,/i/028000/028456.png,Dohn Horn,/Item/27561,Item,item,0
+27562,/i/028000/028457.png,Aquabloom,/Item/27562,Item,item,0
+27563,/i/028000/028458.png,Jester Fish,/Item/27563,Item,item,0
+27564,/i/028000/028459.png,Blue Lightning,/Item/27564,Item,item,0
+27565,/i/028000/028460.png,Maidenhair,/Item/27565,Item,item,0
+27566,/i/028000/028461.png,Blue Mountain Bubble,/Item/27566,Item,item,0
+27567,/i/028000/028462.png,Elder Pixie,/Item/27567,Item,item,0
+27568,/i/029000/029235.png,Ankle Snipper,/Item/27568,Item,item,0
+27569,/i/029000/029503.png,Treescale,/Item/27569,Item,item,0
+27570,/i/029000/029309.png,Ronkan Pleco,/Item/27570,Item,item,0
+27571,/i/028000/028463.png,Gourmand Crab,/Item/27571,Item,item,0
+27572,/i/029000/029243.png,Gatorl's Bead,/Item/27572,Item,item,0
+27573,/i/028000/028464.png,Diamondtongue,/Item/27573,Item,item,0
+27574,/i/028000/028465.png,Hermit's Hood,/Item/27574,Item,item,0
+27575,/i/028000/028466.png,Hermit Crab,/Item/27575,Item,item,0
+27576,/i/029000/029212.png,Megapiranha,/Item/27576,Item,item,0
+27577,/i/029000/029268.png,Everdark Bass,/Item/27577,Item,item,0
+27578,/i/029000/029224.png,Lozatl Pirarucu,/Item/27578,Item,item,0
+27579,/i/028000/028467.png,Anpa's Handmaid,/Item/27579,Item,item,0
+27580,/i/028000/028468.png,Viis Ear,/Item/27580,Item,item,0
+27581,/i/028000/028469.png,Rak'tika Goby,/Item/27581,Item,item,0
+27786,/i/020000/020710.png,Tincture of Strength,/Item/27786,Item,item,0
+27787,/i/020000/020709.png,Tincture of Dexterity,/Item/27787,Item,item,0
+27788,/i/020000/020707.png,Tincture of Vitality,/Item/27788,Item,item,0
+27789,/i/020000/020706.png,Tincture of Intelligence,/Item/27789,Item,item,0
+27790,/i/020000/020708.png,Tincture of Mind,/Item/27790,Item,item,0
+27818,/i/025000/025230.png,Purple Carrot,/Item/27818,Item,item,0
+27819,/i/025000/025317.png,Harcot,/Item/27819,Item,item,0
+27820,/i/025000/025307.png,Frantoio,/Item/27820,Item,item,0
+27821,/i/025000/025023.png,Amber Cloves,/Item/27821,Item,item,0
+27822,/i/025000/025204.png,Russet Popoto,/Item/27822,Item,item,0
+27823,/i/025000/025211.png,Curly Parsley,/Item/27823,Item,item,0
+27824,/i/025000/025223.png,Garden Beet,/Item/27824,Item,item,0
+27825,/i/025000/025209.png,Blood Tomato,/Item/27825,Item,item,0
+27826,/i/024000/024058.png,Royal Grapes,/Item/27826,Item,item,0
+27827,/i/025000/025007.png,Night Pepper,/Item/27827,Item,item,0
+27828,/i/025000/025206.png,Mist Spinach,/Item/27828,Item,item,0
+27829,/i/025000/025402.png,Creamtop Mushroom,/Item/27829,Item,item,0
+27830,/i/025000/025358.png,Bomba Rice,/Item/27830,Item,item,0
+27831,/i/025000/025308.png,Pixie Apple,/Item/27831,Item,item,0
+27832,/i/025000/025357.png,Upland Wheat,/Item/27832,Item,item,0
+27833,/i/025000/025353.png,Broad Beans,/Item/27833,Item,item,0
+27834,/i/022000/022611.png,Gianthive Chip,/Item/27834,Item,item,0
+27835,/i/025000/025305.png,Lemonette,/Item/27835,Item,item,0
+27836,/i/025000/025016.png,Peppermint,/Item/27836,Item,item,0
+27837,/i/025000/025919.png,Coffee Beans,/Item/27837,Item,item,0
+27838,/i/025000/025451.png,Frantoio Oil,/Item/27838,Item,item,0
+27839,/i/025000/025108.png,Garden Beet Sugar,/Item/27839,Item,item,0
+27840,/i/025000/025060.png,Squid Ink,/Item/27840,Item,item,0
+27841,/i/025000/025351.png,Upland Wheat Flour,/Item/27841,Item,item,0
+27842,/i/025000/025102.png,Golden Honey,/Item/27842,Item,item,0
+27843,/i/025000/025107.png,Night Vinegar,/Item/27843,Item,item,0
+27844,/i/029000/029203.png,King Salmon,/Item/27844,Item,item,0
+27845,/i/025000/025219.png,Robe Lettuce,/Item/27845,Item,item,0
+27846,/i/025000/025314.png,Kriollo Kukuru Bean,/Item/27846,Item,item,0
+27847,/i/025000/025306.png,Pixieberry,/Item/27847,Item,item,0
+27848,/i/025000/025159.png,Dzo Tenderloin,/Item/27848,Item,item,0
+27849,/i/022000/022603.png,Sheep Casings,/Item/27849,Item,item,0
+27850,/i/025000/025151.png,Rail Tenderloin,/Item/27850,Item,item,0
+27851,/i/025000/025251.png,Lorikeet Egg,/Item/27851,Item,item,0
+27852,/i/025000/025152.png,Ovim Meat,/Item/27852,Item,item,0
+27853,/i/024000/024352.png,Grilled Rail,/Item/27853,Item,item,0
+27854,/i/024000/024416.png,Purple Carrot Juice,/Item/27854,Item,item,0
+27855,/i/024000/024089.png,Caramels,/Item/27855,Item,item,0
+27856,/i/024000/024101.png,Broad Bean Soup,/Item/27856,Item,item,0
+27857,/i/024000/024027.png,Spaghetti al Nero,/Item/27857,Item,item,0
+27858,/i/024000/024207.png,Broad Bean Salad,/Item/27858,Item,item,0
+27859,/i/024000/024301.png,Grilled Platinum Bream,/Item/27859,Item,item,0
+27860,/i/024000/024030.png,Baguette,/Item/27860,Item,item,0
+27861,/i/024000/024405.png,Blood Tomato Juice,/Item/27861,Item,item,0
+27862,/i/024000/024079.png,Pixie Apple Pie,/Item/27862,Item,item,0
+27863,/i/024000/024083.png,Nut Bake,/Item/27863,Item,item,0
+27864,/i/024000/024151.png,Blood Tomato Salad,/Item/27864,Item,item,0
+27865,/i/024000/024202.png,Mushroom Saute,/Item/27865,Item,item,0
+27866,/i/024000/024365.png,Sausage Links,/Item/27866,Item,item,0
+27867,/i/024000/024361.png,Roast Ovim,/Item/27867,Item,item,0
+27868,/i/024000/024201.png,Mushroom Skewer,/Item/27868,Item,item,0
+27869,/i/024000/024311.png,Baked Megapiranha,/Item/27869,Item,item,0
+27870,/i/024000/024163.png,Peppered Popotoes,/Item/27870,Item,item,0
+27871,/i/024000/024112.png,Popotoes au Gratin,/Item/27871,Item,item,0
+27872,/i/024000/024410.png,Masala Chai,/Item/27872,Item,item,0
+27873,/i/024000/024028.png,Risotto al Nero,/Item/27873,Item,item,0
+27874,/i/024000/024407.png,Espresso con Panna,/Item/27874,Item,item,0
+27875,/i/024000/024152.png,Mist Spinach Saute,/Item/27875,Item,item,0
+27876,/i/024000/024111.png,Blood Bouillabaisse,/Item/27876,Item,item,0
+27877,/i/024000/024031.png,Paella,/Item/27877,Item,item,0
+27878,/i/024000/024007.png,Coffee Biscuit,/Item/27878,Item,item,0
+27879,/i/024000/024363.png,Ovim Cordon Bleu,/Item/27879,Item,item,0
+27880,/i/024000/024404.png,Lemonade,/Item/27880,Item,item,0
+27881,/i/024000/024082.png,Jellied Harcot,/Item/27881,Item,item,0
+27882,/i/024000/024316.png,Oysters on the Half Shell,/Item/27882,Item,item,0
+27883,/i/024000/024029.png,Creamy Salmon Pasta,/Item/27883,Item,item,0
+27884,/i/024000/024324.png,King Salmon Meuniere,/Item/27884,Item,item,0
+27885,/i/024000/024164.png,Popoto Salad,/Item/27885,Item,item,0
+27886,/i/024000/024154.png,Robe Lettuce Salad,/Item/27886,Item,item,0
+27887,/i/024000/024415.png,Pixieberry Tea,/Item/27887,Item,item,0
+27888,/i/024000/024070.png,Pixieberry Cheesecake,/Item/27888,Item,item,0
+27889,/i/024000/024090.png,Kukuru Rusk,/Item/27889,Item,item,0
+27890,/i/024000/024071.png,Lemon Curd Sachertorte,/Item/27890,Item,item,0
+27891,/i/024000/024366.png,Rare Roast Beef,/Item/27891,Item,item,0
+27892,/i/024000/024110.png,Exquisite Beef Stew,/Item/27892,Item,item,0
+27957,/i/024000/024413.png,Competent Craftsman's Syrup,/Item/27957,Item,item,0
+27958,/i/024000/024412.png,Commanding Craftsman's Syrup,/Item/27958,Item,item,0
+27959,/i/024000/024411.png,Cunning Craftsman's Syrup,/Item/27959,Item,item,0
+27960,/i/020000/020643.png,Superior Spiritbond Potion,/Item/27960,Item,item,0
+27995,/i/020000/020710.png,Grade 2 Tincture of Strength,/Item/27995,Item,item,0
+27996,/i/020000/020709.png,Grade 2 Tincture of Dexterity,/Item/27996,Item,item,0
+27997,/i/020000/020707.png,Grade 2 Tincture of Vitality,/Item/27997,Item,item,0
+27998,/i/020000/020706.png,Grade 2 Tincture of Intelligence,/Item/27998,Item,item,0
+27999,/i/020000/020708.png,Grade 2 Tincture of Mind,/Item/27999,Item,item,0
+28065,/i/028000/028470.png,Loose Pendant,/Item/28065,Item,item,0
+28066,/i/029000/029194.png,Winged Dame,/Item/28066,Item,item,0
+28067,/i/028000/028471.png,The Unforgiven,/Item/28067,Item,item,0
+28068,/i/028000/028472.png,Bronze Sole,/Item/28068,Item,item,0
+28069,/i/029000/029620.png,The Horned King,/Item/28069,Item,item,0
+28070,/i/028000/028473.png,The Sound of Fury,/Item/28070,Item,item,0
+28071,/i/028000/028474.png,Priest of Yx'Lokwa,/Item/28071,Item,item,0
+28072,/i/029000/029195.png,Starchaser,/Item/28072,Item,item,0
+28719,/i/029000/029196.png,Sweetmeat Mussel,/Item/28719,Item,item,0
+28720,/i/024000/024326.png,Mejillones al Ajillo,/Item/28720,Item,item,0
+28721,/i/024000/024032.png,Arros Negre,/Item/28721,Item,item,0
+28779,/i/025000/025020.png,Skybuilders' Tea Leaves,/Item/28779,Item,item,0
+28795,/i/021000/021653.png,Skybuilders' Wheat,/Item/28795,Item,item,0
+28925,/i/028000/028475.png,The Jaws of Undeath,/Item/28925,Item,item,0
+28926,/i/028000/028476.png,White Ronso,/Item/28926,Item,item,0
+28927,/i/029000/029621.png,Ambling Caltrop,/Item/28927,Item,item,0
+28928,/i/028000/028477.png,Fae Rainbow,/Item/28928,Item,item,0
+28929,/i/028000/028478.png,Black Jet,/Item/28929,Item,item,0
+28930,/i/029000/029197.png,Ondo Sigh,/Item/28930,Item,item,0
+28937,/i/029000/029003.png,Galadion Goby,/Item/28937,Item,item,0
+28938,/i/029000/029034.png,Galadion Chovy,/Item/28938,Item,item,0
+28939,/i/029000/029009.png,Rosy Bream,/Item/28939,Item,item,0
+28940,/i/029000/029152.png,Tripod Fish,/Item/28940,Item,item,0
+28941,/i/029000/029016.png,Sunfly,/Item/28941,Item,item,0
+28942,/i/029000/029011.png,Tarnished Shark,/Item/28942,Item,item,0
+29492,/i/020000/020710.png,Grade 3 Tincture of Strength,/Item/29492,Item,item,0
+29493,/i/020000/020709.png,Grade 3 Tincture of Dexterity,/Item/29493,Item,item,0
+29494,/i/020000/020707.png,Grade 3 Tincture of Vitality,/Item/29494,Item,item,0
+29495,/i/020000/020706.png,Grade 3 Tincture of Intelligence,/Item/29495,Item,item,0
+29496,/i/020000/020708.png,Grade 3 Tincture of Mind,/Item/29496,Item,item,0
+29497,/i/024000/024368.png,Ovim Meatballs,/Item/29497,Item,item,0
+29498,/i/024000/024403.png,Mors,/Item/29498,Item,item,0
+29499,/i/024000/024091.png,Lemon Waffle,/Item/29499,Item,item,0
+29500,/i/024000/024013.png,Honey Croissant,/Item/29500,Item,item,0
+29501,/i/024000/024367.png,Sausage and Sauerkraut,/Item/29501,Item,item,0
+29502,/i/024000/024206.png,Stuffed Highland Cabbage,/Item/29502,Item,item,0
+29503,/i/024000/024327.png,Pickled Herring,/Item/29503,Item,item,0
+29504,/i/024000/024052.png,Herring Pie,/Item/29504,Item,item,0
+29505,/i/024000/024263.png,Farmer's Breakfast,/Item/29505,Item,item,0
+29506,/i/024000/024075.png,Silkie Pudding,/Item/29506,Item,item,0
+29507,/i/025000/025310.png,Lingonberry,/Item/29507,Item,item,0
+29508,/i/025000/025351.png,Strong Flour,/Item/29508,Item,item,0
+29509,/i/025000/025208.png,Highland Cabbage,/Item/29509,Item,item,0
+29510,/i/029000/029044.png,Platinum Herring,/Item/29510,Item,item,0
+29511,/i/025000/025252.png,Silkie Egg,/Item/29511,Item,item,0
+29718,/i/029000/029042.png,Tossed Dagger,/Item/29718,Item,item,0
+29719,/i/029000/029043.png,Jasperhead,/Item/29719,Item,item,0
+29720,/i/029000/029013.png,Merlthor Lobster,/Item/29720,Item,item,0
+29721,/i/029000/029033.png,Heavenswimmer,/Item/29721,Item,item,0
+29722,/i/029000/029035.png,Ghoul Barracuda,/Item/29722,Item,item,0
+29723,/i/029000/029126.png,Leopard Eel,/Item/29723,Item,item,0
+29724,/i/029000/029046.png,Marine Bomb,/Item/29724,Item,item,0
+29725,/i/029000/029021.png,Momora Mora,/Item/29725,Item,item,0
+29726,/i/029000/029167.png,Merlthor Butterfly,/Item/29726,Item,item,0
+29727,/i/029000/029022.png,Gladius,/Item/29727,Item,item,0
+29728,/i/029000/029025.png,Rhotano Wahoo,/Item/29728,Item,item,0
+29729,/i/029000/029004.png,Rhotano Sardine,/Item/29729,Item,item,0
+29730,/i/029000/029048.png,Deep Plaice,/Item/29730,Item,item,0
+29731,/i/029000/029049.png,Crimson Monkfish,/Item/29731,Item,item,0
+29732,/i/029000/029516.png,Lampfish,/Item/29732,Item,item,0
+29733,/i/029000/029045.png,Ogre Eel,/Item/29733,Item,item,0
+29734,/i/029000/029051.png,Cyan Octopus,/Item/29734,Item,item,0
+29735,/i/029000/029026.png,Chrome Hammerhead,/Item/29735,Item,item,0
+29736,/i/029000/029310.png,Floefish,/Item/29736,Item,item,0
+29737,/i/029000/029027.png,Megasquid,/Item/29737,Item,item,0
+29738,/i/029000/029100.png,Oschon's Stone,/Item/29738,Item,item,0
+29739,/i/029000/029755.png,La Noscean Jelly,/Item/29739,Item,item,0
+29740,/i/029000/029053.png,Shaggy Seadragon,/Item/29740,Item,item,0
+29741,/i/029000/029111.png,Net Crawler,/Item/29741,Item,item,0
+29742,/i/029000/029811.png,Dark Nautilus,/Item/29742,Item,item,0
+29743,/i/029000/029019.png,Elder Dinichthys,/Item/29743,Item,item,0
+29744,/i/029000/029373.png,Drunkfish,/Item/29744,Item,item,0
+29745,/i/029000/029147.png,Little Leviathan,/Item/29745,Item,item,0
+29746,/i/029000/029077.png,Sabaton,/Item/29746,Item,item,0
+29747,/i/029000/029157.png,Shooting Star,/Item/29747,Item,item,0
+29748,/i/029000/029082.png,Hammerclaw,/Item/29748,Item,item,0
+29749,/i/029000/029069.png,Heavenskey,/Item/29749,Item,item,0
+29750,/i/029000/029065.png,Ghost Shark,/Item/29750,Item,item,0
+29751,/i/029000/029759.png,Quicksilver Blade,/Item/29751,Item,item,0
+29752,/i/029000/029073.png,Navigator's Print,/Item/29752,Item,item,0
+29753,/i/029000/029067.png,Casket Oyster,/Item/29753,Item,item,0
+29754,/i/029000/029070.png,Fishmonger,/Item/29754,Item,item,0
+29755,/i/029000/029078.png,Mythril Sovereign,/Item/29755,Item,item,0
+29756,/i/028000/028001.png,Nimble Dancer,/Item/29756,Item,item,0
+29757,/i/029000/029434.png,Sea Nettle,/Item/29757,Item,item,0
+29758,/i/029000/029095.png,Great Grandmarlin,/Item/29758,Item,item,0
+29759,/i/029000/029084.png,Shipwreck's Sail,/Item/29759,Item,item,0
+29760,/i/029000/029161.png,Azeyma's Sleeve,/Item/29760,Item,item,0
+29761,/i/029000/029089.png,Hi-aetherlouse,/Item/29761,Item,item,0
+29762,/i/029000/029661.png,Floating Saucer,/Item/29762,Item,item,0
+29763,/i/029000/029074.png,Aetheric Seadragon,/Item/29763,Item,item,0
+29764,/i/029000/029155.png,Coral Seadragon,/Item/29764,Item,item,0
+29765,/i/028000/028002.png,Roguesaurus,/Item/29765,Item,item,0
+29766,/i/029000/029072.png,Merman's Mane,/Item/29766,Item,item,0
+29767,/i/029000/029085.png,Sweeper,/Item/29767,Item,item,0
+29768,/i/029000/029156.png,Silencer,/Item/29768,Item,item,0
+29769,/i/029000/029088.png,Deep-sea Eel,/Item/29769,Item,item,0
+29770,/i/029000/029092.png,Executioner,/Item/29770,Item,item,0
+29771,/i/029000/029813.png,Wild Urchin,/Item/29771,Item,item,0
+29772,/i/029000/029546.png,True Barramundi,/Item/29772,Item,item,0
+29773,/i/029000/029374.png,Mopbeard,/Item/29773,Item,item,0
+29774,/i/028000/028003.png,Slipsnail,/Item/29774,Item,item,0
+29775,/i/029000/029816.png,Aronnax,/Item/29775,Item,item,0
+29776,/i/029000/029093.png,Coccosteus,/Item/29776,Item,item,0
+29777,/i/029000/029075.png,Bartholomew the Chopper,/Item/29777,Item,item,0
+29778,/i/029000/029066.png,Prowler,/Item/29778,Item,item,0
+29779,/i/029000/029086.png,Charlatan Survivor,/Item/29779,Item,item,0
+29780,/i/029000/029331.png,Prodigal Son,/Item/29780,Item,item,0
+29781,/i/029000/029162.png,Gugrusaurus,/Item/29781,Item,item,0
+29782,/i/029000/029731.png,Funnel Shark,/Item/29782,Item,item,0
+29783,/i/028000/028004.png,The Fallen One,/Item/29783,Item,item,0
+29784,/i/028000/028005.png,Spectral Megalodon,/Item/29784,Item,item,0
+29785,/i/028000/028006.png,Spectral Discus,/Item/29785,Item,item,0
+29786,/i/028000/028007.png,Spectral Sea Bo,/Item/29786,Item,item,0
+29787,/i/028000/028008.png,Spectral Bass,/Item/29787,Item,item,0
+29854,/i/023000/023842.png,Approved Grade 2 Skybuilders' Tea Leaves,/Item/29854,Item,item,0
+29872,/i/023000/023872.png,Approved Grade 2 Skybuilders' Wheat,/Item/29872,Item,item,0
+29882,/i/023000/023845.png,Approved Grade 2 Artisanal Skybuilders' Wheat,/Item/29882,Item,item,0
+29891,/i/023000/023846.png,Approved Grade 2 Skybuilders' Umbral Earthcap,/Item/29891,Item,item,0
+30432,/i/028000/028480.png,The Sinsteeped,/Item/30432,Item,item,0
+30433,/i/028000/028481.png,Sweetheart,/Item/30433,Item,item,0
+30434,/i/028000/028482.png,Giant Taimen,/Item/30434,Item,item,0
+30435,/i/028000/028483.png,Leannisg,/Item/30435,Item,item,0
+30436,/i/028000/028484.png,Gold Hammer,/Item/30436,Item,item,0
+30437,/i/028000/028485.png,Recordkiller,/Item/30437,Item,item,0
+30438,/i/028000/028014.png,The Mother of All Pancakes,/Item/30438,Item,item,0
+30439,/i/028000/028015.png,Opal Shrimp,/Item/30439,Item,item,0
+30481,/i/024000/024329.png,Crab Cakes,/Item/30481,Item,item,0
+30482,/i/024000/024328.png,Chili Crab,/Item/30482,Item,item,0
+30487,/i/028000/028013.png,Blue Crab,/Item/30487,Item,item,0
+30593,/i/028000/028479.png,Fuchsia Bloom,/Item/30593,Item,item,0
+31124,/i/025000/025213.png,Oddly Specific Aloe,/Item/31124,Item,item,0
+31246,/i/023000/023842.png,Approved Grade 3 Skybuilders' Tea Leaves,/Item/31246,Item,item,0
+31254,/i/023000/023872.png,Approved Grade 3 Skybuilders' Wheat,/Item/31254,Item,item,0
+31265,/i/023000/023899.png,Approved Grade 3 Artisanal Skybuilders' Rice,/Item/31265,Item,item,0
+31765,/i/029000/029026.png,Oddly Delicate Hammerhead Shark,/Item/31765,Item,item,0
+31893,/i/020000/020710.png,Grade 4 Tincture of Strength,/Item/31893,Item,item,0
+31894,/i/020000/020709.png,Grade 4 Tincture of Dexterity,/Item/31894,Item,item,0
+31895,/i/020000/020707.png,Grade 4 Tincture of Vitality,/Item/31895,Item,item,0
+31896,/i/020000/020706.png,Grade 4 Tincture of Intelligence,/Item/31896,Item,item,0
+31897,/i/020000/020708.png,Grade 4 Tincture of Mind,/Item/31897,Item,item,0
+31898,/i/024000/024034.png,Pizza,/Item/31898,Item,item,0
+31899,/i/024000/024252.png,Mist Spinach Quiche,/Item/31899,Item,item,0
+31900,/i/024000/024033.png,Chicken Fettuccine,/Item/31900,Item,item,0
+31901,/i/024000/024358.png,Smoked Chicken,/Item/31901,Item,item,0
+31902,/i/024000/024404.png,Golden Pineapple Juice,/Item/31902,Item,item,0
+31903,/i/024000/024151.png,Pineapple Salad,/Item/31903,Item,item,0
+31904,/i/024000/024092.png,Zefir,/Item/31904,Item,item,0
+31905,/i/024000/024164.png,Twilight Popoto Salad,/Item/31905,Item,item,0
+31906,/i/024000/024035.png,Broad Bean Curry,/Item/31906,Item,item,0
+31907,/i/024000/024004.png,Lemon Muffin,/Item/31907,Item,item,0
+31908,/i/024000/024458.png,Mozzarella,/Item/31908,Item,item,0
+31909,/i/025000/025154.png,Chicken Thigh,/Item/31909,Item,item,0
+31910,/i/025000/025303.png,Golden Pineapple,/Item/31910,Item,item,0
+31911,/i/025000/025320.png,Twilight Apple,/Item/31911,Item,item,0
+31912,/i/025000/025021.png,Cardamom,/Item/31912,Item,item,0
+31975,/i/023000/023842.png,Approved Grade 4 Skybuilders' Tea Leaves,/Item/31975,Item,item,0
+31983,/i/023000/023872.png,Approved Grade 4 Skybuilders' Wheat,/Item/31983,Item,item,0
+31992,/i/023000/023974.png,Approved Grade 4 Artisanal Skybuilders' Raspberry,/Item/31992,Item,item,0
+32049,/i/028000/028486.png,Moonlight Guppy,/Item/32049,Item,item,0
+32050,/i/028000/028487.png,Steel Fan,/Item/32050,Item,item,0
+32051,/i/029000/029198.png,Henodus Grandis,/Item/32051,Item,item,0
+32052,/i/028000/028488.png,Sunken Tome,/Item/32052,Item,item,0
+32053,/i/028000/028489.png,Pearl Pipira,/Item/32053,Item,item,0
+32054,/i/029000/029199.png,The Ondotaker,/Item/32054,Item,item,0
+32055,/i/029000/029110.png,Tortoiseshell Crab,/Item/32055,Item,item,0
+32056,/i/029000/029902.png,Lady's Cameo,/Item/32056,Item,item,0
+32057,/i/029000/029118.png,Metallic Boxfish,/Item/32057,Item,item,0
+32058,/i/029000/029130.png,Goobbue Ray,/Item/32058,Item,item,0
+32059,/i/029000/029494.png,Watermoura,/Item/32059,Item,item,0
+32060,/i/029000/029710.png,King Cobrafish,/Item/32060,Item,item,0
+32061,/i/029000/029142.png,Mamahi-mahi,/Item/32061,Item,item,0
+32062,/i/029000/029038.png,Lavandin Remora,/Item/32062,Item,item,0
+32063,/i/028000/028027.png,Spectral Butterfly,/Item/32063,Item,item,0
+32064,/i/028000/028021.png,Cieldalaes Geode,/Item/32064,Item,item,0
+32065,/i/028000/028023.png,Titanshell Crab,/Item/32065,Item,item,0
+32066,/i/028000/028020.png,Mythril Boxfish,/Item/32066,Item,item,0
+32067,/i/029000/029079.png,Mistbeard's Cup,/Item/32067,Item,item,0
+32068,/i/029000/029658.png,Anomalocaris Saron,/Item/32068,Item,item,0
+32069,/i/028000/028024.png,Flaming Eel,/Item/32069,Item,item,0
+32070,/i/029000/029663.png,Jetborne Manta,/Item/32070,Item,item,0
+32071,/i/029000/029195.png,Devil's Sting,/Item/32071,Item,item,0
+32072,/i/028000/028475.png,Callichthyid,/Item/32072,Item,item,0
+32073,/i/028000/028017.png,Meandering Mora,/Item/32073,Item,item,0
+32075,/i/029000/029441.png,Thaliak Crab,/Item/32075,Item,item,0
+32076,/i/029000/029553.png,Star of the Destroyer,/Item/32076,Item,item,0
+32077,/i/029000/029135.png,True Scad,/Item/32077,Item,item,0
+32078,/i/029000/029174.png,Blooded Wrasse,/Item/32078,Item,item,0
+32079,/i/028000/028013.png,Bloodpolish Crab,/Item/32079,Item,item,0
+32080,/i/029000/029179.png,Blue Stitcher,/Item/32080,Item,item,0
+32081,/i/029000/029018.png,Bloodfresh Tuna,/Item/32081,Item,item,0
+32082,/i/028000/028016.png,Sunken Mask,/Item/32082,Item,item,0
+32083,/i/028000/028028.png,Spectral Eel,/Item/32083,Item,item,0
+32084,/i/029000/029746.png,Bareface,/Item/32084,Item,item,0
+32085,/i/028000/028025.png,Oracular Crab,/Item/32085,Item,item,0
+32086,/i/029000/029080.png,Dravanian Bream,/Item/32086,Item,item,0
+32087,/i/028000/028022.png,Skaldminni,/Item/32087,Item,item,0
+32088,/i/029000/029817.png,Serrated Clam,/Item/32088,Item,item,0
+32089,/i/029000/029098.png,Beatific Vision,/Item/32089,Item,item,0
+32090,/i/029000/029347.png,Exterminator,/Item/32090,Item,item,0
+32091,/i/029000/029083.png,Gory Tuna,/Item/32091,Item,item,0
+32092,/i/029000/029091.png,Ticinepomis,/Item/32092,Item,item,0
+32093,/i/028000/028026.png,Quartz Hammerhead,/Item/32093,Item,item,0
+32095,/i/029000/029504.png,Crow Puffer,/Item/32095,Item,item,0
+32096,/i/029000/029063.png,Rothlyt Kelp,/Item/32096,Item,item,0
+32097,/i/029000/029170.png,Living Lantern,/Item/32097,Item,item,0
+32098,/i/029000/029582.png,Honeycomb Fish,/Item/32098,Item,item,0
+32099,/i/029000/029047.png,Godsbed,/Item/32099,Item,item,0
+32100,/i/029000/029114.png,Lansquenet,/Item/32100,Item,item,0
+32101,/i/029000/029122.png,Thavnairian Shark,/Item/32101,Item,item,0
+32102,/i/029000/029257.png,Nephrite Eel,/Item/32102,Item,item,0
+32103,/i/028000/028029.png,Spectresaur,/Item/32103,Item,item,0
+32104,/i/028000/028490.png,Ginkgo Fin,/Item/32104,Item,item,0
+32105,/i/029000/029365.png,Garum Jug,/Item/32105,Item,item,0
+32106,/i/029000/029159.png,Smooth Jaguar,/Item/32106,Item,item,0
+32107,/i/028000/028019.png,Rothlyt Mussel,/Item/32107,Item,item,0
+32108,/i/029000/029355.png,Levi Elver,/Item/32108,Item,item,0
+32109,/i/029000/029087.png,Pearl Bombfish,/Item/32109,Item,item,0
+32110,/i/029000/029439.png,Trollfish,/Item/32110,Item,item,0
+32111,/i/029000/029340.png,Panoptes,/Item/32111,Item,item,0
+32112,/i/028000/028472.png,Crepe Sole,/Item/32112,Item,item,0
+32113,/i/028000/028018.png,Knifejaw,/Item/32113,Item,item,0
+33148,/i/025000/025010.png,Pot Marjoram,/Item/33148,Item,item,0
+33149,/i/025000/025036.png,Water Mint,/Item/33149,Item,item,0
+33150,/i/025000/025034.png,Wild Sage,/Item/33150,Item,item,0
+33239,/i/028000/028497.png,Listracanthus,/Item/33239,Item,item,0
+33240,/i/028000/028038.png,Aquamaton,/Item/33240,Item,item,0
+33241,/i/029000/029622.png,Cinder Surprise,/Item/33241,Item,item,0
+33242,/i/028000/028495.png,Ealad Skaan,/Item/33242,Item,item,0
+33243,/i/028000/028499.png,Greater Serpent of Ronka,/Item/33243,Item,item,0
+33244,/i/028000/028033.png,Lancetfish,/Item/33244,Item,item,0
+33316,/i/028000/028491.png,Aster Trivi,/Item/33316,Item,item,0
+33317,/i/028000/028494.png,Python Discus,/Item/33317,Item,item,0
+33318,/i/028000/028037.png,Steel Razor,/Item/33318,Item,item,0
+33319,/i/028000/028036.png,Shadeshifter,/Item/33319,Item,item,0
+33320,/i/029000/029623.png,Nabaath Saw,/Item/33320,Item,item,0
+33321,/i/028000/028493.png,Dammroen Herring,/Item/33321,Item,item,0
+33322,/i/028000/028498.png,Celestial,/Item/33322,Item,item,0
+33323,/i/028000/028496.png,Deephaunt,/Item/33323,Item,item,0
+33324,/i/028000/028492.png,Golden Pipira,/Item/33324,Item,item,0
+33325,/i/028000/028035.png,Mora Tecta,/Item/33325,Item,item,0
+33326,/i/028000/028034.png,Maru Crab,/Item/33326,Item,item,0
+36036,/i/024000/024037.png,Archon Loaf,/Item/36036,Item,item,0
+36037,/i/024000/024104.png,Zurek,/Item/36037,Item,item,0
+36038,/i/024000/024166.png,Amra Salad,/Item/36038,Item,item,0
+36039,/i/024000/024454.png,Amra Lassi,/Item/36039,Item,item,0
+36040,/i/024000/024351.png,Island Miq'abob,/Item/36040,Item,item,0
+36041,/i/024000/024329.png,King Crab Cake,/Item/36041,Item,item,0
+36042,/i/024000/024109.png,Ukha,/Item/36042,Item,item,0
+36043,/i/024000/024103.png,Borscht,/Item/36043,Item,item,0
+36044,/i/024000/024123.png,Wine-dark Soup,/Item/36044,Item,item,0
+36045,/i/024000/024106.png,Glory Be Soup,/Item/36045,Item,item,0
+36046,/i/024000/024405.png,Happiness Juice,/Item/36046,Item,item,0
+36047,/i/024000/024165.png,Carrot Nibbles,/Item/36047,Item,item,0
+36048,/i/024000/024040.png,Hamsa Curry,/Item/36048,Item,item,0
+36049,/i/024000/024162.png,Karniyarik,/Item/36049,Item,item,0
+36050,/i/024000/024262.png,Spicy Shakshouka,/Item/36050,Item,item,0
+36051,/i/024000/024035.png,Lentil Curry,/Item/36051,Item,item,0
+36052,/i/025000/025056.png,Skyr,/Item/36052,Item,item,0
+36053,/i/024000/024258.png,Giant Haddock Dip,/Item/36053,Item,item,0
+36054,/i/024000/024112.png,Yakow Moussaka,/Item/36054,Item,item,0
+36055,/i/024000/024038.png,Philosopher's Sandwich,/Item/36055,Item,item,0
+36056,/i/024000/024315.png,Salted Thavnairian Cod,/Item/36056,Item,item,0
+36057,/i/024000/024105.png,Coconut Cod Chowder,/Item/36057,Item,item,0
+36058,/i/024000/024019.png,The Noodles of Elpis,/Item/36058,Item,item,0
+36059,/i/024000/024072.png,Giant Popoto Pancakes,/Item/36059,Item,item,0
+36060,/i/024000/024417.png,Tsai tou Vounou,/Item/36060,Item,item,0
+36061,/i/024000/024051.png,Sideritis Cookie,/Item/36061,Item,item,0
+36062,/i/024000/024356.png,Elpis Deipnon,/Item/36062,Item,item,0
+36063,/i/024000/024116.png,Baked Alien Soup,/Item/36063,Item,item,0
+36064,/i/024000/024151.png,Sykon Salad,/Item/36064,Item,item,0
+36065,/i/024000/024076.png,Sykon Compote,/Item/36065,Item,item,0
+36066,/i/024000/024073.png,Sykon Bavarois,/Item/36066,Item,item,0
+36067,/i/024000/024039.png,Archon Burger,/Item/36067,Item,item,0
+36068,/i/024000/024369.png,Beef Stroganoff,/Item/36068,Item,item,0
+36069,/i/024000/024108.png,Pumpkin Ratatouille,/Item/36069,Item,item,0
+36070,/i/024000/024119.png,Pumpkin Potage,/Item/36070,Item,item,0
+36071,/i/024000/024409.png,Peach Juice,/Item/36071,Item,item,0
+36072,/i/024000/024095.png,Peach Tart,/Item/36072,Item,item,0
+36073,/i/024000/024094.png,Sykon Cookie,/Item/36073,Item,item,0
+36074,/i/024000/024410.png,Thavnairian Chai,/Item/36074,Item,item,0
+36075,/i/024000/024207.png,Scallop Salad,/Item/36075,Item,item,0
+36076,/i/024000/024041.png,Scallop Curry,/Item/36076,Item,item,0
+36077,/i/025000/025356.png,Dark Rye Flour,/Item/36077,Item,item,0
+36078,/i/025000/025104.png,Northern Sea Salt,/Item/36078,Item,item,0
+36079,/i/025000/025451.png,Perilla Oil,/Item/36079,Item,item,0
+36080,/i/025000/025103.png,Palm Sugar,/Item/36080,Item,item,0
+36081,/i/024000/024458.png,Garlean Cheese,/Item/36081,Item,item,0
+36082,/i/025000/025947.png,Coconut Milk,/Item/36082,Item,item,0
+36083,/i/025000/025359.png,Dark Rye,/Item/36083,Item,item,0
+36084,/i/022000/022688.png,Sharlayan Rock Salt,/Item/36084,Item,item,0
+36085,/i/025000/025036.png,Thavnairian Perilla Leaf,/Item/36085,Item,item,0
+36086,/i/022000/022642.png,Palm Syrup,/Item/36086,Item,item,0
+36087,/i/025000/025323.png,Coconut,/Item/36087,Item,item,0
+36088,/i/025000/025219.png,Iceberg Lettuce,/Item/36088,Item,item,0
+36089,/i/025000/025221.png,Giant Popoto,/Item/36089,Item,item,0
+36090,/i/025000/025207.png,Carrot of Happiness,/Item/36090,Item,item,0
+36091,/i/025000/025212.png,Cucumber,/Item/36091,Item,item,0
+36092,/i/025000/025355.png,Eblan Lentils,/Item/36092,Item,item,0
+36093,/i/025000/025231.png,Beet,/Item/36093,Item,item,0
+36094,/i/025000/025020.png,Sideritis Leaves,/Item/36094,Item,item,0
+36095,/i/025000/025021.png,Elder Nutmeg Seeds,/Item/36095,Item,item,0
+36096,/i/025000/025318.png,Sykon,/Item/36096,Item,item,0
+36097,/i/025000/025203.png,Alien Onion,/Item/36097,Item,item,0
+36098,/i/025000/025018.png,Thavnairian Paprika,/Item/36098,Item,item,0
+36099,/i/025000/025152.png,Butterbeef,/Item/36099,Item,item,0
+36100,/i/025000/025210.png,Giant Pumpkin,/Item/36100,Item,item,0
+36101,/i/025000/025324.png,White Peach,/Item/36101,Item,item,0
+36102,/i/025000/025019.png,Subtle Cinnamon Sticks,/Item/36102,Item,item,0
+36103,/i/022000/022253.png,Glass Scallop,/Item/36103,Item,item,0
+36104,/i/020000/020710.png,Grade 5 Tincture of Strength,/Item/36104,Item,item,0
+36105,/i/020000/020709.png,Grade 5 Tincture of Dexterity,/Item/36105,Item,item,0
+36106,/i/020000/020707.png,Grade 5 Tincture of Vitality,/Item/36106,Item,item,0
+36107,/i/020000/020706.png,Grade 5 Tincture of Intelligence,/Item/36107,Item,item,0
+36108,/i/020000/020708.png,Grade 5 Tincture of Mind,/Item/36108,Item,item,0
+36109,/i/020000/020710.png,Grade 6 Tincture of Strength,/Item/36109,Item,item,0
+36110,/i/020000/020709.png,Grade 6 Tincture of Dexterity,/Item/36110,Item,item,0
+36111,/i/020000/020707.png,Grade 6 Tincture of Vitality,/Item/36111,Item,item,0
+36112,/i/020000/020706.png,Grade 6 Tincture of Intelligence,/Item/36112,Item,item,0
+36113,/i/020000/020708.png,Grade 6 Tincture of Mind,/Item/36113,Item,item,0
+36114,/i/020000/020716.png,Competent Craftsman's Draught,/Item/36114,Item,item,0
+36115,/i/020000/020713.png,Commanding Craftsman's Draught,/Item/36115,Item,item,0
+36116,/i/020000/020712.png,Cunning Craftsman's Draught,/Item/36116,Item,item,0
+36214,/i/025000/025024.png,Potent Spice,/Item/36214,Item,item,0
+36253,/i/025000/025151.png,Hamsa Tenderloin,/Item/36253,Item,item,0
+36254,/i/025000/025159.png,Yakow Chuck,/Item/36254,Item,item,0
+36255,/i/024000/024453.png,Ovibos Milk,/Item/36255,Item,item,0
+36256,/i/025000/025251.png,Egg of Elpis,/Item/36256,Item,item,0
+36264,/i/025000/025325.png,Amra,/Item/36264,Item,item,0
+36385,/i/029000/029047.png,Pecten,/Item/36385,Item,item,0
+36386,/i/029000/029010.png,Northern Herring,/Item/36386,Item,item,0
+36387,/i/028000/028039.png,Dog-faced Puffer,/Item/36387,Item,item,0
+36388,/i/028000/028040.png,Cobalt Chromis,/Item/36388,Item,item,0
+36389,/i/028000/028041.png,Guitarfish,/Item/36389,Item,item,0
+36390,/i/029000/029208.png,Astacus,/Item/36390,Item,item,0
+36392,/i/028000/028401.png,Peacock Bass,/Item/36392,Item,item,0
+36393,/i/029000/029043.png,Academician,/Item/36393,Item,item,0
+36394,/i/028000/028402.png,Swordspine Snook,/Item/36394,Item,item,0
+36395,/i/028000/028403.png,Ponderer,/Item/36395,Item,item,0
+36396,/i/028000/028404.png,Tidal Dahlia,/Item/36396,Item,item,0
+36397,/i/029000/029401.png,Butterfly Fry,/Item/36397,Item,item,0
+36398,/i/029000/029407.png,Xenocypris,/Item/36398,Item,item,0
+36399,/i/028000/028405.png,Topminnow,/Item/36399,Item,item,0
+36400,/i/028000/028406.png,Tessera,/Item/36400,Item,item,0
+36402,/i/028000/028408.png,Fat Snook,/Item/36402,Item,item,0
+36403,/i/028000/028409.png,Prochilodus Luminosus,/Item/36403,Item,item,0
+36404,/i/028000/028410.png,Mesonauta,/Item/36404,Item,item,0
+36405,/i/028000/028411.png,Greengill Salmon,/Item/36405,Item,item,0
+36407,/i/028000/028412.png,Raiamas,/Item/36407,Item,item,0
+36408,/i/028000/028413.png,Red Bowfin,/Item/36408,Item,item,0
+36409,/i/028000/028414.png,Macrobrachium Lar,/Item/36409,Item,item,0
+36410,/i/028000/028415.png,Blowgun,/Item/36410,Item,item,0
+36411,/i/028000/028416.png,Darksteel Knifefish,/Item/36411,Item,item,0
+36412,/i/028000/028417.png,Astacus Aetherius,/Item/36412,Item,item,0
+36414,/i/028000/028418.png,Labyrinthos Tilapia,/Item/36414,Item,item,0
+36415,/i/029000/029613.png,Trunkblessed,/Item/36415,Item,item,0
+36417,/i/028000/028419.png,Seema Duta,/Item/36417,Item,item,0
+36418,/i/028000/028420.png,Longear Sunfish,/Item/36418,Item,item,0
+36419,/i/028000/028421.png,Silver Characin,/Item/36419,Item,item,0
+36420,/i/028000/028042.png,Thavnairian Goby,/Item/36420,Item,item,0
+36421,/i/029000/029014.png,Qeyiq Sole,/Item/36421,Item,item,0
+36422,/i/028000/028043.png,Gwl Crab,/Item/36422,Item,item,0
+36423,/i/028000/028044.png,Pantherscale Grouper,/Item/36423,Item,item,0
+36425,/i/028000/028045.png,Fate's Design,/Item/36425,Item,item,0
+36426,/i/028000/028046.png,Shadowdart Sardine,/Item/36426,Item,item,0
+36427,/i/028000/028047.png,Paksa Fish,/Item/36427,Item,item,0
+36430,/i/028000/028049.png,Golden Barramundi,/Item/36430,Item,item,0
+36431,/i/029000/029252.png,Kadjaya's Castaway,/Item/36431,Item,item,0
+36432,/i/028000/028422.png,Marid Frog,/Item/36432,Item,item,0
+36434,/i/028000/028423.png,Bluegill,/Item/36434,Item,item,0
+36435,/i/028000/028424.png,Bronze Pipira,/Item/36435,Item,item,0
+36436,/i/028000/028500.png,Green Swordtail,/Item/36436,Item,item,0
+36438,/i/028000/028501.png,Ksirapayin,/Item/36438,Item,item,0
+36439,/i/028000/028502.png,Wakeful Watcher,/Item/36439,Item,item,0
+36440,/i/028000/028503.png,Red Drum,/Item/36440,Item,item,0
+36441,/i/028000/028504.png,Forgeflame,/Item/36441,Item,item,0
+36442,/i/028000/028505.png,Bicuda,/Item/36442,Item,item,0
+36443,/i/028000/028506.png,Radzbalik,/Item/36443,Item,item,0
+36444,/i/028000/028507.png,Half-moon Betta,/Item/36444,Item,item,0
+36446,/i/028000/028508.png,Banana Eel,/Item/36446,Item,item,0
+36447,/i/028000/028509.png,Handy Hamsa,/Item/36447,Item,item,0
+36448,/i/028000/028510.png,Flowerhorn,/Item/36448,Item,item,0
+36449,/i/028000/028511.png,Thavnairian Caiman,/Item/36449,Item,item,0
+36450,/i/028000/028050.png,Fiery Goby,/Item/36450,Item,item,0
+36451,/i/029000/029582.png,Puff-paya,/Item/36451,Item,item,0
+36452,/i/029000/029023.png,Narunnairian Octopus,/Item/36452,Item,item,0
+36453,/i/028000/028051.png,Roosterfish,/Item/36453,Item,item,0
+36454,/i/028000/028052.png,Basilosaurus,/Item/36454,Item,item,0
+36456,/i/029000/029057.png,Eblan Trout,/Item/36456,Item,item,0
+36457,/i/028000/028512.png,Animulus,/Item/36457,Item,item,0
+36458,/i/028000/028513.png,Cerule Core,/Item/36458,Item,item,0
+36459,/i/028000/028514.png,Icepike,/Item/36459,Item,item,0
+36460,/i/028000/028515.png,Dark Crown,/Item/36460,Item,item,0
+36461,/i/028000/028516.png,Imperial Pleco,/Item/36461,Item,item,0
+36462,/i/028000/028517.png,Bluetail,/Item/36462,Item,item,0
+36463,/i/028000/028518.png,Star-blue Guppy,/Item/36463,Item,item,0
+36465,/i/028000/028519.png,Lunar Cichlid,/Item/36465,Item,item,0
+36466,/i/029000/029501.png,Teareye,/Item/36466,Item,item,0
+36467,/i/028000/028520.png,Replipirarucu,/Item/36467,Item,item,0
+36468,/i/029000/029315.png,Feverfish,/Item/36468,Item,item,0
+36470,/i/029000/029763.png,Calicia,/Item/36470,Item,item,0
+36471,/i/029000/029764.png,Protomyke #987,/Item/36471,Item,item,0
+36472,/i/029000/029765.png,Lunar Deathworm,/Item/36472,Item,item,0
+36473,/i/029000/029766.png,Fleeting Brand,/Item/36473,Item,item,0
+36475,/i/029000/029768.png,Regotoise,/Item/36475,Item,item,0
+36476,/i/029000/029306.png,Isle Skipper,/Item/36476,Item,item,0
+36477,/i/029000/029482.png,Iribainion,/Item/36477,Item,item,0
+36478,/i/028000/028521.png,Albino Loach,/Item/36478,Item,item,0
+36479,/i/028000/028522.png,Golden Shiner,/Item/36479,Item,item,0
+36480,/i/028000/028523.png,Mangar,/Item/36480,Item,item,0
+36481,/i/028000/028524.png,Dermogenys,/Item/36481,Item,item,0
+36484,/i/028000/028525.png,Antheia,/Item/36484,Item,item,0
+36485,/i/028000/028526.png,Colossoma,/Item/36485,Item,item,0
+36487,/i/029000/029711.png,Superstring,/Item/36487,Item,item,0
+36488,/i/029000/029096.png,Star Eater,/Item/36488,Item,item,0
+36489,/i/029000/029769.png,Vacuum Shrimp,/Item/36489,Item,item,0
+36491,/i/029000/029770.png,Cosmic Noise,/Item/36491,Item,item,0
+36492,/i/029000/029771.png,Glassfish,/Item/36492,Item,item,0
+36494,/i/029000/029772.png,Foun Myhk,/Item/36494,Item,item,0
+36495,/i/029000/029773.png,Dragonscale,/Item/36495,Item,item,0
+36496,/i/029000/029774.png,Ypupîara,/Item/36496,Item,item,0
+36497,/i/029000/029775.png,Eehs Forhnesh,/Item/36497,Item,item,0
+36499,/i/029000/029254.png,Katoptron,/Item/36499,Item,item,0
+36501,/i/028000/028528.png,Comet Tail,/Item/36501,Item,item,0
+36502,/i/028000/028529.png,Aoide,/Item/36502,Item,item,0
+36503,/i/028000/028530.png,Protoflesh,/Item/36503,Item,item,0
+36505,/i/028000/028531.png,Wandering Starscale,/Item/36505,Item,item,0
+36506,/i/028000/028951.png,Wormhole Worm,/Item/36506,Item,item,0
+36507,/i/029000/029031.png,Unidentified Flying Biomass II,/Item/36507,Item,item,0
+36508,/i/028000/028952.png,Triaina,/Item/36508,Item,item,0
+36509,/i/028000/028953.png,Sophos Deka-okto,/Item/36509,Item,item,0
+36510,/i/028000/028954.png,Class Twenty-four,/Item/36510,Item,item,0
+36511,/i/028000/028955.png,Terrifyingway,/Item/36511,Item,item,0
+36512,/i/028000/028956.png,Alien Mertone,/Item/36512,Item,item,0
+36513,/i/028000/028957.png,Monster Carrot,/Item/36513,Item,item,0
+36514,/i/028000/028958.png,Argonaut,/Item/36514,Item,item,0
+36515,/i/028000/028959.png,Echinos,/Item/36515,Item,item,0
+36516,/i/028000/028960.png,Space Bishop,/Item/36516,Item,item,0
+36517,/i/028000/028961.png,Alyketos,/Item/36517,Item,item,0
+36518,/i/028000/028962.png,Horizon Event,/Item/36518,Item,item,0
+36519,/i/028000/028963.png,E.B.E.-9318,/Item/36519,Item,item,0
+36520,/i/028000/028964.png,Unbegotten,/Item/36520,Item,item,0
+36521,/i/028000/028965.png,Phallaina ,/Item/36521,Item,item,0
+36522,/i/029000/029028.png,Thavnairian Cucumber,/Item/36522,Item,item,0
+36523,/i/028000/028053.png,Spiny King Crab,/Item/36523,Item,item,0
+36524,/i/029000/029045.png,Thavnairian Eel,/Item/36524,Item,item,0
+36525,/i/028000/028054.png,Gilled Topknot,/Item/36525,Item,item,0
+36526,/i/029000/029807.png,Purusa Fish,/Item/36526,Item,item,0
+36527,/i/028000/028055.png,Giantsgall Jaw,/Item/36527,Item,item,0
+36528,/i/029000/029004.png,Akyaali Sardine,/Item/36528,Item,item,0
+36529,/i/028000/028056.png,Spicy Pickle,/Item/36529,Item,item,0
+36530,/i/029000/029704.png,Mayavahana,/Item/36530,Item,item,0
+36531,/i/028000/028057.png,Hedonfish,/Item/36531,Item,item,0
+36532,/i/029000/029710.png,Satrap Trapfish,/Item/36532,Item,item,0
+36533,/i/028000/028058.png,Blue Marlin,/Item/36533,Item,item,0
+36534,/i/029000/029005.png,Satrap's Whisper,/Item/36534,Item,item,0
+36535,/i/028000/028066.png,Tebqeyiq Smelt,/Item/36535,Item,item,0
+36536,/i/029000/029012.png,Shallows Cod,/Item/36536,Item,item,0
+36537,/i/028000/028059.png,Meyhane Reveler,/Item/36537,Item,item,0
+36538,/i/029000/029018.png,Daemir's Alloy,/Item/36538,Item,item,0
+36539,/i/028000/028060.png,Rasa Fish,/Item/36539,Item,item,0
+36540,/i/029000/029013.png,Agama's Palm,/Item/36540,Item,item,0
+36541,/i/028000/028062.png,Rummy-nosed Tetra,/Item/36541,Item,item,0
+36542,/i/029000/029272.png,Monksblade,/Item/36542,Item,item,0
+36543,/i/028000/028063.png,Atamra Cichlid,/Item/36543,Item,item,0
+36544,/i/029000/029507.png,Root of Maya,/Item/36544,Item,item,0
+36545,/i/028000/028064.png,Floral Snakehead,/Item/36545,Item,item,0
+36546,/i/028000/028065.png,Xiphactinus,/Item/36546,Item,item,0
+36547,/i/028000/028061.png,Dusky Shark,/Item/36547,Item,item,0
+36548,/i/029000/029097.png,Coffer Shell,/Item/36548,Item,item,0
+36549,/i/028000/028067.png,Onihige,/Item/36549,Item,item,0
+36550,/i/029000/029604.png,Onokoro Carp,/Item/36550,Item,item,0
+36551,/i/028000/028068.png,Ruby-spotted Crab,/Item/36551,Item,item,0
+36552,/i/029000/029050.png,Marrow-eater,/Item/36552,Item,item,0
+36553,/i/028000/028069.png,Cloudy Cat Shark,/Item/36553,Item,item,0
+36554,/i/029000/029720.png,Red Gurnard,/Item/36554,Item,item,0
+36555,/i/028000/028070.png,Dream Pickle,/Item/36555,Item,item,0
+36556,/i/029000/029017.png,Ruby Haddock,/Item/36556,Item,item,0
+36557,/i/028000/028071.png,Crown Fish,/Item/36557,Item,item,0
+36558,/i/029000/029569.png,Sword of Isari,/Item/36558,Item,item,0
+36559,/i/028000/028072.png,Blue Shark,/Item/36559,Item,item,0
+36560,/i/029000/029858.png,Barb of Exile,/Item/36560,Item,item,0
+36561,/i/028000/028073.png,Smooth Lumpfish,/Item/36561,Item,item,0
+36562,/i/029000/029313.png,Hells' Cap,/Item/36562,Item,item,0
+36563,/i/028000/028074.png,Keeled Fugu,/Item/36563,Item,item,0
+36564,/i/029000/029025.png,Eastern Seerfish,/Item/36564,Item,item,0
+36565,/i/028000/028075.png,False Fusilier,/Item/36565,Item,item,0
+36566,/i/029000/029056.png,Skipping Stone,/Item/36566,Item,item,0
+36567,/i/028000/028076.png,Red-spotted Blenny,/Item/36567,Item,item,0
+36568,/i/028000/028086.png,Othardian Wrasse,/Item/36568,Item,item,0
+36569,/i/028000/028078.png,Grey Mullet,/Item/36569,Item,item,0
+36570,/i/029000/029651.png,Prayer Cushion,/Item/36570,Item,item,0
+36571,/i/028000/028077.png,Deepbody Boarfish,/Item/36571,Item,item,0
+36572,/i/029000/029171.png,Jointed Razorfish,/Item/36572,Item,item,0
+36573,/i/028000/028084.png,Pipefish,/Item/36573,Item,item,0
+36574,/i/029000/029036.png,Righteye Flounder,/Item/36574,Item,item,0
+36575,/i/028000/028080.png,Mini Yasha,/Item/36575,Item,item,0
+36576,/i/029000/029020.png,Sawshark,/Item/36576,Item,item,0
+36577,/i/028000/028081.png,Othardian Lumpsucker,/Item/36577,Item,item,0
+36578,/i/028000/028083.png,Shogun's Kabuto,/Item/36578,Item,item,0
+36579,/i/028000/028082.png,Bluefin Trevally,/Item/36579,Item,item,0
+36580,/i/028000/028085.png,Kitefin Shark,/Item/36580,Item,item,0
+36581,/i/028000/028079.png,Uzumaki,/Item/36581,Item,item,0
+36582,/i/029000/029928.png,Natron Puffer,/Item/36582,Item,item,0
+36583,/i/029000/029929.png,Diamond Dagger,/Item/36583,Item,item,0
+36584,/i/029000/029930.png,Queenly Fan,/Item/36584,Item,item,0
+36585,/i/029000/029931.png,Pale Panther,/Item/36585,Item,item,0
+36586,/i/029000/029932.png,Saltsquid,/Item/36586,Item,item,0
+36587,/i/029000/029933.png,Platinum Hammerhead,/Item/36587,Item,item,0
+36630,/i/025000/025151.png,Bird of Elpis Breast,/Item/36630,Item,item,0
+36679,/i/028000/028087.png,Aetherolectric Guitarfish,/Item/36679,Item,item,0
+36680,/i/028000/028532.png,Jumbo Snook,/Item/36680,Item,item,0
+36681,/i/028000/028533.png,Earful,/Item/36681,Item,item,0
+36682,/i/028000/028534.png,Hippo Frog,/Item/36682,Item,item,0
+36683,/i/028000/028535.png,Rimepike,/Item/36683,Item,item,0
+36684,/i/029000/029776.png,Foun Ahlm,/Item/36684,Item,item,0
+36685,/i/028000/028966.png,Forbiddingway,/Item/36685,Item,item,0
+36686,/i/029000/029027.png,Thavnairian Calamari,/Item/36686,Item,item,0
+37278,/i/025000/025352.png,Thavnairian Corn,/Item/37278,Item,item,0
+37282,/i/024000/024331.png,Calamari Ripieni,/Item/37282,Item,item,0
+37283,/i/024000/024330.png,Kalamarakia Tiganita,/Item/37283,Item,item,0
+37840,/i/020000/020710.png,Grade 7 Tincture of Strength,/Item/37840,Item,item,0
+37841,/i/020000/020709.png,Grade 7 Tincture of Dexterity,/Item/37841,Item,item,0
+37842,/i/020000/020707.png,Grade 7 Tincture of Vitality,/Item/37842,Item,item,0
+37843,/i/020000/020706.png,Grade 7 Tincture of Intelligence,/Item/37843,Item,item,0
+37844,/i/020000/020708.png,Grade 7 Tincture of Mind,/Item/37844,Item,item,0
+37845,/i/028000/028538.png,Greatsword Snook,/Item/37845,Item,item,0
+37846,/i/028000/028543.png,Swampsucker Bowfin,/Item/37846,Item,item,0
+37847,/i/028000/028088.png,Lale Crab,/Item/37847,Item,item,0
+37848,/i/028000/028537.png,Bigcuda,/Item/37848,Item,item,0
+37849,/i/028000/028539.png,Sovereign Shadow,/Item/37849,Item,item,0
+37850,/i/028000/028542.png,Disappirarucu,/Item/37850,Item,item,0
+37851,/i/028000/028540.png,Starscryer,/Item/37851,Item,item,0
+37852,/i/028000/028967.png,Argonauta argo,/Item/37852,Item,item,0
+37853,/i/028000/028541.png,Planetes,/Item/37853,Item,item,0
+38261,/i/024000/024083.png,Melon Pie,/Item/38261,Item,item,0
+38262,/i/024000/024418.png,Melon Juice,/Item/38262,Item,item,0
+38263,/i/024000/024165.png,Sunset Carrot Nibbles,/Item/38263,Item,item,0
+38264,/i/024000/024075.png,Carrot Pudding,/Item/38264,Item,item,0
+38265,/i/024000/024370.png,Gyros,/Item/38265,Item,item,0
+38266,/i/024000/024355.png,Loaghtan Rump Steak,/Item/38266,Item,item,0
+38267,/i/024000/024166.png,Piennolo Tomato Salad,/Item/38267,Item,item,0
+38268,/i/024000/024034.png,Garlean Pizza,/Item/38268,Item,item,0
+38269,/i/024000/024042.png,Urchin Pasta,/Item/38269,Item,item,0
+38270,/i/024000/024318.png,King Urchin Loaf,/Item/38270,Item,item,0
+38271,/i/025000/025326.png,Thundermelon,/Item/38271,Item,item,0
+38272,/i/025000/025207.png,Sunset Carrot,/Item/38272,Item,item,0
+38273,/i/025000/025159.png,Prime Loaghtan Rump,/Item/38273,Item,item,0
+38274,/i/025000/025209.png,Piennolo Tomato,/Item/38274,Item,item,0
+38275,/i/029000/029804.png,King Urchin,/Item/38275,Item,item,0
+38755,/i/025000/025306.png,Select Pixieberry,/Item/38755,Item,item,0
+38830,/i/028000/028549.png,Catastrophizer,/Item/38830,Item,item,0
+38831,/i/028000/028546.png,Mossgill Salmon,/Item/38831,Item,item,0
+38832,/i/028000/028089.png,Vidyutvat Wrasse,/Item/38832,Item,item,0
+38833,/i/028000/028547.png,Browned Banana Eel,/Item/38833,Item,item,0
+38834,/i/029000/029777.png,Frozen Regotoise,/Item/38834,Item,item,0
+38835,/i/029000/029778.png,Cosmic Haze,/Item/38835,Item,item,0
+38836,/i/028000/028545.png,Antheian Dahlia,/Item/38836,Item,item,0
+38837,/i/029000/029306.png,Lakeskipper,/Item/38837,Item,item,0
+38838,/i/029000/029205.png,Bronze Eel,/Item/38838,Item,item,0
+38839,/i/028000/028406.png,Striped Peacock Bass,/Item/38839,Item,item,0
+38840,/i/028000/028411.png,Bronze Trout,/Item/38840,Item,item,0
+38841,/i/028000/028548.png,Nosceasaur,/Item/38841,Item,item,0
+38929,/i/024000/024031.png,Jhinga Biryani,/Item/38929,Item,item,0
+38930,/i/024000/024333.png,Jhinga Curry,/Item/38930,Item,item,0
+38935,/i/029000/029145.png,Jhinga,/Item/38935,Item,item,0
+38939,/i/028000/028544.png,Verdigris Guppy,/Item/38939,Item,item,0
+38956,/i/020000/020605.png,Hyper-potion,/Item/38956,Item,item,0
+39727,/i/020000/020710.png,Grade 8 Tincture of Strength,/Item/39727,Item,item,0
+39728,/i/020000/020709.png,Grade 8 Tincture of Dexterity,/Item/39728,Item,item,0
+39729,/i/020000/020707.png,Grade 8 Tincture of Vitality,/Item/39729,Item,item,0
+39730,/i/020000/020706.png,Grade 8 Tincture of Intelligence,/Item/39730,Item,item,0
+39731,/i/020000/020708.png,Grade 8 Tincture of Mind,/Item/39731,Item,item,0
+39772,/i/025000/025060.png,Select Squid Ink,/Item/39772,Item,item,0
+39864,/i/025000/025327.png,Dragonfruit,/Item/39864,Item,item,0
+39865,/i/025000/025205.png,Dark Eggplant,/Item/39865,Item,item,0
+39866,/i/025000/025356.png,Pure Cumin,/Item/39866,Item,item,0
+39867,/i/029000/029225.png,Caviar Sturgeon,/Item/39867,Item,item,0
+39868,/i/025000/025235.png,Broccoflower,/Item/39868,Item,item,0
+39869,/i/024000/024098.png,Honeyed Dragonfruit,/Item/39869,Item,item,0
+39870,/i/024000/024409.png,Dragonfruit Blend,/Item/39870,Item,item,0
+39871,/i/024000/024457.png,Baba Ghanoush,/Item/39871,Item,item,0
+39872,/i/024000/024162.png,Baked Eggplant,/Item/39872,Item,item,0
+39873,/i/024000/024103.png,Spicy Stellar Soup,/Item/39873,Item,item,0
+39874,/i/024000/024358.png,Tandoori Raptor,/Item/39874,Item,item,0
+39875,/i/024000/024009.png,Caviar Sandwich,/Item/39875,Item,item,0
+39876,/i/024000/024097.png,Caviar Canapes,/Item/39876,Item,item,0
+39877,/i/024000/024170.png,Marinated Broccoflower,/Item/39877,Item,item,0
+39878,/i/024000/024109.png,Broccoflower Stew,/Item/39878,Item,item,0
+39879,/i/028000/028551.png,Onyx Knifefish,/Item/39879,Item,item,0
+39880,/i/028000/028552.png,Wakeful Warden,/Item/39880,Item,item,0
+39881,/i/028000/028103.png,Basilosaurus Rex,/Item/39881,Item,item,0
+39882,/i/029000/029779.png,Eehs Fan,/Item/39882,Item,item,0
+39883,/i/028000/028554.png,Gilt Dermogenys,/Item/39883,Item,item,0
+40521,/i/029000/029186.png,Pink Shrimp,/Item/40521,Item,item,0
+40522,/i/029000/029196.png,Sirensong Mussel,/Item/40522,Item,item,0
+40523,/i/029000/029177.png,Arrowhead,/Item/40523,Item,item,0
+40524,/i/028000/028046.png,Deepshade Sardine,/Item/40524,Item,item,0
+40525,/i/028000/028078.png,Sirensong Mullet,/Item/40525,Item,item,0
+40526,/i/028000/028039.png,Selkie Puffer,/Item/40526,Item,item,0
+40527,/i/028000/028067.png,Poet's Pipe,/Item/40527,Item,item,0
+40528,/i/029000/029182.png,Marine Matanga,/Item/40528,Item,item,0
+40529,/i/028000/028109.png,Spectral Coelacanth,/Item/40529,Item,item,0
+40530,/i/028000/028098.png,Dusk Shark,/Item/40530,Item,item,0
+40531,/i/028000/028107.png,Mermaid Scale,/Item/40531,Item,item,0
+40532,/i/028000/028096.png,Broadhead,/Item/40532,Item,item,0
+40533,/i/028000/028104.png,Vivid Pink Shrimp,/Item/40533,Item,item,0
+40534,/i/028000/028106.png,Sunken Coelacanth,/Item/40534,Item,item,0
+40535,/i/029000/029197.png,Siren's Sigh,/Item/40535,Item,item,0
+40536,/i/028000/028105.png,Black-jawed Helicoprion,/Item/40536,Item,item,0
+40537,/i/028000/028036.png,Impostopus,/Item/40537,Item,item,0
+40538,/i/028000/028015.png,Jade Mantis Shrimp,/Item/40538,Item,item,0
+40539,/i/029000/029198.png,Nymeia's Wheel,/Item/40539,Item,item,0
+40541,/i/029000/029010.png,Ruby Herring,/Item/40541,Item,item,0
+40542,/i/029000/029112.png,Whirlpool Turban,/Item/40542,Item,item,0
+40543,/i/029000/029145.png,Leopard Prawn,/Item/40543,Item,item,0
+40544,/i/029000/029932.png,Spear Squid,/Item/40544,Item,item,0
+40545,/i/029000/029170.png,Floating Lantern,/Item/40545,Item,item,0
+40546,/i/029000/029040.png,Rubescent Tatsunoko,/Item/40546,Item,item,0
+40547,/i/028000/028050.png,Hatatate,/Item/40547,Item,item,0
+40548,/i/028000/028072.png,Silent Shark,/Item/40548,Item,item,0
+40549,/i/028000/028110.png,Spectral Wrasse,/Item/40549,Item,item,0
+40550,/i/028000/028099.png,Mizuhiki,/Item/40550,Item,item,0
+40551,/i/028000/028102.png,Snapping Koban,/Item/40551,Item,item,0
+40552,/i/028000/028095.png,Silkweft Prawn,/Item/40552,Item,item,0
+40553,/i/028000/028094.png,Stingfin Trevally,/Item/40553,Item,item,0
+40554,/i/029000/029934.png,Swordtip Squid,/Item/40554,Item,item,0
+40555,/i/028000/028037.png,Mailfish,/Item/40555,Item,item,0
+40556,/i/029000/029071.png,Idaten's Bolt,/Item/40556,Item,item,0
+40557,/i/028000/028097.png,Maelstrom Turban,/Item/40557,Item,item,0
+40558,/i/029000/029158.png,Shoshitsuki,/Item/40558,Item,item,0
+40559,/i/028000/028087.png,Spadefish,/Item/40559,Item,item,0
+40561,/i/029000/029169.png,Crimson Kelp,/Item/40561,Item,item,0
+40562,/i/029000/029132.png,Reef Squid,/Item/40562,Item,item,0
+40563,/i/029000/029052.png,Pinebark Flounder,/Item/40563,Item,item,0
+40564,/i/029000/029143.png,Mantle Moray,/Item/40564,Item,item,0
+40565,/i/028000/028042.png,Shisui Goby,/Item/40565,Item,item,0
+40566,/i/029000/029120.png,Sanbaso,/Item/40566,Item,item,0
+40567,/i/029000/029138.png,Barded Lobster,/Item/40567,Item,item,0
+40568,/i/029000/029904.png,Violet Sentry,/Item/40568,Item,item,0
+40569,/i/028000/028111.png,Spectral Snake Eel,/Item/40569,Item,item,0
+40570,/i/028000/028093.png,Heavensent Shark,/Item/40570,Item,item,0
+40571,/i/028000/028091.png,Fleeting Squid,/Item/40571,Item,item,0
+40572,/i/028000/028108.png,Bowbarb Lobster,/Item/40572,Item,item,0
+40573,/i/028000/028101.png,Pitch Pickle,/Item/40573,Item,item,0
+40574,/i/028000/028014.png,Senbei Octopus,/Item/40574,Item,item,0
+40575,/i/029000/029163.png,Tentacle Thresher,/Item/40575,Item,item,0
+40576,/i/028000/028092.png,Bekko Rockhugger,/Item/40576,Item,item,0
+40577,/i/029000/029068.png,Yellow Iris,/Item/40577,Item,item,0
+40578,/i/029000/029199.png,Crimson Sentry,/Item/40578,Item,item,0
+40579,/i/028000/028100.png,Flying Squid,/Item/40579,Item,item,0
+40581,/i/029000/029286.png,Catching Carp,/Item/40581,Item,item,0
+40582,/i/028000/028423.png,Garlean Bluegill,/Item/40582,Item,item,0
+40583,/i/028000/028536.png,Yanxian Softshell,/Item/40583,Item,item,0
+40584,/i/029000/029285.png,Princess Salmon,/Item/40584,Item,item,0
+40585,/i/029000/029267.png,Calligraph,/Item/40585,Item,item,0
+40586,/i/028000/028557.png,Singular Shrimp,/Item/40586,Item,item,0
+40587,/i/029000/029283.png,Brocade Carp,/Item/40587,Item,item,0
+40588,/i/029000/029287.png,Yanxian Sturgeon,/Item/40588,Item,item,0
+40589,/i/028000/028112.png,Spectral Kotsu Zetsu,/Item/40589,Item,item,0
+40590,/i/028000/028556.png,Fishy Shark,/Item/40590,Item,item,0
+40591,/i/028000/028558.png,Gensui Shrimp,/Item/40591,Item,item,0
+40592,/i/028000/028555.png,Yato-no-kami,/Item/40592,Item,item,0
+40593,/i/028000/028553.png,Heron's Eel,/Item/40593,Item,item,0
+40594,/i/028000/028550.png,Crowshadow Mussel,/Item/40594,Item,item,0
+40595,/i/029000/029530.png,Yanxian Goby,/Item/40595,Item,item,0
+40596,/i/029000/029535.png,Iridescent Trout,/Item/40596,Item,item,0
+40597,/i/029000/029533.png,Un-Namazu,/Item/40597,Item,item,0
+40598,/i/029000/029345.png,Gakugyo,/Item/40598,Item,item,0
+40599,/i/029000/029332.png,Ginrin Goshiki,/Item/40599,Item,item,0
+41253,/i/028000/028013.png,Select Blue Crab,/Item/41253,Item,item,0
+41401,/i/028000/028560.png,Circuit Tilapia,/Item/41401,Item,item,0
+41402,/i/028000/028106.png,Durdina Fish,/Item/41402,Item,item,0
+41403,/i/028000/028561.png,Mayaman,/Item/41403,Item,item,0
+41404,/i/029000/029781.png,Chlorophos Deathworm,/Item/41404,Item,item,0
+41405,/i/028000/028565.png,Starscale Ephemeris,/Item/41405,Item,item,0
+41406,/i/028000/028968.png,E.B.E.-852738,/Item/41406,Item,item,0
+41407,/i/028000/028563.png,Hyphalosaurus,/Item/41407,Item,item,0
+41408,/i/028000/028116.png,Gharlichthys,/Item/41408,Item,item,0
+41409,/i/028000/028562.png,Snowy Parexus,/Item/41409,Item,item,0
+41410,/i/028000/028564.png,Furcacauda,/Item/41410,Item,item,0
+41411,/i/029000/029780.png,Lopoceras Elegans,/Item/41411,Item,item,0
+41412,/i/028000/028969.png,Sidereal Whale,/Item/41412,Item,item,0
