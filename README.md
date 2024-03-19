@@ -13,6 +13,9 @@ The 1st step in this project was to find some public APIs to get the market boar
 - universalis = market data per itemID per worldID
 - XIVAPI = Item and World names by ID
 
+After further research into the xivapi i found another repository which is a python client for XIVAPI called pyxivapi (<https://github.com/xivapi/xivapi-py>)
+
+
 ### (your step 2)
 
 ## Results
